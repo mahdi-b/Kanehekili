@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Hospitals" id="Hospitals">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="licensed_beds" type="int"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+	<SimpleField name="mailing_address" type="string"></SimpleField>
+	<SimpleField name="physical_address" type="string"></SimpleField>
+	<SimpleField name="phone" type="string"></SimpleField>
+	<SimpleField name="alt_phone" type="string"></SimpleField>
+	<SimpleField name="fax" type="string"></SimpleField>
+	<SimpleField name="poc" type="string"></SimpleField>
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="accred_status" type="string"></SimpleField>
+	<SimpleField name="cert_status" type="string"></SimpleField>
+	<SimpleField name="critical_access_hosp" type="string"></SimpleField>
+	<SimpleField name="provider_num" type="int"></SimpleField>
+</Schema>
+<Folder><name>Hospitals</name>
+  <Placemark>
+	<name>ADVENTIST HEALTH CASTLE</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="licensed_beds">160</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">640 Ulukahiki Street, Kailua, Hawaii 96734</SimpleData>
+		<SimpleData name="physical_address">640 Ulukahiki Street, Kailua, Hawaii 96734</SimpleData>
+		<SimpleData name="phone">(808) 263-5500</SimpleData>
+		<SimpleData name="fax">(808) 263-5123</SimpleData>
+		<SimpleData name="poc">Kathy Raethel, President/CEO</SimpleData>
+		<SimpleData name="website">https://www.adventisthealth.org/castle/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.757103615915,21.3814063603867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALE HO’OLA HAMAKUA</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="licensed_beds">11</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">45-547 Plumeria Street, Honokaa, Hawaii 96727</SimpleData>
+		<SimpleData name="physical_address">45-547 Plumeria Street, Honokaa, Hawaii 96727</SimpleData>
+		<SimpleData name="phone">(808) 932-4100</SimpleData>
+		<SimpleData name="fax">(808) 775-9977</SimpleData>
+		<SimpleData name="poc">David A. Culbreth, Administrator</SimpleData>
+		<SimpleData name="website">https://www.halehoolahamakua.org/</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="critical_access_hosp">X</SimpleData>
+		<SimpleData name="provider_num">121307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.470496262671,20.0763939839396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HAWAII STATE HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="licensed_beds">202</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">45-710 Keaahala Road, Kaneohe, Hawaii  96744</SimpleData>
+		<SimpleData name="physical_address">45-710 Keaahala Road, Kaneohe, Hawaii  96744</SimpleData>
+		<SimpleData name="phone">(808) 247-2191</SimpleData>
+		<SimpleData name="fax">(808) 247-7335</SimpleData>
+		<SimpleData name="poc">Run F. Heidelberg, DNP, APRN-RX, Administrator</SimpleData>
+		<SimpleData name="website">https://health.hawaii.gov/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.810021385891,21.4094912912562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HILO MEDICAL CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="licensed_beds">166</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">1190 Waianuenue Avenue, Hilo, Hawaii  96720</SimpleData>
+		<SimpleData name="physical_address">1190 Waianuenue Avenue, Hilo, Hawaii  96720</SimpleData>
+		<SimpleData name="phone">(808) 932-3000</SimpleData>
+		<SimpleData name="fax">(808) 974-4746</SimpleData>
+		<SimpleData name="poc">Dan Brinkman, Regional CEO</SimpleData>
+		<SimpleData name="website">https://www.hilomedicalcenter.org/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.112982850348,19.7175281023897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAHI MOHALA</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="licensed_beds">88</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">91-2301 Fort Weaver Road, Ewa Beach, Hawaii  96706</SimpleData>
+		<SimpleData name="physical_address">91-2301 Fort Weaver Road, Ewa Beach, Hawaii  96706</SimpleData>
+		<SimpleData name="phone">(808) 671-8511</SimpleData>
+		<SimpleData name="fax">(808) 677-2570</SimpleData>
+		<SimpleData name="poc">Claudia Crist, CEO</SimpleData>
+		<SimpleData name="website">https://www.sutterhealth.org/kahi</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">124001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.026048705401,21.3718078306727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAHUKU MEDICAL CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="licensed_beds">21</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">56-117 Pualalea Street, Kahuku, Hawaii 96731</SimpleData>
+		<SimpleData name="physical_address">56-117 Pualalea Street, Kahuku, Hawaii 96731</SimpleData>
+		<SimpleData name="phone">(808) 293-9221</SimpleData>
+		<SimpleData name="fax">(808) 293-2262</SimpleData>
+		<SimpleData name="poc">Alan MacPhee, CEO</SimpleData>
+		<SimpleData name="website">http://www.kmc-hi.org/</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="critical_access_hosp">X</SimpleData>
+		<SimpleData name="provider_num">121304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.952220734749,21.6773388592919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAISER FOUNDATION HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="licensed_beds">295</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">3288 Moanalua Road, Honolulu, Hawaii  96819</SimpleData>
+		<SimpleData name="physical_address">3288 Moanalua Road, Honolulu, Hawaii  96819</SimpleData>
+		<SimpleData name="phone">(808) 432-0000</SimpleData>
+		<SimpleData name="fax">(808) 432-7736</SimpleData>
+		<SimpleData name="poc">Sam Balukoff, Hospital Administrator</SimpleData>
+		<SimpleData name="website">https://healthy.kaiserpermanente.org/hawaii/facilities/kaiser-permanente-moanalua-medical-center-100434</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.900400148833,21.3625714701118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAPIOLANI MEDICAL CENTER for WOMEN and CHILDREN</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="licensed_beds">253</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1319 Punahou Street, Honolulu, Hawaii 96826</SimpleData>
+		<SimpleData name="physical_address">1319 Punahou Street, Honolulu, Hawaii 96826</SimpleData>
+		<SimpleData name="phone">(808) 983-6000</SimpleData>
+		<SimpleData name="fax">(808) 983-6086</SimpleData>
+		<SimpleData name="poc">David Underriner, Executive Vice President and CEO</SimpleData>
+		<SimpleData name="website">https://www.hawaiipacifichealth.org/kapiolani/locations/kapiolani-medical-center/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">123300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.834295283931,21.3002643493044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAU HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="licensed_beds">21</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 40, Pahala, Hawaii 96777</SimpleData>
+		<SimpleData name="physical_address">1 Kamani Street, Pahala, Hawaii 96777</SimpleData>
+		<SimpleData name="phone">(808) 932-4200</SimpleData>
+		<SimpleData name="fax">(808) 928-8980</SimpleData>
+		<SimpleData name="poc">Denise Mackey, Administrator</SimpleData>
+		<SimpleData name="website">http://kauai.hhsc.org/</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="critical_access_hosp">X</SimpleData>
+		<SimpleData name="provider_num">121301</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.47200389435,19.2629167094653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAUAI VETERANS MEMORIAL HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="licensed_beds">25</SimpleData>
+		<SimpleData name="island">KAUAI</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 337, Waimea, Hawaii 96796</SimpleData>
+		<SimpleData name="physical_address">4643 Waimea Canyon Road, Waimea, Hawaii 96796</SimpleData>
+		<SimpleData name="phone">(808) 338-9431</SimpleData>
+		<SimpleData name="fax">(808) 338-9420</SimpleData>
+		<SimpleData name="poc">Lance Segawa, Regional Chief Executive Officer</SimpleData>
+		<SimpleData name="website">http://kauai.hhsc.org/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="critical_access_hosp">X</SimpleData>
+		<SimpleData name="provider_num">121300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.665606910499,21.954635402809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KOHALA HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="licensed_beds">6</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 10, Kapaau, Hawaii 96755</SimpleData>
+		<SimpleData name="physical_address">54-383 Hospital Road, Kapaau, Hawaii 96755</SimpleData>
+		<SimpleData name="phone">(808) 889-6211</SimpleData>
+		<SimpleData name="fax">(808) 889-6978</SimpleData>
+		<SimpleData name="poc">Eugene (Gino) Amar, Administrator</SimpleData>
+		<SimpleData name="website">https://kohala.hhsc.org/</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="critical_access_hosp">X</SimpleData>
+		<SimpleData name="provider_num">121302</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.812759874187,20.234701168159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KONA COMMUNITY HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">12</SimpleData>
+		<SimpleData name="licensed_beds">94</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">79-1019 Haukapila Street, Kealakekua, Hawaii 96750</SimpleData>
+		<SimpleData name="physical_address">79-1019 Haukapila Street, Kealakekua, Hawaii 96750</SimpleData>
+		<SimpleData name="phone">(808) 322-9311</SimpleData>
+		<SimpleData name="fax">(808) 322-4479</SimpleData>
+		<SimpleData name="poc">Jay E. Kreuzer, Regional Chief Executive Officer</SimpleData>
+		<SimpleData name="website">https://kch.hhsc.org/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.918671494146,19.5203117425442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KUAKINI MEDICAL CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">13</SimpleData>
+		<SimpleData name="licensed_beds">212</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">347 North Kuakini Street, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="physical_address">347 North Kuakini Street, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="phone">(808) 536-2236</SimpleData>
+		<SimpleData name="fax">(808) 547-9547</SimpleData>
+		<SimpleData name="poc">Gregg Oishi, Acting Administrator</SimpleData>
+		<SimpleData name="website">https://www.kuakini.org/wps/portal/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.856380285519,21.3223715010624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KULA HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">14</SimpleData>
+		<SimpleData name="licensed_beds">9</SimpleData>
+		<SimpleData name="island">MAUI</SimpleData>
+		<SimpleData name="mailing_address">100 Keokea Place, Kula, Hawaii 96790-7450</SimpleData>
+		<SimpleData name="physical_address">100 Keokea Place, Kula, Hawaii 96790-7450</SimpleData>
+		<SimpleData name="phone">(808) 878-1221</SimpleData>
+		<SimpleData name="fax">(808) 878-1791</SimpleData>
+		<SimpleData name="poc">Kerry D. Pitcher, Senior Director of LTC &amp; CAH</SimpleData>
+		<SimpleData name="website">https://www.mauihealth.org/locations/kula-hospital/</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="critical_access_hosp">X</SimpleData>
+		<SimpleData name="provider_num">121308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.358542480862,20.7022315149637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LANAI COMMUNITY HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">15</SimpleData>
+		<SimpleData name="licensed_beds">4</SimpleData>
+		<SimpleData name="island">LANAI</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 630650, Lanai City, Hawaii 96763</SimpleData>
+		<SimpleData name="physical_address">628 7th Street, Lanai City, Hawaii 96763</SimpleData>
+		<SimpleData name="phone">(808) 565-8450</SimpleData>
+		<SimpleData name="fax">(808) 565-6887</SimpleData>
+		<SimpleData name="poc">Kerry D. Pitcher, Senior Director of LTC &amp; CAH</SimpleData>
+		<SimpleData name="website">https://www.mauihealth.org/locations/lanai-community-hospital/</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="critical_access_hosp">X</SimpleData>
+		<SimpleData name="provider_num">121305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.919989762867,20.8267910365883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LEAHI HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">16</SimpleData>
+		<SimpleData name="licensed_beds">4</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">3675 Kilauea Avenue, Honolulu, Hawaii 96816</SimpleData>
+		<SimpleData name="physical_address">3675 Kilauea Avenue, Honolulu, Hawaii 96816</SimpleData>
+		<SimpleData name="phone">(808) 733-8000</SimpleData>
+		<SimpleData name="fax">(808) 733-7914</SimpleData>
+		<SimpleData name="poc">Derek Akiyoshi, CEO</SimpleData>
+		<SimpleData name="website">https://leahi.hhsc.org/</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">122001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.801401604156,21.2737158296642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAUI MEMORIAL MEDICAL CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">17</SimpleData>
+		<SimpleData name="licensed_beds">219</SimpleData>
+		<SimpleData name="island">MAUI</SimpleData>
+		<SimpleData name="mailing_address">221 Mahalani Street, Wailuku, Hawaii 96793</SimpleData>
+		<SimpleData name="physical_address">221 Mahalani Street, Wailuku, Hawaii 96793</SimpleData>
+		<SimpleData name="phone">(808) 244-9056</SimpleData>
+		<SimpleData name="fax">(808) 242-2443</SimpleData>
+		<SimpleData name="poc">Michael Rembis, Administrator and CEO</SimpleData>
+		<SimpleData name="website">https://www.mauihealth.org/locations/maui-memorial-medical-center/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.488676829172,20.8841431091073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MOLOKAI GENERAL HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">18</SimpleData>
+		<SimpleData name="licensed_beds">15</SimpleData>
+		<SimpleData name="island">MOLOKAI</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 408, Kaunakakai, Hawaii 96748</SimpleData>
+		<SimpleData name="physical_address">280 Home Olu Place, Kaunakakai, Hawaii 96748</SimpleData>
+		<SimpleData name="phone">(808) 553-5331</SimpleData>
+		<SimpleData name="fax">(808) 553-3133</SimpleData>
+		<SimpleData name="poc">Janice Kalanihuia, President</SimpleData>
+		<SimpleData name="website">https://www.queens.org/molokai/molokai-general-hospital</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="critical_access_hosp">X</SimpleData>
+		<SimpleData name="provider_num">121303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.015514420878,21.0901506069796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>QUEEN’S NORTH HAWAII COMMUNITY HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">19</SimpleData>
+		<SimpleData name="licensed_beds">35</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 2799, Kamuela, Hawaii 96743</SimpleData>
+		<SimpleData name="physical_address">67-1125 Mamalahoa Highway, Kamuela, Hawaii 96743</SimpleData>
+		<SimpleData name="phone">(808) 885-4444</SimpleData>
+		<SimpleData name="fax">(808) 881-4404</SimpleData>
+		<SimpleData name="poc">Dr. Crystal Hammer, Administrator</SimpleData>
+		<SimpleData name="website">https://www.queens.org/north-hawaii/north-hawaii-community-hospital</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.67153378799,20.021927818173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PALI MOMI MEDICAL CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">20</SimpleData>
+		<SimpleData name="licensed_beds">118</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">98-1079 Moanalua Road, Aiea, Hawaii 96701</SimpleData>
+		<SimpleData name="physical_address">98-1079 Moanalua Road, Aiea, Hawaii 96701</SimpleData>
+		<SimpleData name="phone">(808) 486-6000</SimpleData>
+		<SimpleData name="fax">(808) 486-1382</SimpleData>
+		<SimpleData name="poc">David Unnderriner, Executive Vice President and CEO</SimpleData>
+		<SimpleData name="website">https://www.hawaiipacifichealth.org/pali-momi/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.938718118359,21.3834020390631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REHABILITATION HOSPITAL OF THE PACIFIC</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">21</SimpleData>
+		<SimpleData name="licensed_beds">82</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">226 North Kuakini Street, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="physical_address">226 North Kuakini Street, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="phone">(808) 531-3511</SimpleData>
+		<SimpleData name="fax">(808) 544-3336</SimpleData>
+		<SimpleData name="poc">Timothy J. Roe, MD, President and CEO</SimpleData>
+		<SimpleData name="website">https://www.rehabhospital.org/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">123025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.855097961483,21.3210694877889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAMUEL MAHELONA  MEMORIAL HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">22</SimpleData>
+		<SimpleData name="licensed_beds">14</SimpleData>
+		<SimpleData name="island">KAUAI</SimpleData>
+		<SimpleData name="mailing_address">4800 Kawaihau Road, Kapaa, Hawaii 96746</SimpleData>
+		<SimpleData name="physical_address">4800 Kawaihau Road, Kapaa, Hawaii 96746</SimpleData>
+		<SimpleData name="phone">(808) 822-4961</SimpleData>
+		<SimpleData name="fax">(808) 822-5781</SimpleData>
+		<SimpleData name="poc">Lance Segawa, Regional Chief Executive Officer</SimpleData>
+		<SimpleData name="website">http://kauai.hhsc.org/facilities/samuel-mahelona-memorial-hospital-smmh/</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="critical_access_hosp">X</SimpleData>
+		<SimpleData name="provider_num">121306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.314134354018,22.0877068621508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SHRINERS HOSPITAL FOR  CHILDREN</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">23</SimpleData>
+		<SimpleData name="licensed_beds">24</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1310 Punahou Street, Honolulu, Hawaii 96826</SimpleData>
+		<SimpleData name="physical_address">1310 Punahou Street, Honolulu, Hawaii 96826</SimpleData>
+		<SimpleData name="phone">(808) 941-4466</SimpleData>
+		<SimpleData name="fax">(808) 941-4466</SimpleData>
+		<SimpleData name="poc">Anton C. Smith, Hospital Administrator</SimpleData>
+		<SimpleData name="website">https://www.shrinershospitalsforchildren.org/shc</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">123301</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.834423269905,21.3001769741898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STRAUB CLINIC AND HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">24</SimpleData>
+		<SimpleData name="licensed_beds">159</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">888 South King Street, Honolulu, Hawaii 96813</SimpleData>
+		<SimpleData name="physical_address">888 South King Street, Honolulu, Hawaii 96813</SimpleData>
+		<SimpleData name="phone">(808) 522-4000</SimpleData>
+		<SimpleData name="fax">(808) 522-4141</SimpleData>
+		<SimpleData name="poc">David Underriner, Executive Vice President and CEO</SimpleData>
+		<SimpleData name="website">https://www.hawaiipacifichealth.org/straub/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.850739047554,21.3022469044675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE QUEEN’S MEDICAL CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">25</SimpleData>
+		<SimpleData name="licensed_beds">535</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1301 Punchbowl Street, Honolulu, Hawaii 96813</SimpleData>
+		<SimpleData name="physical_address">1301 Punchbowl Street, Honolulu, Hawaii 96813</SimpleData>
+		<SimpleData name="phone">(808) 538-9011</SimpleData>
+		<SimpleData name="fax">(808) 547-4018</SimpleData>
+		<SimpleData name="poc">Dr. Jill Hoggard Green, President and CEO</SimpleData>
+		<SimpleData name="website">https://www.queens.org/the-queens-medical-center/queens-medical-center</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.855211180524,21.3075411025131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE QUEEN’S MEDICAL CENTER – HALE PULAMA MAU</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">26</SimpleData>
+		<SimpleData name="licensed_beds">40</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">Kuakini Medical Center, 347 N. Kuakini Street, 7th Floor, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="physical_address">Kuakini Medical Center, 347 N. Kuakini Street, 7th Floor, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="phone">(808) 691-8731</SimpleData>
+		<SimpleData name="fax">(808) 547-4018</SimpleData>
+		<SimpleData name="poc">Jason C. Chang, Executive Vice President and COO</SimpleData>
+		<SimpleData name="website">https://www.queens.org/the-queens-medical-center/services/hale-pulama-mau/contact-us-hale-pulama-mau-qmc</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.86311477001,21.3270657307668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE QUEEN’S MEDICAL CENTER – WEST OAHU</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">27</SimpleData>
+		<SimpleData name="licensed_beds">104</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">91-2141 Fort Weaver Road, Ewa Beach, Hawaii 96706</SimpleData>
+		<SimpleData name="physical_address">91-2141 Fort Weaver Road, Ewa Beach, Hawaii 96706</SimpleData>
+		<SimpleData name="phone">(808) 691-3000</SimpleData>
+		<SimpleData name="fax">(808) 547-4018</SimpleData>
+		<SimpleData name="poc">Susan Murray, COO</SimpleData>
+		<SimpleData name="website">https://www.queens.org/west-oahu/queens-medical-center-west-oahu</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.026070745016,21.3711363117509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WAHIAWA GENERAL HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">28</SimpleData>
+		<SimpleData name="licensed_beds">42</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">128 Lehua Street, Wahiawa, Hawaii 96786</SimpleData>
+		<SimpleData name="physical_address">128 Lehua Street, Wahiawa, Hawaii 96786</SimpleData>
+		<SimpleData name="phone">(808) 621-8411</SimpleData>
+		<SimpleData name="fax">(808) 621-4490</SimpleData>
+		<SimpleData name="poc">Brian Cunningham, CEO</SimpleData>
+		<SimpleData name="website">https://wahiawageneral.org/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.027311989203,21.4987118535254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WILCOX MEMORIAL HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospitals">
+		<SimpleData name="objectid">29</SimpleData>
+		<SimpleData name="licensed_beds">72</SimpleData>
+		<SimpleData name="island">KAUAI</SimpleData>
+		<SimpleData name="mailing_address">3-3420 Kuhio Highway, Lihue, Hawaii 96766</SimpleData>
+		<SimpleData name="physical_address">3-3420 Kuhio Highway, Lihue, Hawaii 96766</SimpleData>
+		<SimpleData name="phone">(808) 245-1100</SimpleData>
+		<SimpleData name="fax">(808) 245-1171</SimpleData>
+		<SimpleData name="poc">Jen Chahanovich, President and CEO</SimpleData>
+		<SimpleData name="website">https://www.hawaiipacifichealth.org/wilcox/</SimpleData>
+		<SimpleData name="accred_status">TJC</SimpleData>
+		<SimpleData name="cert_status">X</SimpleData>
+		<SimpleData name="provider_num">120014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.366397774873,21.9855807398364</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
