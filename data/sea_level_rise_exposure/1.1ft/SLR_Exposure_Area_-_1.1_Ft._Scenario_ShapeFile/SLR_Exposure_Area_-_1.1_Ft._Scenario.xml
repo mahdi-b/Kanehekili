@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <origin/>
+                <origin/>
+                <origin/>
+                <pubdate>20171221</pubdate>
+                <title>slr_exposure_area_1_pt_1_ft</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Modeling, using the best available data and methods, was conducted to determine the potential future exposure of each of the main Hawaiian Islands to multiple coastal hazards as a result of sea level rise. Three chronic flooding hazards were modeled by the University of Hawaii Coastal Geology Group (CGG): a. passive flooding, b. annual high wave flooding, and c. coastal erosion (see descriptions of individual hazard layers for further details). The footprint of these three hazards were combined by Tetra Tech, Inc. to define the projected extent of chronic flooding due to sea level rise, called the sea level rise exposure area (SLR-XA). Flooding in the SLR-XA is associated with long-term, chronic hazards punctuated by annual or more frequent flooding events. Each of these hazards were modeled for four future sea level rise scenarios: 0.5 foot, 1.1 foot, 2.0 feet and 3.2 feet based on the upper end of the IPCC AR5 RCP8.5 sea level rise scenario. This particular layer depicts SLR-XA using the 1.1-ft (0.3224-m) sea level rise scenario. While the RCP8.5 predicts that this scenario would be reached by the year 2050, questions remain around the exact timing of sea level rise and recent observations and projections suggest a sooner arrival. Assumptions and Limitations: The assumptions and limitations described for the three chronic flooding hazards apply to the SLR-XA. Not all hazards were modeled for each island due to limited historical information and geospatial data. The SLR-XA for the islands of Hawaii, Molokai, and Lanai is based on modeling passive flooding only. Additional studies would be needed to add the annual high wave flooding and coastal erosion to the SLR-XA for those islands. The SLR-XA is an overlay of three hazards and does not account for interactive nature of these hazards as would be expected by natural processes. As with the individual exposure models, the SLR-XA maps hazard exposure on the present landscape. The modeling does not account for future (unknown) land use changes, including any adaptation measures. The SLR-XA also does not include impacts from less frequent high wave events (e.g., a 1-in-10 year event), storm surge, or tsunami. Data compiled by the Pacific Islands Ocean Observing System (PacIOOS) for the Hawaii Sea Level Rise Viewer hosted at https://pacioos.org/shoreline/slr-hawaii/. For further information, please see the Hawaii Sea Level Rise Vulnerability and Adaptation Report: https://climateadaptation.hawaii.gov/wp-content/uploads/2017/12/SLR-Report_Dec2017.pdf.</abstract>
+            <purpose>Estimated extent of chronic flooding due to multiple coastal hazards, modeled using a 1.1 foot sea level rise scenario.</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-159.788135633668</westbc>
+                <eastbc>-154.806624468948</eastbc>
+                <northbc>22.2324600041155</northbc>
+                <southbc>18.9102946263276</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>GCMD Science Keywords</themekt>
+                <themekey>Earth Science &gt; Oceans &gt; Ocean Waves &gt; Wave Runup</themekey>
+                <themekey>Earth Science &gt; Climate Indicators &gt; Atmospheric/Ocean Indicators &gt; Sea Level Rise &gt; Inundation</themekey>
+                <themekey>Earth Science &gt; Human Dimensions &gt; Environmental Impacts</themekey>
+                <themekey>Earth Science &gt; Oceans &gt; Coastal Processes &gt; Shoreline Displacement</themekey>
+                <themekey>Earth Science &gt; Oceans &gt; Coastal Processes &gt; Sea Level Rise</themekey>
+                <themekey>Earth Science &gt; Oceans &gt; Coastal Processes &gt; Shorelines</themekey>
+                <themekey>Earth Science &gt; Climate Indicators &gt; Atmospheric/Ocean Indicators &gt; Sea Level Rise &gt; Erosion</themekey>
+                <themekey>Earth Science &gt; Solid Earth &gt; Geomorphic Landforms/Processes &gt; Coastal Landforms &gt; Beaches</themekey>
+                <themekey>Earth Science &gt; Oceans &gt; Coastal Processes &gt; Beaches</themekey>
+                <themekey>Earth Science &gt; Oceans &gt; Coastal Processes &gt; Erosion</themekey>
+                <themekey>Earth Science &gt; Solid Earth &gt; Gemorphic Landforms/Processes &gt; Coastal Landforms &gt; Shorelines</themekey>
+                <themekey>Earth Science &gt; Human Dimensions &gt; Natural Hazards &gt; Floods</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>environment</themekey>
+                <themekey>oceans</themekey>
+            </theme>
+            <place>
+                <placekt>GCMD Location Keywords</placekt>
+                <placekey>Continent &gt; North America &gt; United States Of America &gt; Hawaii</placekey>
+                <placekey>Ocean &gt; Pacific Ocean &gt; Central Pacific Ocean &gt; Hawaiian Islands</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Use Limitation: Based on the methodology of sea level rise modeling used in the Hawaii Sea Level Rise Vulnerability and Adaptation Report (Report) and the Hawaii Sea Level Rise Viewer (Viewer), having gone through peer review and publication in the Nature Journal Scientific Reports, the results of this study are sufficiently validated to be appropriately used in land management decisions as the best available information as of the date of publication of the Report, December 2017, consistent with the intent of Act 83 SLH 2014 as amended. This Report is intended to provide a state-wide assessment of Hawaii's vulnerability to sea level rise. The location of projected impacts and economic costs from damages are estimates based on a particular sea level rise scenario. The hazard and vulnerability data and maps provided herein are based on observational data and computer-based models as described in the Report and in published research (Anderson et al., 2018). As with all models, it is important to understand the methods, assumptions, limitations, and uncertainties of the methods used. The risks associated with use or non-use of the results are assumed by the user.State of Hawaii Terms of Use. 
+
+
+
+The
+ contents of this web page are public domain and to the extent indicated
+ otherwise in the Terms of Use, are exempt from Terms of Use policy 
+restrictions.There are no expressed warranties associated with the 
+release of this data or product. Specifically, no warranty is made that 
+the GIS data or any subsequent updates will be error free and no 
+warranty is made regarding the positional or thematic accuracy of the 
+GIS data. The GIS data and any features depicted do not represent or 
+confer any legal rights, privileges, benefits, boundaries or claims of 
+any kind. The Office of Planning and Sustainable Development encourages users to report any 
+discrepancies or errors found.  Contact: Hawaii Statewide GIS Program, Office of Planning and Sustainable Development, State of Hawaii; PO Box 2359, Honolulu, Hi. 96804; (808) 587-2846; email: gis@hawaii.gov. Website: https://planning.hawaii.gov/gis.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Tetra Tech, Inc.</cntorg>
+                    <cntper>Catherine Courtney</cntper>
+                </cntorgp>
+                <cntvoice>Unknown</cntvoice>
+                <cntemail>kitty.courtney@tetratech.com</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <browse>
+            <browsen>http://pacioos.org/metadata/browse/hi_tt_all_slrxa_2050.png</browsen>
+            <browsed>Sample image.</browsed>
+            <browset>PNG</browset>
+        </browse>
+        <datacred>SOEST, UH CGG, PacIOOS, Tetra Tech, Inc.</datacred>
+        <native>Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.1.9270</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>6</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>slr_exposure_area_1_pt_1_ft</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Coordinates defining the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>ID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Area</attrlabl>
+                <attrdef>Area of feature in internal units squared.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Pacific Islands Ocean Observing System (PacIOOS)</cntorg>
+                </cntorgp>
+                <cntvoice>Unknown</cntvoice>
+                <cntemail>info@pacioos.org</cntemail>
+            </cntinfo>
+        </distrib>
+        <distliab>Unknown</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>GeoServer</formname>
+                    <formcont>This URL provides access to this dataset via GeoServer, which offers multiple output formats and an OpenLayers viewer.</formcont>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://geo.pacioos.hawaii.edu/geoserver/PACIOOS/hi_tt_all_slrxa_2050/ows?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://pacioos.org/shoreline/slr-hawaii/</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://climateadaptation.hawaii.gov/wp-content/uploads/2017/12/SLR-Report_Dec2017.pdf</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://geo.pacioos.hawaii.edu/geoserver/</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://geo.pacioos.hawaii.edu/geoserver/PACIOOS/gwc/service/wms?service=WMS&amp;version=1.1.1&amp;request=GetCapabilities&amp;tiled=true</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://geo.pacioos.hawaii.edu/geoexplorer/</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://geo.pacioos.hawaii.edu/geoserver/PACIOOS/hi_tt_all_slrxa_2050/ows?service=WFS&amp;version=1.0.0&amp;request=GetCapabilities</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                </digtopt>
+            </digform>
+            <fees>None specified</fees>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20190318</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Tetra Tech, Inc.</cntorg>
+                    <cntper>Catherine Courtney</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                </cntaddr>
+                <cntvoice>Unknown</cntvoice>
+                <cntemail>kitty.courtney@tetratech.com</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Assisted_Living_Facilities" id="Assisted_Living_Facilities">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="city" type="string"></SimpleField>
+	<SimpleField name="zipcode" type="int"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+	<SimpleField name="phone_num" type="float"></SimpleField>
+	<SimpleField name="license_exp" type="string"></SimpleField>
+	<SimpleField name="license_num" type="string"></SimpleField>
+</Schema>
+<Folder><name>Assisted_Living_Facilities</name>
+  <Placemark>
+	<name>15 Craigside</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="address">15 Craigside Place</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96817</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8085237000</SimpleData>
+		<SimpleData name="license_exp">2022/06/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">16-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.848742954927,21.3231160369162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arcadia Retirement Residence</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="address">1434 Punahou Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96822</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8089410941</SimpleData>
+		<SimpleData name="license_exp">2023/08/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">1-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.833432608366,21.3016968094431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawaii Kai Retirement Comm Phase I and II</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="address">428 Kawaihae Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96825</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8083959599</SimpleData>
+		<SimpleData name="license_exp">2022/04/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">12-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.71605573834,21.2925950227118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hi'olani Assisted Living Center at Kahala Nui</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="address">4389 Malia Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96821</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8082187000</SimpleData>
+		<SimpleData name="license_exp">2023/05/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">10-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.783141420235,21.2803932632935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ilima at Leihano</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="address">739 Leihano Street</SimpleData>
+		<SimpleData name="city">Kapolei</SimpleData>
+		<SimpleData name="zipcode">96707</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8086748022</SimpleData>
+		<SimpleData name="license_exp">2022/08/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">20-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.074612730832,21.3304924708592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalakaua Gardens</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="address">1723 Kalakaua Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96826</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8085182273</SimpleData>
+		<SimpleData name="license_exp">2022/09/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">21-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.836205230966,21.2914468394365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>One Kalakaua Senior Living</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="address">1314 Kalakaua Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96826</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8089834400</SimpleData>
+		<SimpleData name="license_exp">2023/04/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">4-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.836767896954,21.2990903001748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pohai Nani Good Samaritan</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="address">45-090 Namoku Street</SimpleData>
+		<SimpleData name="city">Kaneohe</SimpleData>
+		<SimpleData name="zipcode">96744</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8082476211</SimpleData>
+		<SimpleData name="license_exp">2023/05/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">7-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.784504039557,21.4015934391106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Regency at Puakea, L.L.C.</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="address">2130 Kaneka Street</SimpleData>
+		<SimpleData name="city">Lihue</SimpleData>
+		<SimpleData name="zipcode">96766</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+		<SimpleData name="phone_num">8082464449</SimpleData>
+		<SimpleData name="license_exp">2023/07/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">9-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.38739446768,21.9661133897243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Regency Hualalai</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="address">75-181 Hualalai Road</SimpleData>
+		<SimpleData name="city">Kailua-Kona</SimpleData>
+		<SimpleData name="zipcode">96740</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone_num">8083297878</SimpleData>
+		<SimpleData name="license_exp">2023/07/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">22-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.988221305978,19.6373681380415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roselani Place Assisted Living Facility</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="address">88 South Papa Avenue</SimpleData>
+		<SimpleData name="city">Kahului</SimpleData>
+		<SimpleData name="zipcode">96732</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="phone_num">8088717720</SimpleData>
+		<SimpleData name="license_exp">2023/10/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">6-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.484300685762,20.8869588051028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Plaza at Kaneohe</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">12</SimpleData>
+		<SimpleData name="address">46-068 Alaloa Street</SimpleData>
+		<SimpleData name="city">Kaneohe</SimpleData>
+		<SimpleData name="zipcode">96744</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8086287604</SimpleData>
+		<SimpleData name="license_exp">2023/07/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">23-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.807084680912,21.4189031503403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Plaza at Mililani</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">13</SimpleData>
+		<SimpleData name="address">95-1050 Ukuwai Street</SimpleData>
+		<SimpleData name="city">Mililani</SimpleData>
+		<SimpleData name="zipcode">96789</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8086268807</SimpleData>
+		<SimpleData name="license_exp">2023/04/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">14-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.00515601169,21.470102217786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Plaza at Moanalua</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">14</SimpleData>
+		<SimpleData name="address">1280 Moanalualani Place</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96818</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8088338880</SimpleData>
+		<SimpleData name="license_exp">2022/10/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">15-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.90177168698,21.3659272165507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Plaza at Pearl City</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">15</SimpleData>
+		<SimpleData name="address">1048 Kuala Street</SimpleData>
+		<SimpleData name="city">Pearl City</SimpleData>
+		<SimpleData name="zipcode">96782</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8084558808</SimpleData>
+		<SimpleData name="license_exp">2022/12/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">18-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.977970853414,21.3976975245049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Plaza at Punchbowl</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">16</SimpleData>
+		<SimpleData name="address">918 Lunalilo Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96825</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8087928800</SimpleData>
+		<SimpleData name="license_exp">2021/12/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">8-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.847825912327,21.3056935373437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Plaza at Waikiki</name>
+	<ExtendedData><SchemaData schemaUrl="#Assisted_Living_Facilities">
+		<SimpleData name="objectid">17</SimpleData>
+		<SimpleData name="address">1812 Kalakaua Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96813</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_num">8089550800</SimpleData>
+		<SimpleData name="license_exp">2022/09/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">19-ALF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.83521905129,21.2897604277485</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
