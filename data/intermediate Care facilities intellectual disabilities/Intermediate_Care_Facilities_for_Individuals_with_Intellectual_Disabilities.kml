@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities" id="Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="licensed_b" type="int"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+	<SimpleField name="mailing_ad" type="string"></SimpleField>
+	<SimpleField name="physical_a" type="string"></SimpleField>
+	<SimpleField name="phone_numb" type="string"></SimpleField>
+	<SimpleField name="alternate_" type="string"></SimpleField>
+	<SimpleField name="fax" type="string"></SimpleField>
+	<SimpleField name="poc" type="string"></SimpleField>
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="provider_n" type="string"></SimpleField>
+</Schema>
+<Folder><name>Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities</name>
+  <Placemark>
+	<name>THE ARC IN HAWAII (6A)</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="licensed_b">4</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">3989 Diamond Head Road, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="physical_a">852 Paahana Street, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="phone_numb">(808) 737-7995</SimpleData>
+		<SimpleData name="fax">(808) 732-9531</SimpleData>
+		<SimpleData name="poc">Leiann Fountain, Executive Director</SimpleData>
+		<SimpleData name="website">https://www.thearcinhawaii.org/</SimpleData>
+		<SimpleData name="provider_n">12G020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.796400297161,21.262745936916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE ARC IN HAWAII (6B)</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="licensed_b">4</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">3989 Diamond Head Road, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="physical_a">852-A Paahana Street, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="phone_numb">(808) 737-7995</SimpleData>
+		<SimpleData name="fax">(808) 732-9531</SimpleData>
+		<SimpleData name="poc">Leiann Fountain, Executive Director</SimpleData>
+		<SimpleData name="website">https://www.thearcinhawaii.org/</SimpleData>
+		<SimpleData name="provider_n">12G021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.796400297161,21.262745936916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE ARC IN HAWAII (EWA B)</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">3989 Diamond Head Road, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="physical_a">91-824 B Hanakahi Street, Ewa Beach, Hawaii  96706</SimpleData>
+		<SimpleData name="phone_numb">(808) 737-7995</SimpleData>
+		<SimpleData name="fax">(808) 732-9531</SimpleData>
+		<SimpleData name="poc">Leiann Fountain, Executive Director</SimpleData>
+		<SimpleData name="website">https://www.thearcinhawaii.org/</SimpleData>
+		<SimpleData name="provider_n">12G034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.796400297161,21.262745936916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE ARC IN HAWAII (EWA C)</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">3989 Diamond Head Road, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="physical_a">91-824 B Hanakahi Street, Ewa Beach, Hawaii  96706</SimpleData>
+		<SimpleData name="phone_numb">(808) 737-7995</SimpleData>
+		<SimpleData name="fax">(808) 732-9531</SimpleData>
+		<SimpleData name="poc">Leiann Fountain, Executive Director</SimpleData>
+		<SimpleData name="website">https://www.thearcinhawaii.org/</SimpleData>
+		<SimpleData name="provider_n">12G035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.796400297161,21.262745936916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE ARC IN HAWAII (KAIMUKI A)</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">3989 Diamond Head Road, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="physical_a">3705 Mahina Avenue, Honolulu, Hawaii 96816</SimpleData>
+		<SimpleData name="phone_numb">(808) 737-7995</SimpleData>
+		<SimpleData name="fax">(808) 732-9531</SimpleData>
+		<SimpleData name="poc">Leiann Fountain, Executive Director</SimpleData>
+		<SimpleData name="website">https://www.thearcinhawaii.org/</SimpleData>
+		<SimpleData name="provider_n">12G029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.796400297161,21.262745936916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE ARC IN HAWAII (KAIMUKI B)</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">3989 Diamond Head Road, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="physical_a">811 19th Avenue, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="phone_numb">(808) 737-7995</SimpleData>
+		<SimpleData name="fax">(808) 732-9531</SimpleData>
+		<SimpleData name="poc">Leiann Fountain, Executive Director</SimpleData>
+		<SimpleData name="website">https://www.thearcinhawaii.org/</SimpleData>
+		<SimpleData name="provider_n">12G027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.796400297161,21.262745936916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE ARC IN HAWAII (WAHIAWA A)</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="licensed_b">4</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">3989 Diamond Head Road, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="physical_a">140-A Kuahiwi Avenue, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="phone_numb">(808) 737-7995</SimpleData>
+		<SimpleData name="fax">(808) 732-9531</SimpleData>
+		<SimpleData name="poc">Leiann Fountain, Executive Director</SimpleData>
+		<SimpleData name="website">https://www.thearcinhawaii.org/</SimpleData>
+		<SimpleData name="provider_n">12G028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.796400297161,21.262745936916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE ARC OF MAUI (HALE KANALOA)</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">MAUI</SimpleData>
+		<SimpleData name="mailing_ad">140 N. Market Street, Suite 202B, Wailuku, Hawaii  96793</SimpleData>
+		<SimpleData name="physical_a">450 B Kanaloa Avenue, Kahului, Hawaii  96732</SimpleData>
+		<SimpleData name="phone_numb">(808) 242-5781</SimpleData>
+		<SimpleData name="fax">(808) 244-4061</SimpleData>
+		<SimpleData name="poc">Aspen Wallwork, Chief Executive Officer</SimpleData>
+		<SimpleData name="website">https://arcofmaui.org/</SimpleData>
+		<SimpleData name="provider_n">12G038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.502754078819,20.8899160237676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE ARC OF MAUI (HALE KIHEI)</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">MAUI</SimpleData>
+		<SimpleData name="mailing_ad">140 N. Market Street, Suite 202B, Wailuku, Hawaii  96793</SimpleData>
+		<SimpleData name="physical_a">179 Hale Kai Street, Kihei, Hawaii  96753</SimpleData>
+		<SimpleData name="phone_numb">(808) 242-5781</SimpleData>
+		<SimpleData name="fax">(808) 244-4061</SimpleData>
+		<SimpleData name="poc">Aspen Wallwork, Chief Executive Officer</SimpleData>
+		<SimpleData name="website">https://arcofmaui.org/</SimpleData>
+		<SimpleData name="provider_n">12G036</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.502754078819,20.8899160237676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE ARC OF MAUI (MANA OLA NA KEANUENUE)</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">MAUI</SimpleData>
+		<SimpleData name="mailing_ad">140 N. Market Street, Suite 202B, Wailuku, Hawaii  96793</SimpleData>
+		<SimpleData name="physical_a">450 Kanaloa Avenue, Kahului, Hawaii  96732</SimpleData>
+		<SimpleData name="phone_numb">(808) 242-5781</SimpleData>
+		<SimpleData name="fax">(808) 244-4061</SimpleData>
+		<SimpleData name="poc">Aspen Wallwork, Chief Executive Officer</SimpleData>
+		<SimpleData name="website">https://arcofmaui.org/</SimpleData>
+		<SimpleData name="provider_n">12G037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.502754078819,20.8899160237676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KULA HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="licensed_b">9</SimpleData>
+		<SimpleData name="island">MAUI</SimpleData>
+		<SimpleData name="mailing_ad">100 Keokea Place, Kula, Hawaii  96790-7450</SimpleData>
+		<SimpleData name="physical_a">100 Keokea Place, Kula, Hawaii  96790-7450</SimpleData>
+		<SimpleData name="phone_numb">(808) 878-1221</SimpleData>
+		<SimpleData name="fax">(808) 878-1791</SimpleData>
+		<SimpleData name="poc">Kerry D. Pitcher, Senior Director of LTC and CAH</SimpleData>
+		<SimpleData name="website">https://www.mauihealth.org/locations/kula-hospital/</SimpleData>
+		<SimpleData name="provider_n">12G001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.358542480862,20.7022315149637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OPPORTUNITIES AND RESOURCES, INC.</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">12</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">64-1510 Kamehameha Highway, House 1-A, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="physical_a">64-1510 Kamehameha Highway, House 1-A, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="phone_numb">(808) 622-3929</SimpleData>
+		<SimpleData name="fax">(808) 621-8227</SimpleData>
+		<SimpleData name="poc">Susan Hudson, Program Administrator</SimpleData>
+		<SimpleData name="website">https://www.ori-hawaii.com/</SimpleData>
+		<SimpleData name="provider_n">12G030</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.039057801627,21.5266965654697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OPPORTUNITIES AND RESOURCES, INC.</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">13</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">64-1510 Kamehameha Highway, House 1-B, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="physical_a">64-1510 Kamehameha Highway, House 1-B, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="phone_numb">(808) 622-3929</SimpleData>
+		<SimpleData name="fax">(808) 621-8227</SimpleData>
+		<SimpleData name="poc">Susan Hudson, Program Administrator</SimpleData>
+		<SimpleData name="website">https://www.ori-hawaii.com/</SimpleData>
+		<SimpleData name="provider_n">12G031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.039057801627,21.5266965654697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OPPORTUNITIES AND RESOURCES, INC.</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">14</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">64-1510 Kamehameha Highway, House 1-C, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="physical_a">64-1510 Kamehameha Highway, House 1-C, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="phone_numb">(808) 622-3929</SimpleData>
+		<SimpleData name="fax">(808) 621-8227</SimpleData>
+		<SimpleData name="poc">Susan Hudson, Program Administrator</SimpleData>
+		<SimpleData name="website">https://www.ori-hawaii.com/</SimpleData>
+		<SimpleData name="provider_n">12G032</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.039057801627,21.5266965654697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OPPORTUNITIES AND RESOURCES, INC.</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">15</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">64-1510 Kamehameha Highway, House 3-A, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="physical_a">64-1510 Kamehameha Highway, House 3-A, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="phone_numb">(808) 622-3929</SimpleData>
+		<SimpleData name="fax">(808) 621-8227</SimpleData>
+		<SimpleData name="poc">Susan Hudson, Program Administrator</SimpleData>
+		<SimpleData name="website">https://www.ori-hawaii.com/</SimpleData>
+		<SimpleData name="provider_n">12G040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.039057801627,21.5266965654697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OPPORTUNITIES AND RESOURCES, INC.</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">16</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">64-1510 Kamehameha Highway, House 3-B, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="physical_a">64-1510 Kamehameha Highway, House 3-B, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="phone_numb">(808) 622-3929</SimpleData>
+		<SimpleData name="fax">(808) 621-8227</SimpleData>
+		<SimpleData name="poc">Susan Hudson, Program Administrator</SimpleData>
+		<SimpleData name="website">https://www.ori-hawaii.com/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.039057801627,21.5266965654697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OPPORTUNITIES AND RESOURCES, INC.</name>
+	<ExtendedData><SchemaData schemaUrl="#Intermediate_Care_Facilities_for_Individuals_with_Intellectual_Disabilities">
+		<SimpleData name="objectid">17</SimpleData>
+		<SimpleData name="licensed_b">5</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_ad">64-1510 Kamehameha Highway, House 3-C, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="physical_a">64-1510 Kamehameha Highway, House 3-C, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="phone_numb">(808) 622-3929</SimpleData>
+		<SimpleData name="fax">(808) 621-8227</SimpleData>
+		<SimpleData name="poc">Susan Hudson, Program Administrator</SimpleData>
+		<SimpleData name="website">https://www.ori-hawaii.com/</SimpleData>
+		<SimpleData name="provider_n">12G042</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.039057801627,21.5266965654697</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
