@@ -1,0 +1,522 @@
+﻿X,Y,objectid,name,address,city,zip,island_dist,type,source
+-157.847108763973,21.3009289180106,1,Kamaaina Kids - King Street Infant/Toddler Program,1054 King St,Honolulu,96814,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.966735499865,21.3930630001492,2,Kamaaina Kids Pearl City Infant Toddler Program,784 Kamehameha Hwy,Pearl City,96782,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.820080696714,21.2752237039386,3,Waikiki Community Center Preschool - IT,310 Paoakalani Avenue,Honolulu,96815,Oahu,Licensed Infant/Toddler Center,PATCH
+-158.028752534556,21.3543765071831,4,Kamaaina Kids Cfs Ewa Infant Toddler Program,91-1841 Fort Weaver Road,Ewa Beach,96706,Oahu,Licensed Infant/Toddler Center,PATCH
+-158.01685650047,21.4805249995902,5,Kamaaina Kids Mililani Tech Park Infant Toddler ,345 Kahelu Avenue,Mililani,96789,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.869987833047,21.3202496131689,6,Honolulu Community College-keiki Hauoli Cdl Infant,874 Dillingham Blvd,Honolulu,96817,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.847273999736,21.3057720003989,7,Kamaaina Kids Honolulu Toddler Program,930 Lunalilo Street,Honolulu,96822,Oahu,Licensed Infant/Toddler Center,PATCH
+-156.447757298737,20.7508588306453,8,Kamaaina Kids Piilani Infant Toddler Program,10 Manino Circle,Kihei,96753,Maui,Licensed Infant/Toddler Center,PATCH
+-156.487671013159,20.8867480912885,9,MEO Kahi Kamalii Infant Toddler Center,97 Mahalani Street,Wailuku,96793,Maui,Licensed Infant/Toddler Center,PATCH
+-156.500839802943,20.8936704253393,10,MFSS Early Head Start Center- Wailuku,1844 Wili Pa Loop,Wailuku,96793,Maui,Licensed Infant/Toddler Center,PATCH
+-157.802242737009,21.2817956550283,11,The Cole Academy Kaimuki IT Program,1041 10th Avenue,Honolulu,96816,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.857205564903,21.333846162306,12,Kamaaina Kids Alewa Heights Infant Toddler Program,1052 Ilima Drive,Honolulu,96817,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.749165000238,21.4221059997048,13,Kamaaina Kids Aikahi Infant Toddler Program,38 Kaneohe Bay Drive,Kailua,96734,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.8561434999,21.2982749996142,14,Stepping Stones Academy Infant And Toddler Program,860 Halekauwila St,Honolulu,96813,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.86233099971,21.3036660000983,15,Rainbow School Honolulu Infant & Toddler,300 Ala Moana Blvd #1-108,Honolulu,96813,Oahu,Licensed Infant/Toddler Center,PATCH
+-156.673577798703,20.8706102983712,16,Kamaaina Kids Lahaina Infant Toddler Program,553 Wainee Street,Lahaina,96761,Maui,Licensed Infant/Toddler Center,PATCH
+-155.998296441909,19.6707416907019,17,FSSWH EHS Teen Parent Center At Kealakehe ,"74-5000 Puohulihuli Street; Room J-102",Kailua-kona,96740,West Hawaii,Licensed Infant/Toddler Center,PATCH
+-158.058514566297,21.326194645262,18,Kamaaina Kids Kalaeloa Infant Toddler Program,1965 Bougainville Avenue,Kapolei,96707,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.821437883261,21.2928272976136,19,Happy Keiki Infant & Toddler Program at University Avenue,1035 University Avenue,Honolulu,96826,Oahu,Licensed Infant/Toddler Center,PATCH
+-155.070030350818,19.7055952638143,20,Hawaii Community College Children's Center ITC,1175 Manono Street,Hilo,96720,East Hawaii,Licensed Infant/Toddler Center,PATCH
+-157.830389999678,21.2774310004318,21,Poppins Keiki Hawaii Infant And Toddler Program,2255 Kalakaua Avenue #434,Honolulu,96815,Oahu,Licensed Infant/Toddler Center,PATCH
+-155.478696251735,19.1997485326232,22,Pahala Preschool Toddler Program,96-1225 Huapala Street,Pahala,96777,West Hawaii,Licensed Infant/Toddler Center,PATCH
+-157.814134979705,21.2775280102711,23,Kamaaina Kids St. Marks Childrens Ctr Infant Toddl,539 Kapahulu Avenue,Honolulu,96815,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.731117673247,21.3837581862709,24,The Cole Academy Kailua I/T Program,780 Keolu Drive,Kailua,96734,Oahu,Licensed Infant/Toddler Center,PATCH
+-155.920259492977,19.5063257769099,25,Jack&Helen Greenwell Family Dev Center,81-6493 Mamalahoa Highway,Kealakekua,96750,West Hawaii,Licensed Infant/Toddler Center,PATCH
+-158.078807999751,21.3332490001203,26,The Cole Academy - Kapolei Infant And Toddler Program,1033 Ala Kahawai St.,Kapolei,96707,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.863388348704,21.3098585232497,27,Strode Montessori Mauka,36 Merchant Street,Honolulu,96813,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.728910500053,21.2827499996679,28,Kamaaina Kids Holy Trinity Infant Toddler Program,5919 Kalanianaole Hwy.,Honolulu,96821,Oahu,Licensed Infant/Toddler Center,PATCH
+-156.669883785303,20.869256053682,29,MFSS Early Head Start Center- Lahaina,15 Ipu Aumakua Lane,Lahaina,96761,Maui,Licensed Infant/Toddler Center,PATCH
+-157.945193714996,21.387698365922,30,Kamaaina Kids St. Timothy's Academy Infant Toddler,98-939 Moanalua Road.,Aiea,96701,Oahu,Licensed Infant/Toddler Center,PATCH
+-156.363359192421,20.8994125319415,31,Aloha Kai Academy I/T,954 Baldwin Avenue,Paia,96779,Maui,Licensed Infant/Toddler Center,PATCH
+-158.018899499709,21.4332839997914,32,The Cole Academy - Mililani Infant  And Toddler Program,94-359 Makohilani Street,Mililani,96789,Oahu,Licensed Infant/Toddler Center,PATCH
+-158.172661739851,21.416797763088,33,Kamaaina Kids Maili Infant Toddler Program,87-227 St Johns Road,Waianae,96792,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.802177308825,21.413710977781,34,Kamaaina Kids Kaneohe Toddler Program,45-520 Keaahala Rd,Kaneohe,96744,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.734934838759,21.3712145652694,35,Kamaaina Kids Enchanted Lake Toddler Program,1425 Keolu Drive,Kailua,96734,Oahu,Licensed Infant/Toddler Center,PATCH
+-156.000465115905,20.7755842953629,36,MFSS - Hale Hiipoi Infant Toddler Center,4111 Hana Hwy H-101,Hana,96713,Maui,Licensed Infant/Toddler Center,PATCH
+-157.709886469367,21.2938116796958,37,Happy Keiki Preschool IT Center Hawaii Kai,6650 Hawaii Kai Drive,Honolulu,96825,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.85072129001,21.3231605059535,38,Kamaaina Kids Judd Street IT,45 Judd Street,Honolulu,96817,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.860480800341,21.3027035217192,39,Children With Aloha Academy IT Program,550 Halekauwila Street,Honolulu,96817,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.863896999751,21.3098130003112,40,The Cole Academy Queen's Court,"800 Bethel Street, Ste. 100",Honolulu,96813,Oahu,Licensed Infant/Toddler Center,PATCH
+-158.006025000441,21.3862589999627,41,Stepping Stones Academy Infant And Toddler Center Waipahu,94-905 Waipahu Street #200,Waipahu,96797,Oahu,Licensed Infant/Toddler Center,PATCH
+-155.850154043471,19.9452893289607,42,The Cole Academy-Mauna Lani,68-148 Hoohana Street,Kamuela,96743,West Hawaii,Licensed Infant/Toddler Center,PATCH
+-157.813456500118,21.4093080001001,43,Ke Kula Kamalii `O Hanaiaulu,45-720 Keaahala Road #107,Kaneohe,96744,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.708999084632,21.2938403410415,44,Kinder Kids International Hawaii Kai Infant Toddler,6660 Hawaii Kai Drive,Honolulu,96825,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.812805059436,21.2686909408003,45,First Steps - Unity School,3608 Diamond Head Circle,Honolulu,96815,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.952812147864,21.3918285253245,46,Stepping Stones Academy Infant And Toddler Center,98-761 Oihana Place,Aiea,96701,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.91429595952,21.3465729738167,47,St Philomena Early Learning Center - Infant/Toddler Program,3300 Ala Laulani Street,Honolulu,96818,Oahu,Licensed Infant/Toddler Center,PATCH
+-158.171755012999,21.4094199851073,48,Keiki O Ka Aina Family Learning Center Infant Toddler,87-790 Kulauku Street,Waianae,96792,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.742734606676,21.4030624600946,49,A Caring Place Infant And Toddler Program,260 North Kainalu Drive,Kailua,96734,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.853673817521,21.3041609319196,50,The Early Education Center Toddler Program,1130 Alapai Street,Honolulu,96813,Oahu,Licensed Infant/Toddler Center,PATCH
+-155.092327781655,19.7241927459854,51,PACT Early Head Start Easter Seals ITC,41 Kaiulani Street,Hilo,96720,East Hawaii,Licensed Infant/Toddler Center,PATCH
+-154.902471528559,19.548166370909,52,PACT Early Head Start Hawaiian Beaches ITC ,15-360 N. Puni Makai Loop,Pahoa,96778,East Hawaii,Licensed Infant/Toddler Center,PATCH
+-156.497808792132,20.8876549869982,53,MFSS Early Head Start - Waiale,67 Waiale Road,Wailuku,96793,Maui,Licensed Infant/Toddler Center,PATCH
+-157.96916550034,21.3929999998412,54,PACT Early Head Start At Leeward Health Center,860 Fourth Street #110,Pearl City,96782,Oahu,Licensed Infant/Toddler Center,PATCH
+-158.171755012999,21.4094199851073,55,PACT Early Head Start Ka Pua,87-790 Kulauku St,Waianae,96792,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.891439637916,21.3328853821478,56,PACT Kahauiki Village Early Head Start ,2625 North Nimitz Hwy,Honolulu,96819,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.718445912968,21.3423049920816,57,PACT Early Head Start Job Corps Infant/Toddler Program,41-467 Hihimanu Street,Waimanalo,96795,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.876637186747,21.3381369651751,58,PACT Early Head Start KPT Portables,1485 Linapuni Street,Honolulu,96819,Oahu,Licensed Infant/Toddler Center,PATCH
+-158.125635000038,21.5656109998412,59,PACT - Early Head Start At Waialua High School,"67-160 Farrington Hwy, Room V-101",Waialua,96791,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.822579447168,21.2944562328735,60,The Early School Young Childrens Program,2510 Bingham Street,Honolulu,96826,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.931679685903,21.3790933732901,61,The Growing Patch 24-Hour Children's Academy I/T CCC,"99-080 Kauhale St, #D14-15",Aiea,96701,Oahu,Licensed Infant/Toddler Center,PATCH
+-155.987569084441,19.6745104238521,62,"Hawaii Montessori Schools; Kona Campus I/T Program",74-978 Manawalea Street,Kailua-kona,96740,West Hawaii,Licensed Infant/Toddler Center,PATCH
+-158.004275359816,21.4693563636455,63,Cornerstone Early Education Center I/T,95-1080 Ukuwai St,Mililani,96789,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.697266306671,21.3332119643445,64,PACT Waimanalo Early Head Start,41-038 Wailea Street,Waimanalo,96795,Oahu,Licensed Infant/Toddler Center,PATCH
+-157.787244354921,21.2806408353704,65,Wesley Childrens Programs Infant Toddler Program,1350 Hunakai Street,Honolulu,96816,Oahu,Licensed Infant/Toddler Center,PATCH
+-156.501059600607,20.8901078609581,66,Piaget School of Maui,1931 East Vineyard Street,Wailuku,96793,Maui,Licensed Infant/Toddler Center,PATCH
+-156.321393560928,20.8684649929207,67,Montessori School Of Maui Infant Toddler Program,2933 Baldwin Avenue,Makawao,96768,Maui,Licensed Infant/Toddler Center,PATCH
+-157.757359443337,21.3816464480771,68,Keiki O Ka Aina Infant Toddler Center-Kailua,647 Ulukahiki Street,Kailua,96734,Oahu,Licensed Infant/Toddler Center,PATCH
+-158.002903337812,21.4005620993499,69,Inspireme Preschool,94877 Lumiana Street,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.146729758704,21.3860973131951,70,Hoohua Early Learning Organization,87-169 Helelua St,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.184177882609,21.4447135622701,71,HCAP Head Start Waianae Elementary,58-220 Mcarthur St Rm A-20,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.454596497731,20.7617797874092,72,"Akamai Kids Club, Inc. ",100 Kulanihakoi Street,Kihei,96753,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.951737698655,21.6745087166003,73,HCAP Head Start Kahuku Elementary,56-170 Pualalea St,Kahuku,96731,Oahu,Licensed Group Child Care (Preschools),PATCH
+-159.36609366633,21.9716690250573,74,Ae Kamalii Preschool,2943 Kress Street,Lihue,96766,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.312063315804,22.1405443368131,75,Kamehameha Schools Preschool - Anahola,4109 Kealia Road,Anahola,96703,Kauai,Licensed Group Child Care (Preschools),PATCH
+-155.029710046639,19.6283013453827,76,Christian Liberty Preschool ,16-675 Milo Street,Keaau,96749,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.081525907351,19.703386243042,77,E Maka'ala Preschool Program ,440 W. Lanikaula St. ,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.088516384986,19.7221665180578,78,Haili Christian Preschool ,190 Ululani Street,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.106051881679,19.6762433229706,79,Hale Aloha Nazarene School ,595 Kupulau Road,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.070030350818,19.7055952638143,80,Hawaii Community College Children's Center ,1175 Manono Street,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.751172202142,21.3863782608114,81,Kailua Methodist Preschool,1110 Kailua Road,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.035886005276,19.7348428798713,82,Kula Kamali'io Hi'ikeakaikamalama ,1500 Kalanianaole Avenue,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-156.466483791547,20.8849687479165,83,Christ The King Child Development Center,211 Kaulawahine Street,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.852437916373,21.3251438330675,84,Waolani-Judd Nazarene School,408 North Judd Street,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.507489613799,20.8871264307642,85,Iao Preschool,2371 West Vineyard Street,Wailuku,96793,Maui,Licensed Group Child Care (Preschools),PATCH
+-158.026239101424,21.3803930673132,86,Alphabetland Preschool - Waipahu,94-069 Waipahu Street,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.858496688426,21.325171796659,87,Good Shepherd Preschool,638 North Kuakini Street,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.83397099095,21.2982206899318,88,Central Union Church Preschool & Kindergarten,1660 S. Beretania Street,Honolulu,96826,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.478696251735,19.1997485326232,89,Pahala Preschool,96-1225 Huapala Street,Pahala,96777,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-158.006163657947,21.4648224217431,90,Excel Church Preschool,95- 801 Kipapa Drive,Mililani,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.823090999626,21.2912549999494,91,Moiliili Hongwanji Preschool,902 University Avenue,Honolulu,96826,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.820282999868,21.3031079998883,92,Honolulu Christian Preschool,2207 Oahu Avenue,Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.79514739432,21.3888940848678,93,Pali View Baptist Preschool,45-510 Halekou Road,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.993485383941,21.4100921116951,94,Rosary Preschool,94-1249 Lumikula Street,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.038033500111,21.4931700000993,95,Rainbow School - Wahiawa,108 California Avenue,Wahiawa,96786,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.007526484943,21.4559182880764,96,"Rainbow School - Mililani, A Licensed Demonstration Project",95-1361 Meheula Parkway,Mililani,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.797103500372,21.4030080002302,97,Kamaaina Kids Calvary Preschool,45-435 Aumoku Street,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.734454383819,21.2857948830126,98,Honolulu Waldorf School Preschool,350 Ulua Street,Honolulu,96821,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.915361796988,21.6181947188036,99,Bright Beginning Learning Center,54-109 Kawaipuna Street,Hauula,96717,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.492662345939,20.9091645941057,100,Kamehameha Preschool Paukukalo,661 Kaumualii Street,Wailuku,96793,Maui,Licensed Group Child Care (Preschools),PATCH
+-155.984444873344,20.7539724306828,101,Kamehameha Hana Preschool ,5060 Uakea Road,Hana,96713,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.345416195077,20.8416876181527,102,Makawao Hongwanji Preschool,223 Hiwalani Loop,Pukalani,96768,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.321393560928,20.8684649929207,103,Montessori School Of Maui,2933 Baldwin Avenue,Makawao,96768,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.308357423398,20.856614355662,104,St. Joseph Early Learning Center,1294 Makawao Avenue,Makawao,96768,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.951433905314,21.3847635079417,105,Keiki Aloha Preschool,"98-027 Hekaha Street, Unit 47",Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.853763000274,21.325572000265,106,Pali Preschool,467 North Judd Street,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.91429595952,21.3465729738167,107,St Philomena Early Learning Center - Preschool Program,3300 Ala Laulani St,Honolulu,96818,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.675988435398,20.8753005086524,108,Ke Kula Kamali'i Pu'uwai La'a,239 Dickenson Street,Lahaina,96761,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.499535295078,20.8918089637048,109,Wailuku Hongwanji Preschool,144 Kaniela Street,Wailuku,96793,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.68203826745,20.8795074247263,110,Children Of The Rainbow Preschool,142 Baker Street,Lahaina,96761,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.921074590326,20.8246312358584,111,E Malama I Na Keiki O Lanai Preschool,751 Fraser Avenue,Lanai City,96763,Lanai,Licensed Group Child Care (Preschools),PATCH
+-157.731117673247,21.3837581862709,112,The Cole Academy Kailua,780 Keolu Drive,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.112512999612,21.587076000131,113,First Baptist Preschool Of Haleiwa,66-415 Haleiwa Road,Haleiwa,96712,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.966735499865,21.3930630001492,114,Kamaaina Kids Pearl City,784 Kamehameha Hwy,Pearl City,96782,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.831631474184,21.3070764741068,115,Hanahauoli Pre Kindergarten,1922 Makiki Street,Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.009682807067,21.4407899993503,116,Hanalani Schools Early Childhood,94-294 Anania Drive,Mililani,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.121890726666,21.5686094217036,117,Saint Michael School,67-340 Haona Street,Waialua,96791,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.880169000025,21.3356519996374,118,Kalihi Union Church Preschool,2214 North King Street,Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.810320000365,21.310704000423,119,Manoa Valley Church Preschool,2728 Huapala Street,Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.01685650047,21.4805249995902,120,Kamaaina Kids Mililani Tech Park Preschool,345 Kahelu Avenue,Mililani,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.820080696714,21.2752237039386,121,Waikiki Community Center Preschool - GCC,310 Paoakalani Avenue,Honolulu,96815,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.01985530847,21.5006436162862,122,Wahiawa Baptist Preschool,1233 California Avenue,Wahiawa,96786,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.749391794225,21.3883375470972,123,Le Jardin Academy Junior School,1004 Kailua Road,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.733660432268,21.2829836984508,124,Kilohana United Methodist Church Preschool Inc.,5829 Mahimahi Street,Honolulu,96821,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.869987833047,21.3202496131689,125,Honolulu Community College Keiki Hauoli Childrens ,874 Dillingham Boulevard,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.798156500213,21.2810490003525,126,Kaimuki Christian School,1117 Koko Head Avenue,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.00971050036,21.3157620003946,127,HCAP Head Start Pohakea Elementary,91-750 Fort Weaver Road,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.185124999833,21.4380360003562,128,Malama Na Keiki O Waianae Preschool,86-072 Farrington Hwy,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.846510506947,21.2987614313906,129,Makiki Christian Church Preschool,829 Pensacola Street,Honolulu,96814,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.837620808897,21.3373971320071,130,Queen Emma Preschool,3019 Pali Hwy,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.945359941797,21.6751747637504,131,Rainbow School Kahuku,56-463 Kamehameha Hwy,Kahuku,96731,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.86233099971,21.3036660000983,132,Rainbow School Honolulu,300 Ala Moana Blvd #1-108,Honolulu,96813,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.911155123899,19.4239045648757,133,Kamehameha Schools - Honaunau Preschool ,84-5574 Honaunau Beach Road,Captain Cook,96704,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.083755873792,19.7141418111367,134,St. Joseph Montessori-Based Preschool ,999 Ululani Street,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-156.482301225274,20.888200266209,135,Emmanuel Lutheran Preschool,520 West One Street,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-158.015957307817,21.38551811067,136,HCAP Head Start Waipahu Elementary,94-465 Waipahu Street,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.978322796935,19.6770717457258,137,Creative Day Preschool,74-4981 Palani Road,Kailua-kona,96740,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.980638496722,19.6689910222457,138,Kamehameha Schools- Kona Preschool,74-5100 Palani Road,Kailua-kona,96740,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.993988483581,19.6394301089871,139,"Kamehameha Schools, Kailua-Kona Preschool",75-5713 Alii Drive,Kailua-kona,96740,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.920412947714,19.5160254311329,140,Kona Hongwanji Preschool,81-6630 Mamalahoa Highway,Kealakekua,96750,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.672381486271,20.0220007336425,141,Small World Preschool,65-1253 Kawaihae Road,Kamuela,96743,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.790383965864,19.9434679322463,142,Waikoloa Baptist Keikiland,68-3670 Paniolo Avenue,Waikoloa,96738,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.676771112246,20.0209029780391,143,Montessori Education Center of Hawaii-Waimea Camp,65-1197 Opelo Road,Kamuela,96743,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-156.46387570834,20.8838393512959,144,Kahului Hongwanji Preschool,291 South Puunene Avenue,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.476708999988,20.888906483591,145,MEO Head Start - UH Maui College,310 Kaahumanu Street,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.459874884998,20.8753645978809,146,Noah's Ark Early Childhood Center,777 Mokulele Highway,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.791496493125,21.2997537114235,147,HCAP Head Start Palolo I-III,2106 10th Ave,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.327140011043,20.7669665044264,148,Haleakala Waldorf School ,4160 Lower Kula Road,Kula,96790,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.447757298737,20.7508588306453,149,Kamaaina Kids Piilani Children's Center,10 Manino Circle Building 26,Kihei,96753,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.665615373645,20.998118547367,150,The Preschool At Kapalua,5960 Lower Honoapiilani Road,Lahaina,96761,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.46846107823,20.8878176606618,151,Kahului Union Church Preschool,101 West Kamehameha Avenue,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.504829732783,20.8840939617356,152,Wailuku Union Preschool,327 South High Street,Wailuku,96793,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.441103670904,20.7244821682784,153,Children's Garden,2140 Kanakanui Road,Kihei,96753,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.322437050139,20.9269100996067,154,MEO Head Start - Haiku,97 Pauwela Road,Haiku,96708,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.480194887219,20.8740698450866,155,MEO Head Start - Kahului A & B,615 South Papa Avenue,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.013031663989,21.0887342653114,156,Kaunakakai Head Start A,387 Kolapa Place,Kaunakakai,96748,Molokai,Licensed Group Child Care (Preschools),PATCH
+-156.447038616058,20.7486146811304,157,MEO Head Start - Kihei A,250 East Lipoa Street,Kihei,96753,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.663527523735,20.8863071556329,158,MEO Head Start - Lahaina,816 Niheu Street,Lahaina,96761,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.316266661424,20.8499953152307,159,MEO Head Start - Makawao A & B,931-B Makawao Avenue,Makawao,96768,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.499459004255,20.8751681748951,160,MEO Head Start - Wailuku A ,670 Waiale Drive,Wailuku,96793,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.505107236784,20.8827969850314,161,MEO Head Start - Wailuku B,355 South High Street,Wailuku,96793,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.898254500101,21.3572070000439,162,Calvary Child Care Center,1215 Ala Aolani Street,Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.004275359816,21.4693563636455,163,Cornerstone Early Education Center,95-1080 Ukuwai Street,Mililani,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.902901618541,21.3653793018506,164,Christian Academy - Preschool,3400 Moanalua Road,Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.847624729158,21.3032021571832,165,First United Methodist Church Preschool,1020 South Beretania Street,Honolulu,96814,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.930594824626,21.3378285123712,166,Holy Family Catholic Academy,830 Main Street,Honolulu,96818,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.847273999736,21.3057720003989,167,Kamaaina Kids Honolulu,930 Lunalilo Street,Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.937181514231,21.3826677157618,168,Our Savior Lutheran Preschool,98-1098 Moanalua Road,Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.483644481601,20.8877032016497,169,Kamaaina Kids Kahului Preschool,50 South Papa Avenue,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.739187943644,21.4002842772752,170,St. Anthony School Early Learning Center,148 Makawao Street,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.806206999647,21.2858010003852,171,Sacred Hearts Academy-Early Learning Center,3253 Waialae Ave,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.001776999901,21.3944399995972,172,HCAP Head Start August Ahrens Elementary,94-1170 Waipahu Street,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.008504752699,21.3196579959694,173,HCAP Head Start Kaimiloa Elementary,91-1028 Kaunolu Street,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.861871999872,21.3259140003374,174,HCAP Head Start Lanakila CDC I & II,1701 Lanakila Avenue,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.860486000219,21.3266070000398,175,HCAP Head Start Lanakila Elementary,717 N Kuakini Street,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.818512078363,21.2724570343323,176,Jefferson II Head Start,324 Kapahulu Avenue,Honolulu,96815,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.010133500066,21.4407180001417,177,Mililani Baptist Preschool,94-293 Anania Drive,Mililani,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.870327500372,21.3362280003964,178,Jikoen Hongwanji Lumbini Preschool,1731 North School St,Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.83632008839,21.3088253906962,179,Montessori Community School,1239 Nehoa St,Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.728675945413,21.3796418851692,180,St John Vianney Early Learning Center,940 Keolu Drive,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.784656799875,21.2768398395644,181,Waiokeola Church Preschool,4705 Kilauea Avenue,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.842328499703,21.3307109999174,182,"The Childrens Center, Inc",2651 A Pali Hwy,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.748703165354,21.3953755300441,183,Sunshine School,"175 Kihapai St, #A",Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.835061000164,21.306276000263,184,Playmate Kindergarten Day Care Center & Grade School LTD,1704 Keeaumoku St,Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.847297193534,21.3264618177181,185,Little Friends Learning Center,2313 Nuuanu Avenue,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.749165000238,21.4221059997048,186,Kamaaina Kids Aikahi,38 Kaneohe Bay Drive,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.814134979705,21.2775280102711,187,Kamaaina Kids St. Marks Childrens Center,539 Kapahulu Ave,Honolulu,96815,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.734934838759,21.3712145652694,188,Kamaaina Kids Enchanted Lakes,1425 Keolu Dr,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.028752534556,21.3543765071831,189,Kamaaina Kids CFS Ewa Preschool,91-1841 Fort Weaver Road,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.93065817236,21.344400093912,190,Kamaaina Kids Moanalua,4857 Bougainville Drive,Honolulu,96818,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.984186500099,21.3922170001267,191,Leeward Community College Children's Center,96-045 Ala Ike Street #DA102,Pearl City,96782,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.750452163859,21.3871779924222,192,Kailua Baptist Preschool,1080 Kailua Road,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.036779399932,21.0968580436057,193,Na Kamalii Hoaloha,670 Maunaloa Highway,Kaunakakai,96748,Molokai,Licensed Group Child Care (Preschools),PATCH
+-158.184905688257,21.4358332180873,194,Ark Of Safety Christian Academy,"86-120 Farrington Hwy., Ste A109-A110",Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.857205564903,21.333846162306,195,Kamaaina Kids Alewa Heights At St Marks Coptic Ort,1052 Ilima Drive,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.818512078363,21.2724570343323,196,Jefferson Pre-Plus Head Start,324 Kapahulu Avenue,Honolulu,96815,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.464863591721,20.8758761024194,197,Grace Bible Christian Preschool,635 South Hina Avenue,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.954250424044,21.3983053332501,198,HCAP Head Start Waiau Elementary Pre-plus,98-450 Hookanike Street,Pearl City,96782,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.947841866281,21.4005591591537,199,Calvary Chapel Christian Preschool,98-1016 Komo Mai Drive,Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.077996089278,19.7022448173469,200,Joyland Preschool ,1407 Kapiolani Street,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.81798908152,21.303252055441,201,Mid-Pacific Institute Preschool,2445 Kaala Street,Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.802242737009,21.2817956550283,202,The Cole Academy Kaimuki,1041 10th Avenue,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.673577798703,20.8706102983712,203,Kamaaina Kids Lahaina Preschool,553 Wainee Street,Lahaina,96761,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.819778999611,21.2892120001334,204,HCAP Head Start Kuhio Elementary Pre-plus,2759 South King Street,Honolulu,96826,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.501835000162,20.8847800002717,205,Kansha Preschool,3 Go For Broke Place,Wailuku,96793,Maui,Licensed Group Child Care (Preschools),PATCH
+-158.019201389571,21.3225177019293,206,Seagull School At Ocean Pointe,91-203 Kaimele Place,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.802177308825,21.413710977781,207,Kamaaina Kids Kaneohe Preschool,45-520 Keaahala Road,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.999275000305,21.4132500003118,208,Pearl Harbor Christian Academy Preschool,94-1044 Waipio Uka Street,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.8561434999,21.2982749996142,209,Stepping Stones Academy Kakaako,860 Halekauwila St #103,Honolulu,96813,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.664506949701,20.9845395152898,210,Maui Preparatory Academy Preschool,4910 Honoapiilani Hwy,Lahaina,96761,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.00023692691,19.6480128369656,211,Alaka`i Academy,74-5565 Luhia Street,Kailua-kona,96740,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-156.335235588378,20.8231554882022,212,Kamehameha Aapueo Preschool,270 Aapueo Parkway,Pukalani,96768,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.96610999955,21.3958529999107,213,Keiki Care Center Of Hawaii,757 Hoomalu St.,Pearl City,96782,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.830389999678,21.2774310004318,214,Poppins Keiki Hawaii,"2255 Kalakaua Avenue, Suite 435",Honolulu,96815,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.03383631715,21.3439947357702,215,HCAP Head Start Ewa I & II,91-1280 Renton Road,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.058514566297,21.326194645262,216,Kamaaina Kids Kalaeloa Preschool,1965 Bougainville Avenue,Kapolei,96707,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.489372863098,20.8992099908662,217,"Little Explorers Maui Preschool, LLC",1050 Lower Main Street,Wailuku,96793,Maui,Licensed Group Child Care (Preschools),PATCH
+-158.015957307817,21.38551811067,218,HCAP Head Start Waipahu Pre Plus,94-465 Waipahu Street,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.996039500416,21.421808999722,219,T.R.A.C.E. Academy,94-1388 Moaniani Street #205,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.821437883261,21.2928272976136,220,Happy Keiki Preschool At University Avenue,1035 University Avenue,Honolulu,96826,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.728910500053,21.2827499996679,221,Kamaaina Kids Holy Trinity Preschool,5919 Kalanianaole Highway,Honolulu,96821,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.088563115934,19.7197408410305,222,Mauna Loa Preschool ,172 Kapiolani Street,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-158.115476664244,21.3360781973625,223,Seagull School At Ko Olina,92-1415 Aliinui Dr.,Kapolei,96707,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.001776999901,21.3944399995972,224,HCAP Head Start August Ahrens Elementary II,94-1170 Waipahu St.,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.857245582982,21.3140163344117,225,Harris Preschool,20 South Vineyard Blvd.,Honolulu,96813,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.090343238426,19.7303660173401,226,Jumpstart Preschool Hilo ,317 Lehua Street,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-158.124347999808,21.3392789999281,227,Disney`s Aunty`s Beach House At Aulani,92-1185 Aliinui Drive.,Kapolei,96707,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.078807999751,21.3332490001203,228,The Cole Academy - Kapolei,1033 Ala Kahawai St.,Kapolei,96707,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.049090000152,21.3461010002719,229,Kroc Keiki Learning Center,91-3257 Kualakai Parkway,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.945193714996,21.387698365922,230,Kamaaina Kids St. Timothy's Academy Preschool Prog,98-939 Moanalua Road.,Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.975471443525,19.6815769662117,231,"Makua Lani Christian Academy; 4 Yr Old Kindergarte",74-4907 Palani Road,Kailua-kona,96740,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.781306916135,21.4076611869898,232,Wee Achievers Inc ,45-119 Kaneohe Bay Drive,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.464163727325,20.8844634636923,233,Maui Adventist Pre Elementary School,261 South Puunene Avenue,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.805383500131,21.2851530002463,234,St Patrick School Early Childhood Program,3320 Harding Ave.,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.843493999745,21.3185699998912,235,HCAP Head Start Pauoa,2301 Pauoa Rd,Honolulu,96813,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.84350453945,21.3026956271559,236,HCAP Head Start Queen Kaahumanu Elementary School,1141 Kinau St,Honolulu,96814,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.03383631715,21.3439947357702,237,HCAP Head Start Ewa Elementary Pre-plus,91-1280 Renton Rd,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.97214900025,21.3953129999366,238,Kidz Kare Preschool at Pearl City Elementary School,"1090 Waimano Home Rd, Rm 11",Pearl City,96782,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.354084905347,20.7072459705949,239,"Fun 2 , 3 Preschool",8992 Kula Highway,Kula,96790,Maui,Licensed Group Child Care (Preschools),PATCH
+-158.024812500205,21.3785730001594,240,New Hope Christian School,"94-050 Farrington Highway, Suite C-2",Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.915906148377,21.6183734400463,241,Bright Beginning Preschool,54-113 Kawaipuna St.,Hauula,96717,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.476983904351,20.8847910542205,242,Imua Inclusion Preschool,161 South Wakea Avenue,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-158.018899499709,21.4332839997914,243,The Cole Academy - Mililani,94-359 Makohilani Street,Mililani,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.007186623267,21.3881013740764,244,Na Maka Kindergarten Prep School,"94-450 Mokuola Street, Ste 102",Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.98151611884,21.3189869938503,245,HCAP Head Start Iroquois Point,5553 Cormorant Ave,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.172661739851,21.416797763088,246,Kamaaina Kids Maili Preschool,87-227 St John's Road,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.033501884065,21.3433263298545,247,St. Francis Preschool,91-1758 Oohao St,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.861530000252,21.3065640003311,248,Strode Montessori Preschool,810 Richards Street #124,Honolulu,96813,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.877545499731,21.322206000372,249,Metro Christian Academy,429 Waiakamilo Road,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.451560940527,20.7744458936317,250,Little Monk Seal Montessori,300 Ohukai Rd Ste B206,Kihei,96753,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.809677278379,21.3075798762436,251,Moo School,"2752 Woodlawn Drive, Ste 5-114",Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.326214944187,20.7972571472232,252,Waipuna Chapel Preschool,17 Omaopio Road,Kula,96790,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.85072129001,21.3231605059535,253,Kamaaina Kids Judd Street Preschool,45 Judd Street,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.792862457548,21.415854479795,254,Kulaniakea Preschool,45-114 Waikapoki Road,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.014489365932,21.4582151838665,255,Na Maka Kindergarten Prep School - Mililani,"95-390 Kuahelani Ave, Ste 3f",Mililani,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.454112292942,20.7392108940666,256,Kihei Baptist Preschool,1655 South Kihei Road,Kihei,96753,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.473882721295,20.8815329758935,257,Kamaaina Kids Maui Evangelical Preschool,256 Hina Avenue,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.332544850772,20.8346937466697,258,Kamaaina Kids Makawao Preschool,55 Makawao Avenue,Pukalani,96768,Maui,Licensed Group Child Care (Preschools),PATCH
+-158.00971050036,21.3157620003946,259,HCAP Head Start Pohakea II,91-750 Ft. Weaver Rd. C3,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.929921751332,21.376211582231,260,St Elizabeth Preschool,99-312 Moanalua Road,Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.860480354127,21.3027078812168,261,Children With Aloha Academy,550 Halekauwila Street #102-107,Honolulu,96813,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.931679685903,21.3790933732901,262,The Growing Patch 24-Hour Children's Academy ,"99-080 Kauhale St, Ste D14-15",Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.844340517074,21.3304507526517,263,Jumpstart Preschool,2550 Pali Highway,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.826731499644,21.2847300000173,264,Ala Wai Elementary Head Start,503 Kamoku St E-33,Honolulu,96826,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.850154043471,19.9452893289607,265,The Cole Acadamy - Mauna Lani,68-148 Hoohana Street,Kamuela,96743,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.847108763973,21.3009289180106,266,Kamaaina Kids King Street,1054 South King Street,Honolulu,96814,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.708999084632,21.2938403410415,267,Kinder Kids International Preschool,6660 Hawaii Kai Drive,Honolulu,96825,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.951943999647,21.3903000003825,268,Sunshine Works Preschool,98-1277 Kaahumanu Street #116,Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.863896999751,21.3098130003112,269,The Cole Academy Queen's Court,800 Bethel Street,Honolulu,96813,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.070090216603,19.7155979163973,270,Hauoli Haven Early Childhood Education Center ,"500 Manono St., Suite 104",Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.979415494974,21.3203649491174,271,Iroquois Point Preschool,5111 Iroquois Ave.,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.812805059436,21.2686909408003,272,Unity School,3608 Diamond Head Circle,Honolulu,96815,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.497094112858,20.8934425092711,273,St Anthony Preschool,1627-B Mill Street,Wailuku,96793,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.810666500415,21.2706450002493,274,Kapahulu Bible Church Preschool,3221 Makini Street,Honolulu,96815,Oahu,Licensed Group Child Care (Preschools),PATCH
+-154.969272538745,19.5568600664224,275,Malamalama Waldorf School Kinderhale ,15-1834 Makuu Drive,Keaau,96749,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.952580541917,21.3917627064136,276,Stepping Stones Academy Preschool,"98-761 Oihana Place, Ste. 1",Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.802559741249,21.2804292477496,277,The Toddler Program,3509 Pahoa Avenue,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.014480499901,21.4592939997219,278,Mililani Presbyterian Preschool,95-410 Kuahelani Avenue,Mililani,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.822749519236,21.2969052632441,279,University of Hawaii at Manoa Childrens Center,2320 Dole Street,Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.811584557803,21.3065603067414,280,University of Hawaii at Manoa Children's Center Noelani,"2655 Woodlawn Drive, Room Po 2",Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.819778999611,21.2892120001334,281,University of Hawaii at Manoa Children's Center Kuhio,"2759 South King St, #c1",Honolulu,96826,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.789286921102,21.4041207958587,282,Windward Nazarene Academy Preschool,45-232 Puaae Road,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.951424331611,21.3847823700623,283,Sounds Of Success Preschool And Learning Center,"98-029 Hekaha St, Bldg 5, Ste 44",Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.747720499751,21.4001910002379,284,KCAA Atherton Preschool,410 Oneawa Street,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.852055793272,21.295878220123,285,KCAA Muriel Preschool,1045 Kawaiahao Street,Honolulu,96814,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.006025000441,21.3862589999627,286,Stepping Stones Academy - Waipahu,94-905 Waipahu Street #200,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.453808000717,20.7786384835901,287,"Little Hoku Montessori Academy, LLC",220 Moi Place,Kihei,96753,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.795835062931,21.4137292510201,288,Rainbow School Kaneohe,45-211 Waikalua Road,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.807421999657,21.289878000444,289,L. Robert Allen Montessori Center,"3140 Waialae Avenue, Bldg. 20",Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.171755012999,21.4094199851073,290,Keiki O Ka Aina Family Learning Center Ka Pua Preschool,87-790 Kulauku St.,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.929009914228,21.3778313419028,291,Aiea Hongwanji Preschool,99-186 Puakala Street,Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.800302999598,21.2707170004464,292,Alani Childrens Center,4303 Diamond Head Road,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-159.466117361116,21.8989854203526,293,Koloa Head Start ,3223 Poipu Road,Koloa,96756,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.707055175809,21.9632922695945,294,Kekaha Head Start ,8563 Elepaio Road,Kekaha,96752,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.313892071886,22.0889890131358,295,Kapaa Head Start ,4886 Kawaihau Road,Kapaa,96746,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.316702878255,22.0921099669861,296,St. Catherine Preschool,5021 Kawaihau Road,Kapaa,96746,Kauai,Licensed Group Child Care (Preschools),PATCH
+-157.742734606676,21.4030624600946,297,A Caring Place Montessori Preschool,260 North Kainalu Drive,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-159.711126350963,21.9645591981197,298,St. Theresa Early Learning Academy (S.T.E.L.A.),8311 Kaumualii Hwy,Kekaha,96752,Kauai,Licensed Group Child Care (Preschools),PATCH
+-157.869083921772,21.3283044493528,299,Love A Keiki Learning Center,1239 Olomea Street,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.007144357036,21.3828544228368,300,"Faith, Hope & Love Child Care & Learning Center",94-133 Pahu Street,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.920540015704,19.5149570509233,301,Sonshine Preschool & Day Care Center,81-6614 Mamalahoa Highway,Kealakekua,96750,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-158.035828500425,21.3406739996448,302,Friendship Christian Schools at Youth Center Campus,91-1207 Renton Road,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-159.50061774284,22.2017003120954,303,Aloha School Early Learning Center,5-5344 Kuhio Highway,Hanalei,96714,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.396300548162,21.9668214748283,304,Island School Na Pua Keiki,3-1875 Kaumualii Hwy,Lihue,96766,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.620376166689,21.9185057723191,305,Kamehameha Schools Preschool - Kaumakani,2201 Kaumakani Road,Kaumakani,96747,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.366185726953,21.990344581271,306,Lihue Hongwanji Preschool,3-3560 B Kuhio Hwy,Lihue,96766,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.403815856295,22.2172954169359,307,Kauai Christian Academy Preschool,4000 Kilauea Road,Kilauea,96754,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.319420366741,22.0697278950312,308,Kahili Adventist Preschool,4-1132 Kuhio Highway,Kapaa,96746,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.585867945284,21.902754700087,309,Haloalaunuiakea Early Learning Center,4402 Waialo Road,Eleele,96705,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.450159113323,21.8874109038542,310,KCF Keiki Preschool,2731 Ala Kinoiki Street,Koloa,96756,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.363502492383,21.9713992268475,311,OCA Preschool,4212 Rice Street,Lihue,96766,Kauai,Licensed Group Child Care (Preschools),PATCH
+-157.842485999856,21.2994899999201,312,Na Maka Kindergarten Prep School Honolulu,1254 South King Street,Honolulu,96814,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.860612000123,21.3246539996775,313,Saint Theresa School,712 N School St,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-159.367463435056,21.9774386892441,314,A Room To Grow Preschool Too,3116 Akahi Street,Lihue,96766,Kauai,Licensed Group Child Care (Preschools),PATCH
+-159.366009612002,21.9793863027882,315,A Room To Grow Preschool One,3195 Elua Street,Lihue,96766,Kauai,Licensed Group Child Care (Preschools),PATCH
+-157.853673817521,21.3041609319196,316,The Early Education Center,1130 Alapai Street,Honolulu,96813,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.089125022634,19.723352740123,317,YWCA of Hawaii Island Developmental Preschool ,145 Ululani Street,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-159.370748047066,21.9848433731313,318,Lihue Head Start,3343 Kanakolu Street,Lihue,96766,Kauai,Licensed Group Child Care (Preschools),PATCH
+-154.964265922898,19.5689992859849,319,Kamehameha Preschool - Keaau ,15-1906 20th Avenue,Keaau,96749,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-154.905081928019,19.5126684247279,320,Kamehameha Preschool - Pahoa ,15-3022 Puna Road,Pahoa,96778,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.090884912351,19.7447691246309,321,PACT Head Start (Puueo),145 Wainaku Street,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-154.902471528559,19.548166370909,322,PACT Head Start Hawaiian Beaches,15-360 North Puni Makai Street,Pahoa,96778,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.138231774752,19.7145606541898,323,PACT Head Start Hilo Child Development Center ,2133 Waianuenue Avenue,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.093156249105,19.7791286746535,324,PACT Head Start Kalanianaole Inclusion ,27-330 Old Mamalahoa Hwy,Papaikou,96781,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-154.929108807707,19.5260990657492,325,PACT Head Start Keonepoko Pre-Plus Inclusion ,15-890 Kahakai Blvd,Pahoa,96778,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.102735007846,19.5550930773658,326,PACT Head Start Mt. View Pre-Plus ,18-1235 Volcano Highway,Mountain View,96771,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-159.31942811088,22.0678749173832,327,All Saints Preschool,4-1065 Kuhio Hwy,Kapaa,96746,Kauai,Licensed Group Child Care (Preschools),PATCH
+-155.082808462011,19.7200209243148,328,Hilo Hongwanji Preschool ,398 Kilauea Avenue,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-159.406715273353,22.2099834031282,329,Natural Bridges School,2414 Oka Street,Kilauea,96754,Kauai,Licensed Group Child Care (Preschools),PATCH
+-158.194124012955,21.4520381481357,330,HCAP Head Start 442,85-555 B Farrington Hwy,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.927945500185,21.3757650001284,331,HCAP Head Start Aiea Elementary I,99-370 Moanalua Road,Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.927945500185,21.3757650001284,332,HCAP Head Start Aiea Elementary Pre-plus,99-370 Moanalua Road,Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.798993028451,21.4135286003193,333,HCAP Head Start Ben Parker Elementary II,45-259 Waikalua Road A5,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.798993028451,21.4135286003193,334,HCAP Head Start Benjamin Parker,45-259 Waikalua Road,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.05846800036,21.4991009999118,335,HCAP Head Start Daniel K. Inouye Elementary,"1 Waianae Ave & Ayers Ave, Rm G1",Wahiawa,96786,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.731526032623,21.3840367398809,336,Enchanted Lake Head Start,770 Keolu Drive,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.916632499839,21.3736679998477,337,HCAP Head Start Halawa,99-795 Iwaiwa Street,Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.907718000384,21.6057690004276,338,HCAP Head Start Hauula Elementary School,54-046 Kamehameha Highway,Hauula,96717,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.809104455279,21.4192014483483,339,HCAP Head Start Heeia,46-202 Haiku Road,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.171755012999,21.4094199851073,340,HCAP Head Start Ka Pua I & II,87-790 Kulauku Street,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.036876999615,21.4941689996625,341,HCAP Head Start Kaala Elementary Pre-plus,130 California Avenue,Wahiawa,96786,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.868936999577,21.3448949997725,342,Kaewai Head Start,1929 Kamehameha Road Iv,Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.845352893319,21.4577418551338,343,HCAP Head Start Kahaluu,47-280 Waihee Road,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.191731464543,21.4541178988357,344,HCAP Head Start Kahikolu,85-296 Ala Hema Street,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.74113611784,21.3959679952035,345,Kailua Elementary Pre-Plus Head Start,315 Kuulei Road,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.748133640364,21.4139873423741,346,Kainalu Elementary Head Start,165 Kaiholu Street,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.867169507683,21.3217198348145,347,Kaiulani I & II Head Start,783 North King Street,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.878648000327,21.3272729997324,348,Kalihi Kai Head Start HCAP,626 Mcneill St,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.795650000254,21.3959969997463,349,HCAP Head Start Kaneohe Elementary,45-495 Kamehameha Highway,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.868707877919,21.335074464376,350,HCAP Head Start Kapalama,1601 North School Street,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.16679200004,21.4062929996222,351,HCAP Head Start Keiki Country I,87-412 Kaukama Road,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.16679200004,21.4062929996222,352,HCAP Head Start Keiki Country II,87-412 Kaukama Road,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.011938000314,21.4608420003249,353,HCAP Head Start Kipapa Elementary,95-076 Kipapa Drive,Mililani,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.758715979665,21.4502261215862,354,HCAP Head Start KMCBH,257 Reed Road #3,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.059144470135,21.4566841108176,355,HCAP Head Start Kunia,92-1750 Kunia Drive,Kunia,96759,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.059144470135,21.4566841108176,356,HCAP Head Start Kunia III,92-1750 Kunia Drive,Kunia,96759,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.925862000265,21.6491580000327,357,HCAP Head Start Laie Elementary,55-109 Kulanui St,Laie,96762,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.212462970411,21.46928638256,358,HCAP Head Start Makaha Elementary,84-200 Ala Naauao Place,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.752201168896,21.3777252362377,359,HCAP Head Start Maunawili Elementary,1465 Ulupi'i St,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.144482965674,21.3805235103083,360,HCAP Head Start Nanakuli I & II,89-195 Farrington Hwy,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.693828903015,21.3278807007894,361,HCAP Head Start Pope,41-133 Huli St,Waimanalo,96795,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.076323925703,19.7039422002452,362,ABC Fun Preschool ,97-a Olona Street #101,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.789896814135,21.4093823023731,363,HCAP Head Start Puohala Elementary,45-233 Kulauli Street,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.884516000438,21.3273450002986,364,HCAP Head Start Puuhale Elementary,345 Puuhale Road,Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.912395260757,21.3508745913008,365,HCAP Head Start Salt Lake Elementary Pre-plus,1131 Ala Lilikoi St,Honolulu,96818,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.170436999542,21.4127370000295,366,HCAP Head Start Ulu Ke Kukui I & II,87-576 Kulaaupuni Street,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.014340999974,21.5021789995571,367,HCAP Head Start Wahiawa UMC 1,1445 California Ave.,Wahiawa,96786,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.017868494585,21.5041394857722,368,HCAP Head Start Wahiawa Elementary Pre-plus,1402 Glen Ave,Wahiawa,96786,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.714985203571,21.3469004067497,369,HCAP Head Start Waimanalo Elementary Pre-plus,41-1330 Kalanianaole Hwy,Waimanalo,96795,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.014349903639,21.4574497125535,370,St Johns Catholic Preschool,95-370 Kuahelani Avenue,Mililani,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.749705764183,21.2775640066032,371,Calvary By The Sea School,5339 Kalanianaole Highway,Honolulu,96821,Oahu,Licensed Group Child Care (Preschools),PATCH
+-159.463210215208,21.9052926651752,372,The Koloa Early School,5521 Koloa Rd.,Koloa,96756,Kauai,Licensed Group Child Care (Preschools),PATCH
+-157.961940551255,21.4150800676904,373,The Childrens House Preschool,1840 Komo Mai Drive,Pearl City,96782,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.055089445812,19.6010741652574,374,Aloha Keiki Preschool ,17-4021 Kuaaina Road ,Keaau,96749,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.702860000111,21.2779169996565,375,Hawaii Kai Church Early Learning Center,265 Lunalilo Home Road,Honolulu,96825,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.656075833927,20.0161741183659,376,Malamapoki`i Early Childhood Education Program,"64-1043 Hiiaka Street; Bldg. B",Kamuela,96743,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.790754944929,21.2760437020991,377,Waialae Baptist Preschool,1047 21st Avenue,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.755094336838,21.3820684662304,378,Seagull School Of Kailua,1300 Kailua Road,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.876637186747,21.3381369651751,379,PACT KPT Head Start I,1485 Linapuni Street,Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.882017041161,21.3391946185695,380,PACT Fern Preplus Head Start ,1121 Middle Street,Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.860936000158,21.352860000154,381,PACT Kalihi Elementary Head Start A Licensed DP,"2471 Kula Kolea Drive, # A15, A16",Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.877863264293,21.3387476951724,382,PACT Linapuni Head Start,1434 Linapuni Street,Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.891439637916,21.3328853821478,383,PACT Kahauiki Village Head Start,2625 North Nimitz Highway,Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.752026999957,21.2786010001589,384,Holy Nativity School,5286 Kalanianaole Highway,Honolulu,96821,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.83620628513,20.207301207864,385,Kamehameha Schools- Kohala Preschool,55-1999 Kohala Mountain Road,Hawi,96719,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.641957956835,20.0296845861478,386,Kamehameha Schools- Waimea Preschool,64-780 Mamalahoa Highway,Kamuela,96743,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-156.330952177852,20.8273271100305,387,Carden Academy Of Maui,55 Makaena Place,Pukalani,96768,Maui,Licensed Group Child Care (Preschools),PATCH
+-158.171755012999,21.4094199851073,388,Punana Leo O Waianae,"87-790 Kulauku St, Pod A, Classroom 2",Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.789896814135,21.4093823023731,389,Punana Leo O Ko'olau Poko,"45-233 Kulauli St #C-5, C-6",Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.821802438866,21.3000031271833,390,Punana Leo O Manoa,2331 Seaview Ave,Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.91968367477,19.5084156726669,391,Punana Leo O Kona,81-1004 Konawaena School Road,Kealakekua,96750,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.640477123343,20.0301177672425,392,Punana Leo O Waimea,64-756 Mamalahoa Highway,Kamuela,96743,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.028099569118,19.6048142509331,393,Punana Leo O Hilo ,16-120 Opukahaia Street,Keaau,96749,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.984444873344,20.7539724306828,394,Punana Leo O Hana,5060 Uakea Road,Hana,96713,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.504749298145,20.8859202269573,395,Punana Leo O Maui,103 South High Street,Wailuku,96793,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.673455808553,20.8703991438383,396,Punana Leo O Lahaina,547 Wainee Street,Lahaina,96761,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.050699819456,21.1632773803291,397,Punana Leo O Molokai,2200 Farrington Avenue,Hoolehua,96729,Molokai,Licensed Group Child Care (Preschools),PATCH
+-159.397879880647,21.9661000359302,398,Punana Leo O Kauai ,3-1821 Kaumualii Highway,Lihue,96766,Kauai,Licensed Group Child Care (Preschools),PATCH
+-155.116454248798,19.7171434385575,399,Kamehameha Preschool - Piihonua ,1350 Waianuenue Ave,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.080132652031,19.7041840660175,400,Kamehameha Preschool - Hilo ,300 W. Lanikaula Street,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.091836484158,19.7235543207664,401,Kamehameha Preschool - Waianuenue ,374 Waianuenue Avenue,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.043621408374,19.7276600457852,402,Kamehameha Preschool - Keaukaha ,162 Baker Avenue,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.698375290963,21.330616495057,403,Kamehameha Schools Preschool - Waimanalo,41-235 Ilauhole Street,Waimanalo,96795,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.188215997757,21.4512420442423,404,Kamehameha Schools Preschool - Puu Kahea,85-179 Ala Hema Street,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.110316999698,21.5900729997134,405,Kamehameha Schools Preschool - Haleiwa I & II,66-279 A Haleiwa Rd,Haleiwa,96712,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.160200903281,21.3979985625822,406,Kamehameha Schools Preschool - Hoaliku Drake,87-115 Waiolu Street,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.954238999904,21.6763289998831,407,Kamehameha Schools Preschool - Kahuku,56-117 Pualalea St #17,Kahuku,96731,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.866282216611,21.339098982851,408,Kamehameha Schools Preschool - Kalihi- Palama,1850 Makuakane Street,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.844873781298,21.4578621074485,409,Kamehameha Schools Preschool - Kahaluu,47-253 Waihee Rd,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.144482965674,21.3805235103083,410,Kamehameha Schools Preschool - Nanakuli,89-101 Farrington Hwy.,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.144482965674,21.3805235103083,411,Kamehameha Schools Preschool - Nanakuli II,89-101 Farrington Hwy,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.818298500402,21.4107930000159,412,Kamehameha Schools Preschool - Heeia,46-430 Kahuhipa Street,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.171755012999,21.4094199851073,413,Kamehameha Schools Preschool - Ma'ili,"87-790 Kulauku St, Pod C-11 & C-12",Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.865787837684,21.3381854608663,414,Kamehameha Schools Preschool - Kapalama,1867 Kaikunane Loop,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.369682264786,20.0399209994413,415,Kamehameha Preschool - Hamakua ,43-1377 Hawaii Belt Road,Paauilo,96776,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-158.104769754611,21.5819536176972,416,Ka Hana Pono Daycare,66-434 Kamehameha Hwy.,Haleiwa,96712,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.078294999898,21.3364619997886,417,Seagull School At Kapolei,531 Farrington Hwy,Kapolei,96707,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.322920597161,20.9154602086634,418,Roots Preschool,740 Haiku Road,Haiku,96708,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.853175273286,21.316177768417,419,Hongwanji Mission School Preschool,1728 Pali Highway,Honolulu,96813,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.852051477663,21.3218874090468,420,Hawaii Baptist Academy Junior Kindergarten,21 Bates Street,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.822579447168,21.2944562328735,421,The Early School,2510 Bingham Street,Honolulu,96826,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.751754137593,21.4251699408778,422,Parent Participation Nursery School,92 Kaneohe Bay Dr,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-159.317904433088,22.0753777058045,423,"Kauai Independent Daycare Services, Inc.(K.I.D.S.)",1346 Inia Street,Kapaa,96746,Kauai,Licensed Group Child Care (Preschools),PATCH
+-155.470336198842,20.0796032362259,424,Ka Hale O Na Keiki Preschool ,45-3668 Honokaa-waipio Rd,Honokaa,96727,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-158.171755012999,21.4094199851073,425,Waianae Early Education Center At Ma'ili,"87-790 KULAUKU STREET, POD B-7 & B-8",Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.20147612398,21.4669701946239,426,Waianae Early Education Center,84-1061 Noholio Rd,Waianae,96792,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.987357141685,19.6420427567205,427,The Salvation Army Ohana Keiki Day Care Center,75-223 Kalani Street,Kailua-kona,96740,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.987569084441,19.6745104238521,428,"Hawaii Montessori Schools; Kona Campus Primary Pro",74-978 Manawalea Street,Kailua-kona,96740,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.996411763426,21.4727312632827,429,Mililani Community Church Preschool,95-1100 Kaapeha Street,Mililani Town,96789,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.955518368315,21.4246632594079,430,Palisades Baptist Church Preschool,2251 Auhuhu Street,Pearl City,96782,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.995435061838,21.4202129378386,431,Grace Fellowship Childrens Center,94-1323 Waipio Uka Street,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.834759500163,21.3032700003312,432,St Clements School,1515 Wilder Avenue,Honolulu,96822,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.858015500411,21.3040529999646,433,Kawaiahao Church School,872 Mission Lane,Honolulu,96813,Oahu,Licensed Group Child Care (Preschools),PATCH
+-155.11010479348,19.7085254757938,434,Kaumana Baptist Keikiland ,388 Kaumana Drive,Hilo,96720,East Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.941059391952,19.5662330800138,435,PACT Keauhou Head Start,78-6804 Mamalahoa Highway,Holualoa,96725,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.982203587623,19.6689494629698,436,PACT Kealakehe Head Start,"74-5118 Kealakaa Street; Room Pb-14",Kailua-kona,96740,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-155.6701607862,20.0194084258845,437,PACT Waimea Elementary Head Start,"67-1225 Mamalahoa Highway; Room V-103",Kamuela,96743,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-157.832360192648,21.2975986496929,438,Olivet Baptist Preschool,1775 S. Beretania Street,Honolulu,96826,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.828899373875,21.2944714239217,439,Angels At Play Preschool & Kindergarten,2062 South King Street,Honolulu,96826,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.946854171364,21.3962861599005,440,Alphabetland Preschool and Kindergarten - Newtown,98-456 Kaahele Street,Aiea,96701,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.963720500422,21.4106039995962,441,Alphabetland Preschool - Pearl City,1716 Komo Mai Drive,Pearl City,96782,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.035495661431,21.0963055206724,442,Kamehameha Preschool-Kalamaula ,612 Maunaloa Highway Building A,Kaunakakai,96748,Molokai,Licensed Group Child Care (Preschools),PATCH
+-158.128670486547,21.5677615459021,443,Punana Leo O Waialua,67-174 Farrington Hwy.,Waialua,96791,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.034718837302,21.3429547808825,444,"Ewa Plains Enrichment Programs, LLC DBA Ewa Beach Preschool",91-1258 Renton Road,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.01014699993,21.3118919999253,445,Enrichment Academy Child Care Tutoring Service LLC.,91-679 Ft. Weaver Rd,Ewa Beach,96706,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.463504260151,20.8830755153537,446,Kahului Baptist Preschool,309 South Puunene Avenue,Kahului,96732,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.676027329338,20.8697438469744,447,Holy Innocents Preschool,561 Front Street,Lahaina,96761,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.863388348704,21.3098585232497,448,Strode Montessori Mauka Preschool,36 Merchant Street,Honolulu,96813,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.363359192421,20.8994125319415,449,"Aloha Kai Academy, INC. ",954 Baldwin Avenue,Paia,96779,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.847012891221,21.3313754687432,450,Punana Leo O Nuuanu,110 Coello Way,Honolulu,96817,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.009966230025,21.5019206947586,451,Trinity Lutheran School Preschool Program,1611 California Avenue,Wahiawa,96786,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.888579500123,21.3273180002406,452,Kulia Christian Academy,290 Sand Island Access Road,Honolulu,96819,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.006875499837,21.3869070001443,453,Kid's Prep Preschool,94-440 Mokuola Street,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.781104652562,21.2786782870045,454,"Mary, Star Of The Sea Early Learning Center",4470 Aliikoa Street #100,Honolulu,96821,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.785675487169,21.2722686859202,455,KCAA Wai Kahala Preschool,1261 Pueo Street,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.707399980189,21.2909655642293,456,KCAA Kuapa Preschool,6774 Hawaii Kai Drive,Honolulu,96825,Oahu,Licensed Group Child Care (Preschools),PATCH
+-158.008567499792,21.3823799995655,457,St Joseph School Pre-Kindergarten,94-651 Farrington Hwy,Waipahu,96797,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.763994023421,21.3750572472167,458,Trinity Christian School,875 Auloa Road,Kailua,96734,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.964287499837,21.4051679998878,459,Our Lady Of Good Counsel Preschool,1530 Hoolana St,Pearl City,96782,Oahu,Licensed Group Child Care (Preschools),PATCH
+-159.378120038249,21.9738641284344,460,Kauai Montessori Project,4534 Uahi Road,Lihue,96766,Kauai,Licensed Group Child Care (Preschools),PATCH
+-155.986839799811,19.6320113264003,461,University Of The Nations Preschool,"75-5851 Kuakini Highway; #228",Kailua-kona,96740,West Hawaii,Licensed Group Child Care (Preschools),PATCH
+-156.305211051854,20.83695988495,462,The Meleaina School,641 Olinda Road,Makawao,96768,Maui,Licensed Group Child Care (Preschools),PATCH
+-156.372010518856,20.9033463440724,463,Doris Todd Christian Academy,519 Baldwin Avenue,Paia,96779,Maui,Licensed Group Child Care (Preschools),PATCH
+-157.787244354921,21.2806408353704,464,Wesley Childrens Programs Enrichment ,1350 Hunakai Street,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.8217168738,21.4089716449198,465,Na Pualei 'O Sarah Kupanihi Kamakau,46-500 Kuneki Street,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.069646521817,21.1634979980177,466,All God's Children Preschool,495 Puupeeula Avenue,Hoolehua,96729,Molokai,Licensed Group Child Care (Preschools),PATCH
+-157.820948999744,21.2906160003986,467,KCAA Mother Rice Preschool,2707 South King Street,Honolulu,96826,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.790029500018,21.3036659995933,468,Keiki O Ka Aina Preschool - Palolo Site,2528 10th Avenue,Honolulu,96816,Oahu,Licensed Group Child Care (Preschools),PATCH
+-157.798345500019,21.408047999826,469,Saint Mark Lutheran School ELC,45-725 Kamehameha Hwy,Kaneohe,96744,Oahu,Licensed Group Child Care (Preschools),PATCH
+-156.000465115905,20.7755842953629,470,Hāna High & Elementary,4111 Hana Hwy.,Hana,96713,Maui,Public-private partnership,EOEL
+-158.134018499849,21.3878070003139,471,Nānākuli Elementary,89-778 Haleakala Avenue,Waianae,96792,Oahu,Public-private partnership,EOEL
+-157.884516000438,21.3273450002986,472,Puʻuhale Elementary,345 Puuhale Road,Honolulu,96819,Oahu,Public-private partnership,EOEL
+-155.6701607862,20.0194084258845,473,Waimea Elementary,67-1225 Mamalahoa Hwy.,Kamuela,96743,Hawaii,Public-private partnership,EOEL
+-155.035886005276,19.7348428798713,474,Ka ʻUmeke Kāeo Public Charter School,1500 Kalanianaole Avenue.,Hilo,96720,Hawaii,Charter,EOEL
+-155.028099569118,19.6048142509331,475,Ke Kula ʻo Nāwahīokalaniʻōpuʻu Iki Laboratory Public Charter School,16-120 Opukahaia St.,Kea'au,96749,Hawaii,Charter,EOEL
+-155.640477123343,20.0301177672425,476,Ke Kula ʻo Nāwahīokalaniʻōpuʻu Iki Laboratory Public Charter School,64-756 Mamalahoa Hwy.,Waimea,96743,Hawaii,Charter,EOEL
+-158.141218722102,21.3775462438108,477,Ke Kula ʻo Nāwahīokalaniʻōpuʻu Iki Laboratory Public Charter School,89-308 Farrington Hwy.,Waianae,96792,Oahu,Charter,EOEL
+-155.089459782621,19.7255049059928,478,Kua O Ka Lā New Century Public Charter School,42 Kinoʻole St,Hilo,96720,Hawaii,Charter,EOEL
+-155.055658187816,19.6713372360616,479,Kua O Ka Lā New Century Public Charter School,345 Makalika St.,Hilo,96720,Hawaii,Charter,EOEL
+-155.226495704852,19.980371644807,480,Laupāhoehoe Community Public Charter School,35-2065 Old Mamalahoa HWY,Laupahoehoe,96764,Hawaii,Charter,EOEL
+-155.108723136163,19.5491990663962,481,Nā Wai Ola Public Charter School,18-1355 Volcano Hwy,Mountain View,96771,Hawaii,Charter,EOEL
+-155.173685084881,19.4549764836066,482,Volcano School of Arts & Sciences,99-128 Old Volcano Road,Volcano,96785,Hawaii,Charter,EOEL
+-159.715683997366,21.9725222037658,483,Ke Kula Niʻihau O Kekaha Learning Center,8135 Kekaha Rd.,Kekaha,96752,Kauai,Charter,EOEL
+-157.036511876202,21.1521869823111,484,Kualapuʻu Charter School ,260 Farrington Avenue,Kualapuu,96757,Molokai,Charter,EOEL
+-158.195062521725,21.4564629242679,485,Kamaile Academy Public Charter School,85-180 Ala Akau Street,Waianae,96792,Oahu,Charter,EOEL
+-157.8217168738,21.4089716449198,486,Ke Kula ʻo Samuel M. Kamakau Laboratory Public Charter School,46-500 Kuneki Street,Kaneohe,96744,Oahu,Charter,EOEL
+-157.792798673562,21.2764445851002,487,Waiʻalae Elementary Public Charter School,1045 19th Avenue,Honolulu,96816,Oahu,Charter,EOEL
+-157.927945500185,21.3757650001284,488,Aiea Elementary,99-370 Moanalua Road,Aiea,96701,Oahu,DOE,EOEL
+-155.077546571981,19.7139012766845,489,Chiefess Kapi'olani Elementary,966 Kilauea Avenue,Hilo,96720,Hawaii,DOE,EOEL
+-159.583897711969,21.9093406383107,490,ʻEleʻele Elementary,4750 Uliuli Road,Eleele,96705,Kauai,DOE,EOEL
+-158.113453840857,21.5844208792318,491,Hale'iwa Elementary,66-505 Haleiwa Road,Haleiwa,96712,Oahu,DOE,EOEL
+-155.094532984833,19.7219083988685,492,Hilo Union Elementary,506 Waianuenue Avenue,Hilo,96720,Hawaii,DOE,EOEL
+-155.879692856911,19.4507269848089,493,Honaunau Elementary,83-5360 Mamalahoa Highway,Captain Cook,96704,Hawaii,DOE,EOEL
+-155.464100735828,20.0755071419247,494,Honokaʻa Elementary,45-534 Pakalana Street ,Honokaa,96727,Hawaii,DOE,EOEL
+-157.74113611784,21.3959679952035,495,Kailua Elementary,315 Kuulei Road,Kailua,96734,Oahu,DOE,EOEL
+-157.862097724015,21.3455942665574,496,Kalihi Uka Elementary,2411 Kalihi Street,Honolulu,96819,Oahu,DOE,EOEL
+-157.868707877919,21.335074464376,497,Kapālama Elementary,1601 N School Street,Honolulu,96817,Oahu,DOE,EOEL
+-157.018332852256,21.0886350363254,498,Kaunakakai Elementary,30 Ailoa Street,Kaunakakai,96748,Molokai,DOE,EOEL
+-155.034522446083,19.6131810047804,499,Keaʻau Elementary,16-680 Keaau-Pahoa Road,Keaau,96749,Hawaii,DOE,EOEL
+-159.71546693353,21.9723008345792,500,Kekaha Elementary,8140 Kekaha Road,Kekaha,96752,Kauai,DOE,EOEL
+-157.735178999664,21.3718500004198,501,Keolu Elementary,1416 Keolu Drive,Kailua,96734,Oahu,DOE,EOEL
+-154.929108807707,19.5260990657492,502,Keonepoko Elementary,15-890 Kahakai Boulevard,Pahoa,96778,Hawaii,DOE,EOEL
+-157.013675975619,21.085561543105,503,Kilohana Elementary,334 Kamehameha V Highway,Kaunakakai,96748,Molokai,DOE,EOEL
+-155.818951483195,20.2370368257288,504,Kohala Elementary,54-3609 Akoni Pule Highway,Kapaau,96755,Hawaii,DOE,EOEL
+-155.923186859694,19.5048450858722,505,Konawaena Elementary,81-901 Onouli Road,Kealakekua,96750,Hawaii,DOE,EOEL
+-156.328820879996,20.7612175101609,506,Kula Elementary,5000 Kula Highway,Kula,96790,Maui,DOE,EOEL
+-156.921926002815,20.8264150616941,507,Lānaʻi Elementary,555 Fraser Avenue,Lanai City,96763,Lanai,DOE,EOEL
+-157.864171500204,21.3251040003875,508,Likelike Elementary,1618 Palama Street,Honolulu,96817,Oahu,DOE,EOEL
+-157.877863264293,21.3387476951724,509,Linapuni Elementary ,1434 Linapuni Street,Honolulu,96819,Oahu,DOE,EOEL
+-155.102735007846,19.5550930773658,510,Mountain View Elementary,18-1235 Volcano Road,Mountain View,96771,Hawaii,DOE,EOEL
+-155.580758660533,19.0618167473341,511,Nāʻālehu Elementary ,95-5547 Mamalahoa Highway,Naalehu,96772,Hawaii,DOE,EOEL
+-158.14410749962,21.3828300003453,512,Nānāikapono Elementary,89-153 Mano Avenue,Waianae,96792,Oahu,DOE,EOEL
+-158.134018499849,21.3878070003139,513,Nānākuli Elementary,89-778 Haleakala Avenue,Waianae,96792,Oahu,DOE,EOEL
+-154.942513895991,19.4924582053938,514,Pāhoa Elementary,15-3030 Pahoa Village Road,Pahoa,96778,Hawaii,DOE,EOEL
+-157.791496493125,21.2997537114235,515,Palolo Elementary,2106 10th Avenue,Honolulu,96816,Oahu,DOE,EOEL
+-156.346292134797,20.8393431248219,516,Pukalani Elementary,2945 Iolani Street,Pukalani,96768,Maui,DOE,EOEL
+-157.884516000438,21.3273450002986,517,Puʻuhale Elementary,345 Puuhale Road,Honolulu,96819,Oahu,DOE,EOEL
+-157.852262337075,21.482696668404,518,Waiāhole Elementary,48-215 Waiahole Valley Road,Kaneohe,96744,Oahu,DOE,EOEL
+-158.121273338803,21.5762138444145,519,Waialua Elementary,67-020 Waialua Beach Road,Waialua,96791,Oahu,DOE,EOEL
+-158.184248431822,21.4447286531208,520,Wai'anae Elementary,85-220 McArthur Street,Waianae,96792,Oahu,DOE,EOEL
+-157.714985203571,21.3469004067497,521,Waimanalo Elementary and Intermediate,41-1330 Kalanianaole Highway,Waimanalo,96795,Oahu,DOE,EOEL

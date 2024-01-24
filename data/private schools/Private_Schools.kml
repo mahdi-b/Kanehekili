@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Private_Schools" id="Private_Schools">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="school" type="string"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="alt_address" type="string"></SimpleField>
+	<SimpleField name="city" type="string"></SimpleField>
+	<SimpleField name="cty_dist" type="string"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+	<SimpleField name="state" type="string"></SimpleField>
+	<SimpleField name="zipcode" type="int"></SimpleField>
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="grades" type="string"></SimpleField>
+	<SimpleField name="gender" type="string"></SimpleField>
+	<SimpleField name="tuition21" type="string"></SimpleField>
+	<SimpleField name="faculty21" type="int"></SimpleField>
+	<SimpleField name="enrollment21" type="int"></SimpleField>
+</Schema>
+<Folder><name>Private_Schools</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="school">Adventist Malama Elementary School</SimpleData>
+		<SimpleData name="address">86-072 Farrington Hwy.</SimpleData>
+		<SimpleData name="city">Waianae</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96792</SimpleData>
+		<SimpleData name="website">http://www.adventistmalama.org</SimpleData>
+		<SimpleData name="grades">K-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 5880.00; Grade 1: 5880.00; Grade 2: 5880.00; Grade 3: 5880.00; Grade 4: 5880.00; Grade 5: 5880.00; Grade 6: 5880.00; Grade 7: 5880.00; Grade 8: 5880.00; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Ed</SimpleData>
+		<SimpleData name="faculty21">3</SimpleData>
+		<SimpleData name="enrollment21">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.185067325118,21.438037300676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="school">Aka'ula School</SimpleData>
+		<SimpleData name="address">1000  Kalae Highway</SimpleData>
+		<SimpleData name="city">Kualapuu</SimpleData>
+		<SimpleData name="cty_dist">Molokai</SimpleData>
+		<SimpleData name="island">Molokai</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96757</SimpleData>
+		<SimpleData name="website">www.akaula.org</SimpleData>
+		<SimpleData name="grades">5th thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: ; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: 10,000; Grade 6: 10,000; Grade 7: 10,000; Grade 8: 10,000; Grade 9: 10,000; Grade 10: 10,000; Grade 11: 10,000; Grade 12: 10,000; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">3</SimpleData>
+		<SimpleData name="enrollment21">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.036234730822,21.1518068003414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="school">Asia Pacific International School, Hawaii Campus</SimpleData>
+		<SimpleData name="address">54-230 Kamehameha Hwy.</SimpleData>
+		<SimpleData name="city">Hauula</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Windward/North Shore</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96717</SimpleData>
+		<SimpleData name="website">www.apishawaii.org</SimpleData>
+		<SimpleData name="grades">K-12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: $17,300; Grade 1: $17,300; Grade 2: $17,300; Grade 3: $17,300; Grade 4: $17,300; Grade 5: $20,400; Grade 6: $20,400; Grade 7: $20,400; Grade 8: $20,400; Grade 9: $21,500; Grade 10: $21,500; Grade 11: $21,500; </SimpleData>
+		<SimpleData name="faculty21">16</SimpleData>
+		<SimpleData name="enrollment21">150</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.917217158388,21.6148589020526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="school">Assets School</SimpleData>
+		<SimpleData name="address">One Ohana Nui Way</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96818</SimpleData>
+		<SimpleData name="website">www.assets-school.org</SimpleData>
+		<SimpleData name="grades">K-12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: $25,776; Grade 1: $25,776; Grade 2: $25,776; Grade 3: $25,776; Grade 4: $25,776; Grade 5: $25,776; Grade 6: $25,776; Grade 7: $25,776; Grade 8: $25,776; Grade 9: $27,155; Grade 10: $27,155; Grade 11: $27,155; </SimpleData>
+		<SimpleData name="faculty21">59</SimpleData>
+		<SimpleData name="enrollment21">325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.933958775622,21.3404581281177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="school">Calvary Chapel Christian School</SimpleData>
+		<SimpleData name="address">98-1016 Komo Mai Dr.</SimpleData>
+		<SimpleData name="city">Aiea</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96701</SimpleData>
+		<SimpleData name="website">cccsofhonolulu.org</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 6300; Grade 1: 6300; Grade 2: 6300; Grade 3: 6300; Grade 4: 6300; Grade 5: 6300; Grade 6: 6300; Grade 7: 6405; Grade 8: 6405; Grade 9: 7455; Grade 10: 7455; Grade 11: 7455; Grade 12: 7455; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">15</SimpleData>
+		<SimpleData name="enrollment21">133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.94819125223,21.3995268055883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="school">Carden Academy of Maui</SimpleData>
+		<SimpleData name="address">55 Maka'ena Pl.</SimpleData>
+		<SimpleData name="city">Makawao</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96768</SimpleData>
+		<SimpleData name="website">www.cardenmaui.org</SimpleData>
+		<SimpleData name="grades">PreSchool thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: $11,955; Kindergarten: $14,055; Grade 1: $14,055; Grade 2: $14,055; Grade 3: $14,055; Grade 4: $14,055; Grade 5: $14,055; Grade 6: $15,095; Grade 7: $15,095; Grade 8: $15,095; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Hi</SimpleData>
+		<SimpleData name="faculty21">11</SimpleData>
+		<SimpleData name="enrollment21">156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.330903242811,20.8268818466686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="school">Central Union Church Preschool &amp; Kindergarten</SimpleData>
+		<SimpleData name="address">1660 South Beretania Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96826</SimpleData>
+		<SimpleData name="website">www.centralunionpreschool.org</SimpleData>
+		<SimpleData name="grades">Toddler thru Kindergarten</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: $19,339.00; PreSchool: $16,759.00; Kindergarten: ; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: ; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">25</SimpleData>
+		<SimpleData name="enrollment21">172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.833665455099,21.2989119351216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="school">Christian Academy</SimpleData>
+		<SimpleData name="address">3400 Moanalua Road</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96819</SimpleData>
+		<SimpleData name="website">www.capatriots.org</SimpleData>
+		<SimpleData name="grades">P3-12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 7606-10311; Kindergarten: 9080; Grade 1: 9080; Grade 2: 9080; Grade 3: 9080; Grade 4: 9080; Grade 5: 9080; Grade 6: 9350; Grade 7: 9350; Grade 8: 9350; Grade 9: 9685; Grade 10: 9685; Grade 11: 9685; Grade 12: 9685; Higher Edu</SimpleData>
+		<SimpleData name="faculty21">28</SimpleData>
+		<SimpleData name="enrollment21">222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.902607052852,21.3656099622186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="school">Christian Liberty Academy</SimpleData>
+		<SimpleData name="address">16-675 Milo Street</SimpleData>
+		<SimpleData name="city">Keaau</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96749</SimpleData>
+		<SimpleData name="website">www.clahawaii.org</SimpleData>
+		<SimpleData name="grades">PreSchool thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 8000; Kindergarten: 6500; Grade 1: 5500; Grade 2: 5500; Grade 3: 5500; Grade 4: 5500; Grade 5: 5500; Grade 6: 6500; Grade 7: 6500; Grade 8: 6500; Grade 9: 7250; Grade 10: 7250; Grade 11: 7250; Grade 12: 7250; Higher Education</SimpleData>
+		<SimpleData name="faculty21">24</SimpleData>
+		<SimpleData name="enrollment21">198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.029382097338,19.627858536511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="school">Damien Memorial School</SimpleData>
+		<SimpleData name="address">1401 Houghtailing Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96817</SimpleData>
+		<SimpleData name="website">www.damien.edu</SimpleData>
+		<SimpleData name="grades">6th thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: ; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: ; Grade 6: $12,280; Grade 7: $12,532; Grade 8: $12,532; Grade 9: $16,392; Grade 10: $16,392; Grade 11: $16,392; Grade 12: $16,392; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">60</SimpleData>
+		<SimpleData name="enrollment21">663</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.867346780338,21.3307787553633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="school">Doris Todd Christian Academy</SimpleData>
+		<SimpleData name="address">519 Baldwin Avenue</SimpleData>
+		<SimpleData name="city">Paia</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96779</SimpleData>
+		<SimpleData name="website">www.doristoddchristian.org</SimpleData>
+		<SimpleData name="grades">PreSchool thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 7693; Kindergarten: 7693; Grade 1: 7693; Grade 2: 7693; Grade 3: 7693; Grade 4: 7693; Grade 5: 7693; Grade 6: 8149; Grade 7: 8149; Grade 8: 8149; Grade 9: 8149; Grade 10: 8149; Grade 11: 8149; Grade 12: 8149; Higher Education</SimpleData>
+		<SimpleData name="faculty21">15</SimpleData>
+		<SimpleData name="enrollment21">186</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.371658624458,20.9032620968973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">12</SimpleData>
+		<SimpleData name="school">Friendship Christian Schools</SimpleData>
+		<SimpleData name="address">91-1130 Renton Road</SimpleData>
+		<SimpleData name="alt_address">91-1207 Renton Road</SimpleData>
+		<SimpleData name="city">Ewa</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96706</SimpleData>
+		<SimpleData name="website">www.fcshawaii.org</SimpleData>
+		<SimpleData name="grades">PreSchool thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 5157; Kindergarten: 5157; Grade 1: 5157; Grade 2: 5157; Grade 3: 5157; Grade 4: 5157; Grade 5: 5157; Grade 6: 5157; Grade 7: 5157; Grade 8: 5157; Grade 9: 5157; Grade 10: 5157; Grade 11: 5157; Grade 12: 5157; Higher Education</SimpleData>
+		<SimpleData name="faculty21">24</SimpleData>
+		<SimpleData name="enrollment21">264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.039166894561,21.3374462184897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">13</SimpleData>
+		<SimpleData name="school">Haili Christian School</SimpleData>
+		<SimpleData name="address">190 Ululani Street</SimpleData>
+		<SimpleData name="city">Hilo</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96720</SimpleData>
+		<SimpleData name="website">www.hailischool.net</SimpleData>
+		<SimpleData name="grades">PreSchool thru 10th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 7950; Kindergarten: 4500; Grade 1: 4500; Grade 2: 4500; Grade 3: 4500; Grade 4: 4500; Grade 5: 4500; Grade 6: 4500; Grade 7: 4700; Grade 8: 4700; Grade 9: 4700; Grade 10: 4700; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">21</SimpleData>
+		<SimpleData name="enrollment21">153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.088858788534,19.7222822476138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">14</SimpleData>
+		<SimpleData name="school">Haleakala Waldorf School</SimpleData>
+		<SimpleData name="address">4160 Lower Kula Road</SimpleData>
+		<SimpleData name="city">Kula</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96790</SimpleData>
+		<SimpleData name="website">www.waldorfmaui.org</SimpleData>
+		<SimpleData name="grades">Early Childhood thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: $630-$800; PreSchool: 4500-12995; Kindergarten: $12,900+; Grade 1: $16,320; Grade 2: $16,320; Grade 3: $16,320; Grade 4: $16,320; Grade 5: $16,320; Grade 6: $16,995; Grade 7: $16,995; Grade 8: $16,995; Grade 9: $18,600; Grade 10: $18,600;</SimpleData>
+		<SimpleData name="faculty21">27</SimpleData>
+		<SimpleData name="enrollment21">226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.32725420971,20.7658475752044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">15</SimpleData>
+		<SimpleData name="school">Hanahau'oli School</SimpleData>
+		<SimpleData name="address">1922 Makiki Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96822</SimpleData>
+		<SimpleData name="website">www.hanahauoli.org</SimpleData>
+		<SimpleData name="grades">Preschool - 6</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 24040; Kindergarten: 24040; Grade 1: 24040; Grade 2: 24040; Grade 3: 24040; Grade 4: 24040; Grade 5: 24040; Grade 6: 24040; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">25</SimpleData>
+		<SimpleData name="enrollment21">212</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.831801718473,21.3074276442729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">16</SimpleData>
+		<SimpleData name="school">Hanalani Schools</SimpleData>
+		<SimpleData name="address">94-294 Anania Drive</SimpleData>
+		<SimpleData name="city">Mililani</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96789</SimpleData>
+		<SimpleData name="website">www.hanalani.org</SimpleData>
+		<SimpleData name="grades">PreK - 12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 13,120; Kindergarten: 14,310; Grade 1: 14,310; Grade 2: 14,310; Grade 3: 14,310; Grade 4: 14,310; Grade 5: 14,310; Grade 6: 14,310; Grade 7: 15,525; Grade 8: 15,525; Grade 9: 15,525; Grade 10: 15,525; Grade 11: 15,525; Grade </SimpleData>
+		<SimpleData name="faculty21">53</SimpleData>
+		<SimpleData name="enrollment21">606</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.00904437927,21.4408978512712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">17</SimpleData>
+		<SimpleData name="school">Hawaii Baptist Academy</SimpleData>
+		<SimpleData name="address">420 Wyllie Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96817</SimpleData>
+		<SimpleData name="website">www.hba.net</SimpleData>
+		<SimpleData name="grades">Junior Kindergarten thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 14,950; Kindergarten: 18,650; Grade 1: 18,650; Grade 2: 18,650; Grade 3: 18,650; Grade 4: 18,650; Grade 5: 18,650; Grade 6: 18,650; Grade 7: 18,650; Grade 8: 18,650; Grade 9: 18,650; Grade 10: 18,650; Grade 11: 18,650; Grade </SimpleData>
+		<SimpleData name="faculty21">81</SimpleData>
+		<SimpleData name="enrollment21">1030</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.847835015238,21.3297835372032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">18</SimpleData>
+		<SimpleData name="school">Hawaii Preparatory Academy</SimpleData>
+		<SimpleData name="address">65-1692 Kohala Mountain Road</SimpleData>
+		<SimpleData name="city">Kamuela</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="website">www.hpa.edu</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 12th plus PG</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 22,900; Grade 1: 22,900; Grade 2: 22,900; Grade 3: 22,900; Grade 4: 22,900; Grade 5: 22,900; Grade 6: 25,300; Grade 7: 25,300; Grade 8: 25,300; Grade 9: 29,600 day; Grade 10: 29,600 day; Grade 11: 29,600 day; </SimpleData>
+		<SimpleData name="enrollment21">590</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.698835229689,20.0302703775212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">19</SimpleData>
+		<SimpleData name="school">Hawaiian Mission Academy - 9-12 Campus</SimpleData>
+		<SimpleData name="address">1438 Pensacola St</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96822</SimpleData>
+		<SimpleData name="website">www.hawaiianmissionacademy.org</SimpleData>
+		<SimpleData name="grades">9th - 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: ; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: ; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: $14,327; Grade 10: $14,327; Grade 11: $14,327; Grade 12: $14,327; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">5</SimpleData>
+		<SimpleData name="enrollment21">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.843628191122,21.3055451078695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">20</SimpleData>
+		<SimpleData name="school">Hawaiian Mission Academy - Windward Campus</SimpleData>
+		<SimpleData name="address">160 Mookua Street</SimpleData>
+		<SimpleData name="city">Kailua</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Windward/North Shore</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96734</SimpleData>
+		<SimpleData name="website">www.hmawindward.org</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 6050-8500; Grade 1: 6050-8500; Grade 2: 6050-8500; Grade 3: 6050-8500; Grade 4: 6050-8500; Grade 5: 6050-8500; Grade 6: 6050-8500; Grade 7: 6050-8500; Grade 8: 6050-8500; Grade 9: ; Grade 10: ; Grade 11: ; Gra</SimpleData>
+		<SimpleData name="faculty21">4</SimpleData>
+		<SimpleData name="enrollment21">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.741195597778,21.4023292187548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">21</SimpleData>
+		<SimpleData name="school">Hawaiian Mission Academy Ka Lama Iki</SimpleData>
+		<SimpleData name="address">1415 Makiki Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96814</SimpleData>
+		<SimpleData name="website">www.kalamaiki.org</SimpleData>
+		<SimpleData name="grades">K-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 9,100; Grade 1: 9,100; Grade 2: 9,100; Grade 3: 9,100; Grade 4: 9,100; Grade 5: 9,100; Grade 6: 9,100; Grade 7: 9,100; Grade 8: 9,100; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">6</SimpleData>
+		<SimpleData name="enrollment21">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.836898866053,21.3014933115399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">22</SimpleData>
+		<SimpleData name="school">Hawaiian Mission Academy Maui</SimpleData>
+		<SimpleData name="address">261 S. Puunene Avenue</SimpleData>
+		<SimpleData name="city">Kahului</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96732</SimpleData>
+		<SimpleData name="website">www.hmamaui.org</SimpleData>
+		<SimpleData name="grades">K-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 7200; Grade 1: 7200; Grade 2: 7200; Grade 3: 7200; Grade 4: 7200; Grade 5: 7200; Grade 6: 7200; Grade 7: 7200; Grade 8: 7200; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">1</SimpleData>
+		<SimpleData name="enrollment21">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.463591371938,20.884666716892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">23</SimpleData>
+		<SimpleData name="school">Ho'ala School</SimpleData>
+		<SimpleData name="address">1067 A California Avenue</SimpleData>
+		<SimpleData name="city">Wahiawa</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96786</SimpleData>
+		<SimpleData name="website">www.hoalaschool.org</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 10995; Grade 1: 10995; Grade 2: 10995; Grade 3: 10995; Grade 4: 10995; Grade 5: 10995; Grade 6: 10995; Grade 7: 10995; Grade 8: 10995; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">5</SimpleData>
+		<SimpleData name="enrollment21">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.023073086994,21.4982684811302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">24</SimpleData>
+		<SimpleData name="school">Holy Family Catholic Academy</SimpleData>
+		<SimpleData name="address">830 Main Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96818</SimpleData>
+		<SimpleData name="website">www.hfcahawaii.org</SimpleData>
+		<SimpleData name="grades">PK-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 9270; Kindergarten: 8045; Grade 1: 8045; Grade 2: 8045; Grade 3: 8045; Grade 4: 8045; Grade 5: 8945; Grade 6: 8945; Grade 7: 8945; Grade 8: 8945; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">24</SimpleData>
+		<SimpleData name="enrollment21">314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.930277671302,21.3386023315734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">25</SimpleData>
+		<SimpleData name="school">Holy Nativity School</SimpleData>
+		<SimpleData name="address">5286 Kalaniana`ole Highway</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96821</SimpleData>
+		<SimpleData name="website">www.holynativityschool.org</SimpleData>
+		<SimpleData name="grades">Early Childhood thru 6th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: 17,371; PreSchool: 17,900; Kindergarten: 17, 900; Grade 1: 17, 900; Grade 2: 17, 900; Grade 3: 17, 900; Grade 4: 17, 900; Grade 5: 17, 900; Grade 6: 17, 900; Grade 7:  ; Grade 8:  ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Ed</SimpleData>
+		<SimpleData name="faculty21">20</SimpleData>
+		<SimpleData name="enrollment21">140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.752271813439,21.2785201632258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">26</SimpleData>
+		<SimpleData name="school">Hongwanji Mission School</SimpleData>
+		<SimpleData name="address">1728 Pali Highway</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96813</SimpleData>
+		<SimpleData name="website">www.HongwanjiMissionSchool.com</SimpleData>
+		<SimpleData name="grades">Preschool thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 11850; Kindergarten: 11850; Grade 1: 11850; Grade 2: 11850; Grade 3: 11850; Grade 4: 11850; Grade 5: 11850; Grade 6: 11850; Grade 7: 11850; Grade 8: 11850; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">39</SimpleData>
+		<SimpleData name="enrollment21">363</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.853380413111,21.3166247930191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">27</SimpleData>
+		<SimpleData name="school">Honolulu Waldorf School</SimpleData>
+		<SimpleData name="address">350 Ulua Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96821</SimpleData>
+		<SimpleData name="website">www.honoluluwaldorf.org</SimpleData>
+		<SimpleData name="grades">PreSchool thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 16200; Kindergarten: 16200; Grade 1: 18288; Grade 2: 18288; Grade 3: 18288; Grade 4: 18288; Grade 5: 18288; Grade 6: 18288; Grade 7: 18288; Grade 8: 18288; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">28</SimpleData>
+		<SimpleData name="enrollment21">144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.734611184962,21.2855575381335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">28</SimpleData>
+		<SimpleData name="school">Horizons Academy of Maui, Inc.</SimpleData>
+		<SimpleData name="address">2680 Wai Wai Place</SimpleData>
+		<SimpleData name="city">Kihei</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96753</SimpleData>
+		<SimpleData name="website">www.horizonsacademy.org</SimpleData>
+		<SimpleData name="grades">Pre-K thru continuing ed</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 4000; Grade 1: 4000; Grade 2: 4000; Grade 3: 4000; Grade 4: 4000; Grade 5: 4000; Grade 6: 4000; Grade 7: 4000; Grade 8: 4000; Grade 9: 4000; Grade 10: 4000; Grade 11: 4000; Grade 12: 4000; Higher Education: 40</SimpleData>
+		<SimpleData name="faculty21">1</SimpleData>
+		<SimpleData name="enrollment21">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.449068157089,20.7445129433418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">29</SimpleData>
+		<SimpleData name="school">Huakailani School for Girls</SimpleData>
+		<SimpleData name="address">45-035 Kaneohe Bay Drive</SimpleData>
+		<SimpleData name="city">Kaneohe</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Windward/North Shore</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96744</SimpleData>
+		<SimpleData name="website">www.huakailani.org</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 8th</SimpleData>
+		<SimpleData name="gender">Girls Only</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 12,000; Grade 1: 12,000; Grade 2: 12,000; Grade 3: 12,000; Grade 4: 12,000; Grade 5: 12,000; Grade 6: 12,000; Grade 7: 12,000; Grade 8: 12,000; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">4</SimpleData>
+		<SimpleData name="enrollment21">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.778674226064,21.4097658296277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">30</SimpleData>
+		<SimpleData name="school">'Iolani School</SimpleData>
+		<SimpleData name="address">563 Kamoku Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96826</SimpleData>
+		<SimpleData name="website">www.iolani.org</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 26150; Grade 1: 26150; Grade 2: 26150; Grade 3: 26150; Grade 4: 26150; Grade 5: 26150; Grade 6: 26150; Grade 7: 26150; Grade 8: 26150; Grade 9: 26150; Grade 10: 26150; Grade 11: 26150; Grade 12: 26150; Higher </SimpleData>
+		<SimpleData name="faculty21">218</SimpleData>
+		<SimpleData name="enrollment21">2116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.824003042132,21.2846558052868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">31</SimpleData>
+		<SimpleData name="school">Island Pacific Academy</SimpleData>
+		<SimpleData name="address">909 Haumea Street</SimpleData>
+		<SimpleData name="city">Kapolei</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96707</SimpleData>
+		<SimpleData name="website">www.islandpacificacademy.org</SimpleData>
+		<SimpleData name="grades">K-12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 16,335; Grade 1: 16,335; Grade 2: 16,335; Grade 3: 16,335; Grade 4: 16,335; Grade 5: 16,335; Grade 6: 17,300; Grade 7: 17,300; Grade 8: 17,300; Grade 9: 17,300; Grade 10: 17,300; Grade 11: 17,300; Grade 12: 17</SimpleData>
+		<SimpleData name="faculty21">60</SimpleData>
+		<SimpleData name="enrollment21">544</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.080418763696,21.3329823487155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">32</SimpleData>
+		<SimpleData name="school">Island School</SimpleData>
+		<SimpleData name="address">3-1875 Kaumualii Highway</SimpleData>
+		<SimpleData name="city">Lihue</SimpleData>
+		<SimpleData name="cty_dist">Kauai</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="website">www.ischool.org</SimpleData>
+		<SimpleData name="grades">Pre-K - 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 11,000; Kindergarten: 17,000; Grade 1: 17,000; Grade 2: 17,000; Grade 3: 17,000; Grade 4: 17,000; Grade 5: 17,000; Grade 6: 17,000; Grade 7: 17,000; Grade 8: 17,000; Grade 9: 17,000; Grade 10: 17,000; Grade 11: 17,000; Grade </SimpleData>
+		<SimpleData name="faculty21">37</SimpleData>
+		<SimpleData name="enrollment21">477</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.397741849318,21.9711382322489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">33</SimpleData>
+		<SimpleData name="school">Ka'ahumanu Hou Christian School</SimpleData>
+		<SimpleData name="address">777 Maui Veterans HWY</SimpleData>
+		<SimpleData name="city">Kahului</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96732</SimpleData>
+		<SimpleData name="website">http://khcsandnoahsarkmaui.com/</SimpleData>
+		<SimpleData name="grades">PreSchool thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 5000; Kindergarten: 4200; Grade 1: 4200; Grade 2: 4200; Grade 3: 4200; Grade 4: 4200; Grade 5: 4200; Grade 6: 4200; Grade 7: 4200; Grade 8: 4200; Grade 9: 4200; Grade 10: 4200; Grade 11: 4200; Grade 12: 4200; Higher Education</SimpleData>
+		<SimpleData name="faculty21">8</SimpleData>
+		<SimpleData name="enrollment21">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.45927007242,20.8760829182384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">34</SimpleData>
+		<SimpleData name="school">Kahili Adventist School</SimpleData>
+		<SimpleData name="address">4-1132 Kuhio Hwy</SimpleData>
+		<SimpleData name="city">Kapaa</SimpleData>
+		<SimpleData name="cty_dist">Kauai</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96746</SimpleData>
+		<SimpleData name="website">kahiliadventistschool.org</SimpleData>
+		<SimpleData name="grades">K thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 6000; Grade 1: 6000; Grade 2: 6000; Grade 3: 6000; Grade 4: 6000; Grade 5: 6000; Grade 6: 6000; Grade 7: 6000; Grade 8: 6000; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">2</SimpleData>
+		<SimpleData name="enrollment21">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.319158498935,22.0695993272672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">35</SimpleData>
+		<SimpleData name="school">Kaimuki Christian School</SimpleData>
+		<SimpleData name="address">1117 Koko Head Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96816</SimpleData>
+		<SimpleData name="website">www.kaimukichristianschool.org</SimpleData>
+		<SimpleData name="grades">P2-12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: 14300; PreSchool: 14300; Kindergarten: 15730; Grade 1: 15730; Grade 2: 15730; Grade 3: 15730; Grade 4: 15730; Grade 5: 15730; Grade 6: 15730; Grade 7: 15730; Grade 8: 15730; Grade 9: 16730; Grade 10: 16730; Grade 11: 16730; Grade 12: 1673</SimpleData>
+		<SimpleData name="faculty21">32</SimpleData>
+		<SimpleData name="enrollment21">280</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.798359015091,21.2806381737407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">36</SimpleData>
+		<SimpleData name="school">Kamehameha Schools Hawai'i</SimpleData>
+		<SimpleData name="address">16-716 Volcano Road</SimpleData>
+		<SimpleData name="city">Keaau</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96749</SimpleData>
+		<SimpleData name="website">www.ksbe.edu</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 4,898; Grade 1: 4,898; Grade 2: 4,898; Grade 3: 4,898; Grade 4: 4,898; Grade 5: 4,898; Grade 6: 5,042; Grade 7: 6,026; Grade 8: 6,026; Grade 9: 6,026; Grade 10: 6,026; Grade 11: 6,026; Grade 12: 6,026; Higher </SimpleData>
+		<SimpleData name="faculty21">99</SimpleData>
+		<SimpleData name="enrollment21">1180</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.054714362277,19.6089048614406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">37</SimpleData>
+		<SimpleData name="school">Kamehameha Schools Kapalama</SimpleData>
+		<SimpleData name="address">1887 Makuakane Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="website">www.ksbe.edu</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 4,898; Grade 1: 4,898; Grade 2: 4,898; Grade 3: 4,898; Grade 4: 4,898; Grade 5: 4,898; Grade 6: 4,898; Grade 7: 6,026; Grade 8: 6,026; Grade 9: 6,026; Grade 10: 6,026; Grade 11: 6,026; Grade 12: 6,026; Higher </SimpleData>
+		<SimpleData name="faculty21">326</SimpleData>
+		<SimpleData name="enrollment21">3192</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.85868546866,21.3393396726687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">38</SimpleData>
+		<SimpleData name="school">Kamehameha Schools Maui</SimpleData>
+		<SimpleData name="address">270 'A'apueo Parkway</SimpleData>
+		<SimpleData name="city">Pukalani</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96768</SimpleData>
+		<SimpleData name="website">https://www.ksbe.edu/education/maui/</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 4,898; Grade 1: 4,898; Grade 2: 4,898; Grade 3: 4,898; Grade 4: 4,898; Grade 5: 4,898; Grade 6: 5,042; Grade 7: 6,026; Grade 8: 6,026; Grade 9: 6,026; Grade 10: 6,026; Grade 11: 6,026; Grade 12: 6,026; Higher </SimpleData>
+		<SimpleData name="faculty21">93</SimpleData>
+		<SimpleData name="enrollment21">1106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.339909061199,20.8215766804837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">39</SimpleData>
+		<SimpleData name="school">Kauai Christian Academy</SimpleData>
+		<SimpleData name="address">4000 Kilauea Rd</SimpleData>
+		<SimpleData name="city">Kilauea</SimpleData>
+		<SimpleData name="cty_dist">Kauai</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96754</SimpleData>
+		<SimpleData name="website">www.kcaschool.org</SimpleData>
+		<SimpleData name="grades">PreK3-12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 640/790mo; Kindergarten: 7100; Grade 1: 7100; Grade 2: 7100; Grade 3: 7100; Grade 4: 7100; Grade 5: 7100; Grade 6: 7100; Grade 7: 7100; Grade 8: 7100; Grade 9: 7100; Grade 10: 7100; Grade 11: 7100; Grade 12: 7100; Higher Educ</SimpleData>
+		<SimpleData name="faculty21">12</SimpleData>
+		<SimpleData name="enrollment21">156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.405053572043,22.2164221240423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">40</SimpleData>
+		<SimpleData name="school">Kawaiaha'o Church School</SimpleData>
+		<SimpleData name="address">872 Mission Lane</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96813</SimpleData>
+		<SimpleData name="website">www.kawaiahaoschool.org</SimpleData>
+		<SimpleData name="grades">Early Childhood thru 6th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: 13,480.; PreSchool: 8,379.; Kindergarten: 8,379.; Grade 1: 8,379.; Grade 2: 8,379.; Grade 3: 8,379.; Grade 4: 8,379.; Grade 5: 8,379.; Grade 6: 8,379.; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education:</SimpleData>
+		<SimpleData name="faculty21">15</SimpleData>
+		<SimpleData name="enrollment21">110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.857925397867,21.3034358761113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">41</SimpleData>
+		<SimpleData name="school">Ke Kula 'o Pi'ilani</SimpleData>
+		<SimpleData name="address">875 'Iao Valley Rd</SimpleData>
+		<SimpleData name="city">Wailuku</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96793</SimpleData>
+		<SimpleData name="website">https://www.kekulaopiilani.com</SimpleData>
+		<SimpleData name="grades">K-5</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 8,000; Grade 1: 8,000; Grade 2: 8,000; Grade 3: 8,000; Grade 4: 8,000; Grade 5: 8,000; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">5</SimpleData>
+		<SimpleData name="enrollment21">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.536548789561,20.8832745695475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">42</SimpleData>
+		<SimpleData name="school">Kohala Adventist School</SimpleData>
+		<SimpleData name="address">55-3361 Akoni Pule Highway</SimpleData>
+		<SimpleData name="city">Hawi</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96719</SimpleData>
+		<SimpleData name="website">www.koaschool.org</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 4900; Grade 1: 4900; Grade 2: 4900; Grade 3: 4900; Grade 4: 4900; Grade 5: 4900; Grade 6: 4900; Grade 7: 4900; Grade 8: 4900; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">1</SimpleData>
+		<SimpleData name="enrollment21">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.835210892771,20.2389160502243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">43</SimpleData>
+		<SimpleData name="school">Kona Adventist Christian School</SimpleData>
+		<SimpleData name="address">82-1013 Kinue Road</SimpleData>
+		<SimpleData name="city">Captain Cook</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96704</SimpleData>
+		<SimpleData name="website">www.kacs.adventistfaith.org</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 4500; Grade 1: 4500; Grade 2: 4500; Grade 3: 4500; Grade 4: 4500; Grade 5: 4500; Grade 6: 4500; Grade 7: 4500; Grade 8: 4500; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">1</SimpleData>
+		<SimpleData name="enrollment21">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.910288980116,19.4908142749913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">44</SimpleData>
+		<SimpleData name="school">Kuleana Education Academy</SimpleData>
+		<SimpleData name="address">74-4820 Mamalahoa Highway</SimpleData>
+		<SimpleData name="city">Holualoa</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96725</SimpleData>
+		<SimpleData name="website">www.kuleanaeducation.com</SimpleData>
+		<SimpleData name="grades">K-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 8500; Grade 1: 8500; Grade 2: 8500; Grade 3: 8500; Grade 4: 8500; Grade 5: 8500; Grade 6: 8500; Grade 7: 8500; Grade 8: 8500; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">7</SimpleData>
+		<SimpleData name="enrollment21">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.97381991075,19.687292167053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">45</SimpleData>
+		<SimpleData name="school">La Pietra - Hawaii School for Girls</SimpleData>
+		<SimpleData name="address">2933 Poni Moi Road</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96815</SimpleData>
+		<SimpleData name="website">www.lapietra.edu</SimpleData>
+		<SimpleData name="grades">6th thru 12th</SimpleData>
+		<SimpleData name="gender">Girls Only</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: ; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: ; Grade 6: 20,400; Grade 7: 20,400; Grade 8: 20,400; Grade 9: 20,400; Grade 10: 20,400; Grade 11: 20,400; Grade 12: 20,400; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">23</SimpleData>
+		<SimpleData name="enrollment21">133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.815960569426,21.2612351943191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">46</SimpleData>
+		<SimpleData name="school">Lanakila Baptist Schools</SimpleData>
+		<SimpleData name="address">94-1250 Waipahu Street</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96797</SimpleData>
+		<SimpleData name="website">www.lbswarriors.com</SimpleData>
+		<SimpleData name="grades">K3-12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 8000; Kindergarten: 8000; Grade 1: 8000; Grade 2: 8000; Grade 3: 8000; Grade 4: 8000; Grade 5: 8000; Grade 6: 8000; Grade 7: 8500; Grade 8: 8500; Grade 9: 8500; Grade 10: 8500; Grade 11: 8500; Grade 12: 8500; Higher Education</SimpleData>
+		<SimpleData name="faculty21">16</SimpleData>
+		<SimpleData name="enrollment21">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.000049134196,21.3935946569376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">47</SimpleData>
+		<SimpleData name="school">Le Jardin Academy</SimpleData>
+		<SimpleData name="address">917 Kalaniana'ole Highway</SimpleData>
+		<SimpleData name="city">Kailua</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Windward/North Shore</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96734</SimpleData>
+		<SimpleData name="website">www.lejardinacademy.org</SimpleData>
+		<SimpleData name="grades">Preschool-Grade 12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: 16,230; PreSchool: 20,669; Kindergarten: 23,950; Grade 1: 23,950; Grade 2: 23,950; Grade 3: 23,950; Grade 4: 23,950; Grade 5: 23,950; Grade 6: 23,950; Grade 7: 23,950; Grade 8: 23,950; Grade 9: 23,950; Grade 10: 23,950; Grade 11: 23,950; </SimpleData>
+		<SimpleData name="faculty21">80</SimpleData>
+		<SimpleData name="enrollment21">776</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.767858025231,21.3792921107746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">48</SimpleData>
+		<SimpleData name="school">Maili Bible School</SimpleData>
+		<SimpleData name="address">87-138 Gilipake Street</SimpleData>
+		<SimpleData name="city">Waianae</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96792</SimpleData>
+		<SimpleData name="website">www.mailibible.org</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 5200; Kindergarten: 5200; Grade 1: 5200; Grade 2: 5200; Grade 3: 5200; Grade 4: 5200; Grade 5: 5200; Grade 6: 5200; Grade 7: 4300; Grade 8: 4300; Grade 9: 4300; Grade 10: 4300; Grade 11: 4300; Grade 12: 4300; Higher Education</SimpleData>
+		<SimpleData name="faculty21">5</SimpleData>
+		<SimpleData name="enrollment21">69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.175911556121,21.4171341336077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">49</SimpleData>
+		<SimpleData name="school">Makua Lani Christian Academy</SimpleData>
+		<SimpleData name="address">74-4966 Kealakaa St.</SimpleData>
+		<SimpleData name="city">Kailua-Kona</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96740</SimpleData>
+		<SimpleData name="website">www.makualani.com</SimpleData>
+		<SimpleData name="grades">PreSchool thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 8800.00; Kindergarten: 8800.00; Grade 1: 8800.00; Grade 2: 8800.00; Grade 3: 8800.00; Grade 4: 8800.00; Grade 5: 9400.00; Grade 6: 9400.00; Grade 7: 9400.00; Grade 8: 9400.00; Grade 9: 11000.00; Grade 10: 11000.00; Grade 11: </SimpleData>
+		<SimpleData name="faculty21">30</SimpleData>
+		<SimpleData name="enrollment21">306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.985940030241,19.6773424140351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">50</SimpleData>
+		<SimpleData name="school">Malamalama Waldorf School</SimpleData>
+		<SimpleData name="address">15-1834 Maku`u Drive</SimpleData>
+		<SimpleData name="city">Keaau</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96749</SimpleData>
+		<SimpleData name="website">www.hawaiiwaldorf.org</SimpleData>
+		<SimpleData name="grades">PreSchool thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: $489-909; Kindergarten: $489-909; Grade 1: $8431-9209; Grade 2: $8431-9209; Grade 3: $8431-9209; Grade 4: $8431-9209; Grade 5: $8431-9209; Grade 6: $8431-9209; Grade 7: $8431-9209; Grade 8: $8431-9209; Grade 9: ; Grade 10: ; </SimpleData>
+		<SimpleData name="faculty21">7</SimpleData>
+		<SimpleData name="enrollment21">93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.969319047659,19.5575242945676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">51</SimpleData>
+		<SimpleData name="school">Mary, Star of the Sea Early Learning Center</SimpleData>
+		<SimpleData name="address">4470 Aliikoa Street, #100</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96821</SimpleData>
+		<SimpleData name="website">www.staroftheseaelc.org</SimpleData>
+		<SimpleData name="grades">Early Childhood thru Kindergarten</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: 10,900; PreSchool: 10,900; Kindergarten: 10,900; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: ; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">25</SimpleData>
+		<SimpleData name="enrollment21">119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.7816031634,21.2787176852552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">52</SimpleData>
+		<SimpleData name="school">Mary, Star of the Sea School</SimpleData>
+		<SimpleData name="address">4469 Malia Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96821</SimpleData>
+		<SimpleData name="website">www.starofthesea.org</SimpleData>
+		<SimpleData name="grades">K-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 12,115; Grade 1: 12,115; Grade 2: 12,115; Grade 3: 12,115; Grade 4: 12,115; Grade 5: 12,115; Grade 6: 12,115; Grade 7: 12,115; Grade 8: 12,115; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">20</SimpleData>
+		<SimpleData name="enrollment21">205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.781085998097,21.2798460181257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">53</SimpleData>
+		<SimpleData name="school">Maryknoll School</SimpleData>
+		<SimpleData name="address">1526 Alexander Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96822</SimpleData>
+		<SimpleData name="website">www.maryknollschool.org</SimpleData>
+		<SimpleData name="grades">K-12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 19600; Grade 1: 19600; Grade 2: 19600; Grade 3: 19600; Grade 4: 19600; Grade 5: 19600; Grade 6: 19600; Grade 7: 19600; Grade 8: 19600; Grade 9: 19600; Grade 10: 19600; Grade 11: 19600; Grade 12: 19600; Higher </SimpleData>
+		<SimpleData name="faculty21">76</SimpleData>
+		<SimpleData name="enrollment21">1012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.830937601502,21.3011474589347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">54</SimpleData>
+		<SimpleData name="school">Maui Preparatory Academy</SimpleData>
+		<SimpleData name="address">4910 Honoapiilani Highway</SimpleData>
+		<SimpleData name="city">Lahaina</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96761</SimpleData>
+		<SimpleData name="website">www.mauiprep.org</SimpleData>
+		<SimpleData name="grades">Preschool-12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 7,700; Kindergarten: 9,900; Grade 1: 16,600; Grade 2: 16,600; Grade 3: 16,600; Grade 4: 16,600; Grade 5: 16,600; Grade 6: 18,500; Grade 7: 18,500; Grade 8: 18,500; Grade 9: 20,000; Grade 10: 20,000; Grade 11: 20,000; Grade 12</SimpleData>
+		<SimpleData name="faculty21">39</SimpleData>
+		<SimpleData name="enrollment21">300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.666928233193,20.9852295513784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">55</SimpleData>
+		<SimpleData name="school">Mauna Loa School</SimpleData>
+		<SimpleData name="address">172 Kapiolani Street</SimpleData>
+		<SimpleData name="city">Hilo</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96720</SimpleData>
+		<SimpleData name="website">www.maunaloaschool.org</SimpleData>
+		<SimpleData name="grades">K thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 4850; Grade 1: 4850; Grade 2: 4850; Grade 3: 4850; Grade 4: 4850; Grade 5: 4850; Grade 6: 4850; Grade 7: 4850; Grade 8: 4850; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">3</SimpleData>
+		<SimpleData name="enrollment21">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.08875778574,19.7196393048267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">56</SimpleData>
+		<SimpleData name="school">Mid-Pacific Institute</SimpleData>
+		<SimpleData name="address">2445 Kaala Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="website">www.midpac.edu</SimpleData>
+		<SimpleData name="grades">PreSchool thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: $27,511; Kindergarten: $27,511; Grade 1: $27,511; Grade 2: $27,511; Grade 3: $27,511; Grade 4: $27,511; Grade 5: $27,511; Grade 6: $27,511; Grade 7: $27,511; Grade 8: $27,511; Grade 9: $27,511; Grade 10: $27,511; Grade 11: $2</SimpleData>
+		<SimpleData name="faculty21">139</SimpleData>
+		<SimpleData name="enrollment21">1430</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.817298667619,21.3031189218134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">57</SimpleData>
+		<SimpleData name="school">Montessori Community School</SimpleData>
+		<SimpleData name="address">1239 Nehoa Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="website">montessorihawaii.org</SimpleData>
+		<SimpleData name="grades">Two-Year-Olds &amp; Preschool thru 6th grade</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: $14,995.00; PreSchool: $11,995.00; Kindergarten: $11,995.00; Grade 1: $15,295.00; Grade 2: $15,295.00; Grade 3: $15,295.00; Grade 4: $15,295.00; Grade 5: $15,295.00; Grade 6: $15,295.00; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade </SimpleData>
+		<SimpleData name="faculty21">15</SimpleData>
+		<SimpleData name="enrollment21">164</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.83643472571,21.3085797901685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">58</SimpleData>
+		<SimpleData name="school">Montessori School of Maui</SimpleData>
+		<SimpleData name="address">2933 Baldwin Avenue</SimpleData>
+		<SimpleData name="city">Makawao</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96768</SimpleData>
+		<SimpleData name="website">www.momi.org</SimpleData>
+		<SimpleData name="grades">Early Childhood thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: $15,612; PreSchool: $15,372; Kindergarten: $15,372; Grade 1: $15,734; Grade 2: $15,734; Grade 3: $15,734; Grade 4: $15,841; Grade 5: $15,841; Grade 6: $15,841; Grade 7: $17,982; Grade 8: $17,982; Grade 9: ; Grade 10: ; Grade 11: ; Grade 1</SimpleData>
+		<SimpleData name="faculty21">11</SimpleData>
+		<SimpleData name="enrollment21">234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.320501836673,20.868881389211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">59</SimpleData>
+		<SimpleData name="school">Navy Hale Keiki School</SimpleData>
+		<SimpleData name="address">153 Bougainville Drive</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96818</SimpleData>
+		<SimpleData name="website">www.nhks.org</SimpleData>
+		<SimpleData name="grades">PreSchool thru 5th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 7575; Kindergarten: 9760; Grade 1: 10110; Grade 2: 10110; Grade 3: 10110; Grade 4: 10110; Grade 5: 10110; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">13</SimpleData>
+		<SimpleData name="enrollment21">213</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.93029262589,21.3567289555321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">60</SimpleData>
+		<SimpleData name="school">New Hope Christian School</SimpleData>
+		<SimpleData name="address">94-050 Farrington Hwy., Suite C-2</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96797</SimpleData>
+		<SimpleData name="website">http://www.nhcshi.org</SimpleData>
+		<SimpleData name="grades">Early Childhood thru 8th grade</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: 7500; PreSchool: 7500; Kindergarten: 7500; Grade 1: 7500; Grade 2: 7500; Grade 3: 7500; Grade 4: 7500; Grade 5: 7500; Grade 6: 7500; Grade 7: 7500; Grade 8: 7500; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">13</SimpleData>
+		<SimpleData name="enrollment21">150</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.024812500205,21.3785730001594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">61</SimpleData>
+		<SimpleData name="school">Our Lady of Good Counsel School</SimpleData>
+		<SimpleData name="address">1530 Hoolana Street</SimpleData>
+		<SimpleData name="city">Pearl City</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96782</SimpleData>
+		<SimpleData name="website">www.olgchawaii.org</SimpleData>
+		<SimpleData name="grades">PK-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 9750; Kindergarten: 8000; Grade 1: 8000; Grade 2: 8000; Grade 3: 8000; Grade 4: 8000; Grade 5: 8000; Grade 6: 8000; Grade 7: 8000; Grade 8: 8000; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">22</SimpleData>
+		<SimpleData name="enrollment21">168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.964377494468,21.4052219692813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">62</SimpleData>
+		<SimpleData name="school">Our Savior Lutheran School</SimpleData>
+		<SimpleData name="address">98-1098 Moanalua Road</SimpleData>
+		<SimpleData name="city">Aiea</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96701</SimpleData>
+		<SimpleData name="website">www.oursaviorlutheranschool.org</SimpleData>
+		<SimpleData name="grades">PreSchool and K-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 7900-9300; Kindergarten: 9300; Grade 1: 9300; Grade 2: 9300; Grade 3: 9300; Grade 4: 9300; Grade 5: 9300; Grade 6: 9300; Grade 7: 9300; Grade 8: 9300; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">11</SimpleData>
+		<SimpleData name="enrollment21">93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.936896332197,21.3831222252556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">63</SimpleData>
+		<SimpleData name="school">Pacific Buddhist Academy</SimpleData>
+		<SimpleData name="address">1754 Lusitana Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96813</SimpleData>
+		<SimpleData name="website">www.pacificbuddhistacademy.org</SimpleData>
+		<SimpleData name="grades">9th thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: ; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: ; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: 17,250; Grade 10: 17,250; Grade 11: 17,250; Grade 12: 17,250; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">8</SimpleData>
+		<SimpleData name="enrollment21">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.852311013178,21.3158380171924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">64</SimpleData>
+		<SimpleData name="school">Parker School</SimpleData>
+		<SimpleData name="address">65-1224 Lindsey Road</SimpleData>
+		<SimpleData name="city">Kamuela</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="website">www.parkerschoolhawaii.org</SimpleData>
+		<SimpleData name="grades">K-12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 16,650; Grade 1: 16,650; Grade 2: 16,650; Grade 3: 16,650; Grade 4: 16,650; Grade 5: 16,650; Grade 6: 18,610; Grade 7: 18,610; Grade 8: 18,610; Grade 9: 18,610; Grade 10: 18,610; Grade 11: 18,610; Grade 12: 18</SimpleData>
+		<SimpleData name="faculty21">28</SimpleData>
+		<SimpleData name="enrollment21">305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.669797449739,20.0222787014223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">65</SimpleData>
+		<SimpleData name="school">Punahou School</SimpleData>
+		<SimpleData name="address">1601 Punahou Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96822</SimpleData>
+		<SimpleData name="website">www.punahou.edu</SimpleData>
+		<SimpleData name="grades">K - 12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 2021-2022; Kindergarten: $27,716; Grade 1: $27,716; Grade 2: $27,716; Grade 3: $27,716; Grade 4: $27,716; Grade 5: $27,716; Grade 6: $27,716; Grade 7: $27,716; Grade 8: $27,716; Grade 9: $27,716; Grade 10: $27,716; Grade 11: </SimpleData>
+		<SimpleData name="faculty21">345</SimpleData>
+		<SimpleData name="enrollment21">3770</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.828295064929,21.3032709218661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">66</SimpleData>
+		<SimpleData name="school">ROOTS School of Maui</SimpleData>
+		<SimpleData name="address">740 Haiku Road</SimpleData>
+		<SimpleData name="city">Haiku</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96708</SimpleData>
+		<SimpleData name="website">http://rootsmaui.org</SimpleData>
+		<SimpleData name="grades">PreSchool thru 5th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 8850; Kindergarten: 8850; Grade 1: 8850; Grade 2: 8850; Grade 3: 8850; Grade 4: 8850; Grade 5: 8850; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">5</SimpleData>
+		<SimpleData name="enrollment21">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.323175772665,20.9155080640378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">67</SimpleData>
+		<SimpleData name="school">Sacred Hearts Academy</SimpleData>
+		<SimpleData name="address">3253 Waialae Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="website">https://www.sacredhearts.org</SimpleData>
+		<SimpleData name="grades">Preschool through 12th</SimpleData>
+		<SimpleData name="gender">Girls Only</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 13426; Kindergarten: 13466; Grade 1: 13466; Grade 2: 13466; Grade 3: 13841; Grade 4: 14171; Grade 5: 13741; Grade 6: 14141; Grade 7: 15465; Grade 8: 15465; Grade 9: 17976; Grade 10: 17976; Grade 11: 17976; Grade 12: 18126; Hi</SimpleData>
+		<SimpleData name="faculty21">66</SimpleData>
+		<SimpleData name="enrollment21">669</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.80678791436,21.2857305135103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">68</SimpleData>
+		<SimpleData name="school">Sacred Hearts School</SimpleData>
+		<SimpleData name="address">239 Dickenson Street</SimpleData>
+		<SimpleData name="city">Lahaina</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96761</SimpleData>
+		<SimpleData name="website">www.shsmaui.org</SimpleData>
+		<SimpleData name="grades">K-12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: $7,300.00; PreSchool: $7,300.00; Kindergarten: $8,000.00; Grade 1: $8,000.00; Grade 2: $8,000.00; Grade 3: $8,000.00; Grade 4: $8,000.00; Grade 5: $8,000.00; Grade 6: $8,450.00; Grade 7: $8,450.00; Grade 8: $8,450.00; Grade 9: $8,900; Gra</SimpleData>
+		<SimpleData name="faculty21">18</SimpleData>
+		<SimpleData name="enrollment21">202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.675988435398,20.8753005086524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">69</SimpleData>
+		<SimpleData name="school">Saint Louis School</SimpleData>
+		<SimpleData name="address">3142 Waialae Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="website">www.saintlouishawaii.org</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 12th</SimpleData>
+		<SimpleData name="gender">Boys Only</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 14,300.00; Grade 1: 14,300.00; Grade 2: 14,300.00; Grade 3: 14,300.00; Grade 4: 14,300.00; Grade 5: 14,300.00; Grade 6: 16,200.00; Grade 7: 16,200.00; Grade 8: 16,200.00; Grade 9: 18,200.00; Grade 10: 18,200.0</SimpleData>
+		<SimpleData name="faculty21">62</SimpleData>
+		<SimpleData name="enrollment21">882</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.808414320495,21.290336240972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">70</SimpleData>
+		<SimpleData name="school">Saint Mark Lutheran School</SimpleData>
+		<SimpleData name="address">45-725 Kamehameha Hwy.</SimpleData>
+		<SimpleData name="city">Kaneohe</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Windward/North Shore</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96744</SimpleData>
+		<SimpleData name="website">www.smls-hawaii.org</SimpleData>
+		<SimpleData name="grades">PK3 thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 9754; Kindergarten: 9754; Grade 1: 9754; Grade 2: 9754; Grade 3: 9754; Grade 4: 9754; Grade 5: 9754; Grade 6: 10350; Grade 7: 10350; Grade 8: 10350; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">15</SimpleData>
+		<SimpleData name="enrollment21">218</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.798555509225,21.4079278976458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">71</SimpleData>
+		<SimpleData name="school">Saint Patrick School</SimpleData>
+		<SimpleData name="address">3320 Harding Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96816</SimpleData>
+		<SimpleData name="website">www.saintpatrickhawaii.org</SimpleData>
+		<SimpleData name="grades">PK-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 7950; Kindergarten: 7950; Grade 1: 7750; Grade 2: 7750; Grade 3: 7750; Grade 4: 7750; Grade 5: 7750; Grade 6: 7750; Grade 7: 7750; Grade 8: 7750; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">26</SimpleData>
+		<SimpleData name="enrollment21">282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.805710474821,21.2850748151359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">72</SimpleData>
+		<SimpleData name="school">Saint Theresa School</SimpleData>
+		<SimpleData name="address">712 North School Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96817</SimpleData>
+		<SimpleData name="website">www.sts-hi.org</SimpleData>
+		<SimpleData name="grades">PK-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 9123; Kindergarten: 7790; Grade 1: 7790; Grade 2: 7790; Grade 3: 7790; Grade 4: 7790; Grade 5: 7790; Grade 6: 7790; Grade 7: 7790; Grade 8: 7790; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">22</SimpleData>
+		<SimpleData name="enrollment21">249</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.860745363556,21.3246193519826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">73</SimpleData>
+		<SimpleData name="school">Seabury Hall</SimpleData>
+		<SimpleData name="address">480 Olinda Road</SimpleData>
+		<SimpleData name="city">Makawao</SimpleData>
+		<SimpleData name="cty_dist">Maui</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96768</SimpleData>
+		<SimpleData name="website">www.seaburyhall.org</SimpleData>
+		<SimpleData name="grades">6th thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: ; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: ; Grade 6: 22270; Grade 7: 22270; Grade 8: 22270; Grade 9: 22270; Grade 10: 22270; Grade 11: 22270; Grade 12: 22270; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">59</SimpleData>
+		<SimpleData name="enrollment21">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.310887409491,20.8410613173664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">74</SimpleData>
+		<SimpleData name="school">Soto Academy</SimpleData>
+		<SimpleData name="address">1708 Nuuanu Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96817</SimpleData>
+		<SimpleData name="website">https://sotoacademy.org/</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 6th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 12300; Grade 1: 12300; Grade 2: 12300; Grade 3: 12300; Grade 4: 12300; Grade 5: 12300; Grade 6: 12300; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">7</SimpleData>
+		<SimpleData name="enrollment21">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.854832196138,21.3184121992615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">75</SimpleData>
+		<SimpleData name="school">St Anthony School Kailua</SimpleData>
+		<SimpleData name="address">148 Makawao Street</SimpleData>
+		<SimpleData name="city">Kailua</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Windward/North Shore</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96734</SimpleData>
+		<SimpleData name="website">www.saskailua.org</SimpleData>
+		<SimpleData name="grades">PS-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: $8572/9978; Kindergarten: $8193; Grade 1: $8193; Grade 2: $8193; Grade 3: $8193; Grade 4: $8193; Grade 5: $8193; Grade 6: $8355; Grade 7: $8355; Grade 8: $8560; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education:</SimpleData>
+		<SimpleData name="faculty21">27</SimpleData>
+		<SimpleData name="enrollment21">278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.738410687571,21.4002389621919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">76</SimpleData>
+		<SimpleData name="school">St. Andrew's Schools - The Prep</SimpleData>
+		<SimpleData name="address">224 Queen Emma Square</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96813</SimpleData>
+		<SimpleData name="website">www.standrewsschools.org</SimpleData>
+		<SimpleData name="grades">K-6</SimpleData>
+		<SimpleData name="gender">Boys Only</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: $18,575; Grade 1: $18,575; Grade 2: $18,575; Grade 3: $18,575; Grade 4: $18,575; Grade 5: $18,575; Grade 6: $18,575; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">10</SimpleData>
+		<SimpleData name="enrollment21">65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.856800864193,21.3097105362268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">77</SimpleData>
+		<SimpleData name="school">St. Andrew's Schools - The Preschool</SimpleData>
+		<SimpleData name="address">3019 Pali Highway</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96817</SimpleData>
+		<SimpleData name="website">www.standrewsschools.org</SimpleData>
+		<SimpleData name="grades">2-5 years</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: $13,680; Kindergarten: ; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: ; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">16</SimpleData>
+		<SimpleData name="enrollment21">101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.837399901959,21.3372641414807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">78</SimpleData>
+		<SimpleData name="school">St. Andrew's Schools - The Priory</SimpleData>
+		<SimpleData name="address">224 Queen Emma Square</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96813</SimpleData>
+		<SimpleData name="website">www.standrewsschools.org</SimpleData>
+		<SimpleData name="grades">K thru 12th</SimpleData>
+		<SimpleData name="gender">Girls Only</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: $18,575; Grade 1: $18,575; Grade 2: $18,575; Grade 3: $18,575; Grade 4: $18,575; Grade 5: $18,575; Grade 6: $18,575; Grade 7: $18,575; Grade 8: $18,575; Grade 9: $19,950; Grade 10: $19,950; Grade 11: $19,950; </SimpleData>
+		<SimpleData name="faculty21">20</SimpleData>
+		<SimpleData name="enrollment21">223</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.856800864193,21.3097105362268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">79</SimpleData>
+		<SimpleData name="school">St. Catherine School</SimpleData>
+		<SimpleData name="address">5021 Kawaihau Road</SimpleData>
+		<SimpleData name="city">Kapaa</SimpleData>
+		<SimpleData name="cty_dist">Kauai</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96745</SimpleData>
+		<SimpleData name="website">www.scskauai.org</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 725; Kindergarten: 7300; Grade 1: 7300; Grade 2: 7300; Grade 3: 7300; Grade 4: 7300; Grade 5: 7300; Grade 6: 7300; Grade 7: 7300; Grade 8: 7300; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">17</SimpleData>
+		<SimpleData name="enrollment21">170</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.317058126274,22.0909712308745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">80</SimpleData>
+		<SimpleData name="school">St. Clement's School</SimpleData>
+		<SimpleData name="address">1515 Wilder Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="website">http://www.stclem.com</SimpleData>
+		<SimpleData name="grades">PreSchool thru Kindergarten</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: $12,402.00; Kindergarten: $12,402.00; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: ; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">18</SimpleData>
+		<SimpleData name="enrollment21">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.834782029434,21.3033810841001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">81</SimpleData>
+		<SimpleData name="school">St. Elizabeth School</SimpleData>
+		<SimpleData name="address">99-310 Moanalua Road</SimpleData>
+		<SimpleData name="city">Aiea</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96701</SimpleData>
+		<SimpleData name="website">www.steliz-hi.org</SimpleData>
+		<SimpleData name="grades">PK-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 7500; Kindergarten: 7500; Grade 1: 7500; Grade 2: 7500; Grade 3: 7500; Grade 4: 7500; Grade 5: 7500; Grade 6: 7500; Grade 7: 7500; Grade 8: 7500; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">12</SimpleData>
+		<SimpleData name="enrollment21">141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.929907386236,21.3766601682845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">82</SimpleData>
+		<SimpleData name="school">St. John Vianney School</SimpleData>
+		<SimpleData name="address">940 Keolu Drive</SimpleData>
+		<SimpleData name="city">Kailua</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Windward/North Shore</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96734</SimpleData>
+		<SimpleData name="website">www.sjvkailua.org</SimpleData>
+		<SimpleData name="grades">PK-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 8530; Kindergarten: 8230; Grade 1: 8230; Grade 2: 8230; Grade 3: 8230; Grade 4: 8230; Grade 5: 8230; Grade 6: 8230; Grade 7: 8230; Grade 8: 8230; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">14</SimpleData>
+		<SimpleData name="enrollment21">176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.729242871283,21.3795430768911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">83</SimpleData>
+		<SimpleData name="school">St. John's Catholic Preschool</SimpleData>
+		<SimpleData name="address">95-370 Kuahelani Ave</SimpleData>
+		<SimpleData name="city">Mililani Town</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96789</SimpleData>
+		<SimpleData name="website">https://www.stjohnmililani.org/preschool</SimpleData>
+		<SimpleData name="grades">PK-K</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 11,700; Kindergarten: 11,700; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: ; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">2</SimpleData>
+		<SimpleData name="enrollment21">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.014711092279,21.4571657829457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">84</SimpleData>
+		<SimpleData name="school">St. Joseph Parish School</SimpleData>
+		<SimpleData name="address">94-651 Farrington Hwy.</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96797</SimpleData>
+		<SimpleData name="website">www.stjosephwaipahu.org</SimpleData>
+		<SimpleData name="grades">PK-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 8988; Kindergarten: 8400; Grade 1: 8400; Grade 2: 8400; Grade 3: 8400; Grade 4: 8400; Grade 5: 8400; Grade 6: 8400; Grade 7: 8400; Grade 8: 8400; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">17</SimpleData>
+		<SimpleData name="enrollment21">293</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.00834634437,21.3826753398998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">85</SimpleData>
+		<SimpleData name="school">St. Joseph School</SimpleData>
+		<SimpleData name="address">1000 Ululani Street</SimpleData>
+		<SimpleData name="city">Hilo</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96720</SimpleData>
+		<SimpleData name="website">www.sjshilo.com</SimpleData>
+		<SimpleData name="grades">PreSchool thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 7000; Kindergarten: 7140; Grade 1: 7140; Grade 2: 7140; Grade 3: 7140; Grade 4: 7140; Grade 5: 7140; Grade 6: 7140; Grade 7: 8295; Grade 8: 8295; Grade 9: 9293; Grade 10: 9293; Grade 11: 9293; Grade 12: 9293; Higher Education</SimpleData>
+		<SimpleData name="faculty21">20</SimpleData>
+		<SimpleData name="enrollment21">223</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.084421484194,19.7141050547977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">86</SimpleData>
+		<SimpleData name="school">St. Michael School</SimpleData>
+		<SimpleData name="address">67-340 Haona Street</SimpleData>
+		<SimpleData name="city">Waialua</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Windward/North Shore</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96791</SimpleData>
+		<SimpleData name="website">www.stmichaelschoolhi.com</SimpleData>
+		<SimpleData name="grades">PK-12</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 8000; Kindergarten: 7500; Grade 1: 7500; Grade 2: 7500; Grade 3: 7500; Grade 4: 7500; Grade 5: 7500; Grade 6: 7500; Grade 7: 7500; Grade 8: 7500; Grade 9: 9950; Grade 10: 9950; Grade 11: 9950; Grade 12: 9950; Higher Education</SimpleData>
+		<SimpleData name="faculty21">8</SimpleData>
+		<SimpleData name="enrollment21">98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.121905069211,21.5690533811665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">87</SimpleData>
+		<SimpleData name="school">St. Philomena Early Learning Center</SimpleData>
+		<SimpleData name="address">3300 Ala Laulani Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96818</SimpleData>
+		<SimpleData name="website">http://www.stphilomenaearlylearningcenter.com/</SimpleData>
+		<SimpleData name="grades">Early Childhood thru Kindergarten</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: $13,800.00; PreSchool: $13,140.00; Kindergarten: $13,615.00; Grade 1: ; Grade 2: ; Grade 3: ; Grade 4: ; Grade 5: ; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">7</SimpleData>
+		<SimpleData name="enrollment21">129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.914130095539,21.34616827635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">88</SimpleData>
+		<SimpleData name="school">St. Theresa School</SimpleData>
+		<SimpleData name="address">8311 Kaumualii Highway</SimpleData>
+		<SimpleData name="city">Kekaha</SimpleData>
+		<SimpleData name="cty_dist">Kauai</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96752</SimpleData>
+		<SimpleData name="website">www.sttheresakauai.com</SimpleData>
+		<SimpleData name="grades">PK-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 6481; Kindergarten: 5892; Grade 1: 5892; Grade 2: 5892; Grade 3: 5892; Grade 4: 5892; Grade 5: 5892; Grade 6: 5892; Grade 7: 5892; Grade 8: 5892; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">15</SimpleData>
+		<SimpleData name="enrollment21">140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.713074081329,21.9668009948551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">89</SimpleData>
+		<SimpleData name="school">The Children's House</SimpleData>
+		<SimpleData name="address">1840 Komo Mai Drive</SimpleData>
+		<SimpleData name="city">Pearl City</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Central/Leeward</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96782</SimpleData>
+		<SimpleData name="website">www.childrenshousehawaii.org</SimpleData>
+		<SimpleData name="grades">PS-3</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 12860; Kindergarten: 12980; Grade 1: 14220; Grade 2: 14220; Grade 3: 14220; Grade 4: ; Grade 5: ; Grade 6: ; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">26</SimpleData>
+		<SimpleData name="enrollment21">210</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.962370383548,21.4152321315857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">90</SimpleData>
+		<SimpleData name="school">Trinity Christian School</SimpleData>
+		<SimpleData name="address">875 Auloa Road</SimpleData>
+		<SimpleData name="alt_address">1110 Kailua Road</SimpleData>
+		<SimpleData name="city">Kailua</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Windward/North Shore</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96734</SimpleData>
+		<SimpleData name="website">www.TCSKailua.net</SimpleData>
+		<SimpleData name="grades">PreSchool thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 12,400; Kindergarten: 14,400; Grade 1: 14,400; Grade 2: 14,400; Grade 3: 14,400; Grade 4: 14,400; Grade 5: 14,400; Grade 6: 14,400; Grade 7: 16,000; Grade 8: 16,000; Grade 9: 16,000; Grade 10: 16,000; Grade 11: 16,000; Grade </SimpleData>
+		<SimpleData name="faculty21">25</SimpleData>
+		<SimpleData name="enrollment21">274</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.764302370866,21.375010314285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">91</SimpleData>
+		<SimpleData name="school">Trinity Lutheran School</SimpleData>
+		<SimpleData name="address">1611 California Avenue</SimpleData>
+		<SimpleData name="city">Wahiawa</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96786</SimpleData>
+		<SimpleData name="website">https://www.tls-hawaii.org</SimpleData>
+		<SimpleData name="grades">PS-8</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: $3950-$750; Kindergarten: $9000; Grade 1: $9000; Grade 2: $9000; Grade 3: $9000; Grade 4: $9000; Grade 5: $9000; Grade 6: $9000; Grade 7: $9000; Grade 8: $9000; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education:</SimpleData>
+		<SimpleData name="faculty21">11</SimpleData>
+		<SimpleData name="enrollment21">165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.010012629732,21.5017254434688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">92</SimpleData>
+		<SimpleData name="school">Variety School of Hawaii</SimpleData>
+		<SimpleData name="address">710 Palekaua Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96816</SimpleData>
+		<SimpleData name="website">www.varietyschool.org</SimpleData>
+		<SimpleData name="grades">K thru 12th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 39,655; Grade 1: 39,655; Grade 2: 39,655; Grade 3: 39,655; Grade 4: 39,655; Grade 5: 39,655; Grade 6: 39,655; Grade 7: 39,655; Grade 8: 39,655; Grade 9: 39,655; Grade 10: 39,655; Grade 11: 39,655; Grade 12: 39</SimpleData>
+		<SimpleData name="faculty21">10</SimpleData>
+		<SimpleData name="enrollment21">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.795186787073,21.2636589983931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">93</SimpleData>
+		<SimpleData name="school">Waimea Country School</SimpleData>
+		<SimpleData name="address">65-1237 Kawaihae Rd</SimpleData>
+		<SimpleData name="city">Kamuela</SimpleData>
+		<SimpleData name="cty_dist">Hawaii (Big Island)</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96743</SimpleData>
+		<SimpleData name="website">www.waimeacountryschool.org</SimpleData>
+		<SimpleData name="grades">Kindergarten thru 6th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: ; Kindergarten: 11,500; Grade 1: 11,500; Grade 2: 11,500; Grade 3: 11,500; Grade 4: 11,500; Grade 5: 11,500; Grade 6: 11,500; Grade 7: ; Grade 8: ; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">6</SimpleData>
+		<SimpleData name="enrollment21">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.671606616389,20.021503360614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">94</SimpleData>
+		<SimpleData name="school">Waolani Judd Nazarene School</SimpleData>
+		<SimpleData name="address">408 North Judd Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Honolulu</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96817</SimpleData>
+		<SimpleData name="website">www.wjns.org</SimpleData>
+		<SimpleData name="grades">PreSchool thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 11424; Kindergarten: 7800; Grade 1: 7800; Grade 2: 7800; Grade 3: 7800; Grade 4: 7800; Grade 5: 7800; Grade 6: 8270; Grade 7: 8270; Grade 8: 8270; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">19</SimpleData>
+		<SimpleData name="enrollment21">229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.852050403851,21.3251601029341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Private_Schools">
+		<SimpleData name="objectid">95</SimpleData>
+		<SimpleData name="school">Windward Nazarene Academy</SimpleData>
+		<SimpleData name="address">45-232 Puaae Road</SimpleData>
+		<SimpleData name="city">Kane'ohe</SimpleData>
+		<SimpleData name="cty_dist">Oahu - Windward/North Shore</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="state">HI</SimpleData>
+		<SimpleData name="zipcode">96744</SimpleData>
+		<SimpleData name="website">www.wnahawaii.com</SimpleData>
+		<SimpleData name="grades">Preschool thru 8th</SimpleData>
+		<SimpleData name="gender">Co-ed</SimpleData>
+		<SimpleData name="tuition21">Early Childhood: ; PreSchool: 10470; Kindergarten: 9885; Grade 1: 9885; Grade 2: 9885; Grade 3: 9885; Grade 4: 9885; Grade 5: 9885; Grade 6: 9885; Grade 7: 9885; Grade 8: 9885; Grade 9: ; Grade 10: ; Grade 11: ; Grade 12: ; Higher Education: </SimpleData>
+		<SimpleData name="faculty21">16</SimpleData>
+		<SimpleData name="enrollment21">147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.78962734156,21.4039333328117</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

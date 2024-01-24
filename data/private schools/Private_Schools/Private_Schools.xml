@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Private Schools</title>
+                <onlink>https://geodata.hawaii.gov/arcgis/rest/services/Infrastructure/MapServer/8</onlink>
+                <onlink>https://files.hawaii.gov/dbedt/op/gis/data/private_schools.pdf</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>[Metadata] Locations of private schools in the State of Hawaii as of November 2021.  Preschool-only private schools are not included.Source:Hawaii Association of Independent Schools, November 19, 2021. Note:  There are other private and independent schools in the state which are not included in this layer, as they are not HAIS members, and so do not share their information with the HAIS system.  The Statewide GIS Program intends to collect information for these additional schools in order to update this layer in the future.  For more information, please see metadata at https://files.hawaii.gov/dbedt/op/gis/data/private_schools.pdf or contact Hawaii Statewide GIS Program, Office of Planning and Sustainable Development, State of Hawaii; PO Box 2359, Honolulu, Hi. 96804; (808) 587-2846; email: gis@hawaii.gov; Website: https://planning.hawaii.gov/gis.</abstract>
+            <purpose>Private School locations for the main Hawaiian Islands as of November 2021.  
+Source: Hawaii Association of Independent Schools (HAIS).</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Private Schools</themekey>
+                <themekey>Hawaii</themekey>
+                <themekey>Facilities and Structures</themekey>
+                <themekey>Schools</themekey>
+                <themekey>Education</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>State of Hawaii Terms of Use. 
+
+
+
+The
+ contents of this web page are public domain and to the extent indicated
+ otherwise in the Terms of Use, are exempt from Terms of Use policy 
+restrictions.There are no expressed warranties associated with the 
+release of this data or product. Specifically, no warranty is made that 
+the GIS data or any subsequent updates will be error free and no 
+warranty is made regarding the positional or thematic accuracy of the 
+GIS data. The GIS data and any features depicted do not represent or 
+confer any legal rights, privileges, benefits, boundaries or claims of 
+any kind. The Office of Planning and Sustainable Development encourages users to report any 
+discrepancies or errors found. 
+ Contact: Hawaii Statewide GIS Program, Office of Planning and 
+Sustainable Development, State of Hawaii; PO Box 2359, Honolulu, Hi. 
+96804; (808) 587-2846; email: gis@hawaii.gov. Website: https://planning.hawaii.gov/gis.</useconst>
+        <datacred>Hawaii Statewide GIS Program, HAIS</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20201101</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
