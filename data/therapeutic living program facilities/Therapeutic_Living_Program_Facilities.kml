@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Therapeutic_Living_Program_Facilities" id="Therapeutic_Living_Program_Facilities">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="city" type="string"></SimpleField>
+	<SimpleField name="zipcode" type="int"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+	<SimpleField name="phone" type="string"></SimpleField>
+	<SimpleField name="license_ex" type="string"></SimpleField>
+	<SimpleField name="license_nu" type="string"></SimpleField>
+</Schema>
+<Folder><name>Therapeutic_Living_Program_Facilities</name>
+  <Placemark>
+	<name>Big Island Substance Abuse Council (Kinoole)</name>
+	<ExtendedData><SchemaData schemaUrl="#Therapeutic_Living_Program_Facilities">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="address">2093 Kinoole Street</SimpleData>
+		<SimpleData name="city">Hilo</SimpleData>
+		<SimpleData name="zipcode">96720</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone">8089699994</SimpleData>
+		<SimpleData name="license_ex">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">37-TLP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.069249724119,19.6872827512466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Big Island Substance Abuse Council (Laukona)</name>
+	<ExtendedData><SchemaData schemaUrl="#Therapeutic_Living_Program_Facilities">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="address">136 Laukona Street</SimpleData>
+		<SimpleData name="city">Hilo</SimpleData>
+		<SimpleData name="zipcode">96720</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone">8089699994</SimpleData>
+		<SimpleData name="license_ex">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">42-TLP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.109186336887,19.7115459791979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Hawaii Men's TLP</name>
+	<ExtendedData><SchemaData schemaUrl="#Therapeutic_Living_Program_Facilities">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="address">1151 Heauka Place</SimpleData>
+		<SimpleData name="city">Hilo</SimpleData>
+		<SimpleData name="zipcode">96720</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone">8089699994</SimpleData>
+		<SimpleData name="license_ex">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">47-TLP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.125097235656,19.7116739642079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ho'omau Ke Ola III</name>
+	<ExtendedData><SchemaData schemaUrl="#Therapeutic_Living_Program_Facilities">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="address">84-742 Farrington Highway</SimpleData>
+		<SimpleData name="city">Waianae</SimpleData>
+		<SimpleData name="zipcode">96792</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086964266</SimpleData>
+		<SimpleData name="license_ex">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">23-TLP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.215403688363,21.4688443071952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ke Ola Pono</name>
+	<ExtendedData><SchemaData schemaUrl="#Therapeutic_Living_Program_Facilities">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="address">845 22nd Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96816</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8087394951</SimpleData>
+		<SimpleData name="license_ex">2022/06/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">38-TLP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.791962622502,21.271837878361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malama Family Recovery Center</name>
+	<ExtendedData><SchemaData schemaUrl="#Therapeutic_Living_Program_Facilities">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="address">388 Ano Street</SimpleData>
+		<SimpleData name="city">Kahului</SimpleData>
+		<SimpleData name="zipcode">96732</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="phone">8088777117</SimpleData>
+		<SimpleData name="license_ex">2022/05/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">46-TLP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.478744362247,20.8852949841371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pacific Quest - Awapuhi</name>
+	<ExtendedData><SchemaData schemaUrl="#Therapeutic_Living_Program_Facilities">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="address">15-1973 4th Avenue</SimpleData>
+		<SimpleData name="city">Keaau</SimpleData>
+		<SimpleData name="zipcode">96749</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone">8083450076</SimpleData>
+		<SimpleData name="license_ex">2021/11/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">50-TLP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.939692016057,19.5888724499941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pacific Quest - Nanialii</name>
+	<ExtendedData><SchemaData schemaUrl="#Therapeutic_Living_Program_Facilities">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="address">15-1736 22nd Avenue</SimpleData>
+		<SimpleData name="city">Keaau</SimpleData>
+		<SimpleData name="zipcode">96749</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone">8083450076</SimpleData>
+		<SimpleData name="license_ex">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">51-TLP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.976184585977,19.5737024564309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pacific Quest - Olena</name>
+	<ExtendedData><SchemaData schemaUrl="#Therapeutic_Living_Program_Facilities">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="address">15-1903 26th Avenue</SimpleData>
+		<SimpleData name="city">Keaau</SimpleData>
+		<SimpleData name="zipcode">96749</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone">8083450076</SimpleData>
+		<SimpleData name="license_ex">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">52-TLP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.97183435485,19.5602687020746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pacific Quest at Reeds Bay</name>
+	<ExtendedData><SchemaData schemaUrl="#Therapeutic_Living_Program_Facilities">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="address">301 Kalanianaole Streeet</SimpleData>
+		<SimpleData name="city">Hilo</SimpleData>
+		<SimpleData name="zipcode">96720</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone">8083450076</SimpleData>
+		<SimpleData name="license_ex">2021/11/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">48-TLP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.059975992238,19.724900507679</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
