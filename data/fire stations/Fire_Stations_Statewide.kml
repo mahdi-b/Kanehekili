@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Fire_Stations__Statewide_" id="Fire_Stations__Statewide_">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+</Schema>
+<Folder><name>Fire_Stations__Statewide_</name>
+  <Placemark>
+	<name>Kawailani Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.07948649433,19.6836773270664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.086191489912,19.7203121698107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waimea Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.661208545791,20.0231312490787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Kohala Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.798333419072,20.2299926247262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Keauhou Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.94048755181,19.5605335282506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pahoa Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.958357537375,19.5093313814655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Captain Cook Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.909009885014,19.4884920625085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waikoloa Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.793878835756,19.9249113780573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Honokaa Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.462546239138,20.0772123507536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Keaau Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.040103629866,19.6209313063353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waiakea Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.058483395987,19.724114261474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaumana Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">12</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.108975124339,19.7107973841762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Kohala Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">13</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.833873894509,19.9467511759949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawaiian Paradise Park Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">14</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.974119996085,19.5742813154819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kailua Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">15</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.992411356335,19.6473462986645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawaiian Ocean View Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">16</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.778349717386,19.1174831928789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pahala Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">17</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.473110113548,19.2009274891004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Volcano Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">18</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.275978464327,19.4339774939945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laupahoehoe Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">19</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.232843489307,19.9830074634955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fire Department Maintenance Shop</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">20</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.058246861712,19.7238507702352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fire Warehouse and Dispatch Center</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">21</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.086479840511,19.7199458724411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Makalei Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">22</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.977304432467,19.7334363291185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naalehu Medic 11</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">23</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.58684857341,19.0613138614159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HANALEI FIRE STATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">24</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.479002486486,22.212268442001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KOLOA FIRE STATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">25</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.467439870041,21.883742879574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WAIMEA FIRE STATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">26</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.668203602199,21.9554866079162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LIHUE FIRE STATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">27</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.363864619976,21.9713754726063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAPAA FIRE STATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">28</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.322251830194,22.0603695077768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HANAPEPE FIRE STATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">29</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.588349200524,21.9094919283051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KALAHEO FIRE STATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">30</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.526255273032,21.9252567347297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAIAKEA FIRE STATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">31</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.309220627645,22.0872023478759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laupahoehoe - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">32</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.232890842726,19.9828894230491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalaoa Mauka - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">33</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.973112893906,19.7075630277451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kohala Ranch - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">34</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.832625975038,20.0826821484198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kona Paradise Subdivision - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">35</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.878615715391,19.3149698861985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Milolii - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">36</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.905295539202,19.1898372948895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawaiian Beaches - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">37</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.901602052335,19.5474017229708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waa Waa - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">38</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.857843465883,19.5429486175279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waikoloa Village - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">39</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.787482772519,19.9263151723548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kona Village - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">40</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.982413849261,19.8304719754701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Discovery Harbour - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">41</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.635322041602,19.0404079281255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Volcano Village - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">42</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.23056756682,19.4344652012121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ocean View - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">43</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.778300251647,19.1174756078261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pepeekeo - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">44</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.104943295428,19.8351887120815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fern Forest - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">45</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.129874013717,19.4591979444835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawaiian Acres - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">46</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.049838569522,19.5565297385421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fern Acres - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">47</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.092129352422,19.5389585027368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Four Seasons - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">48</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.990976452751,19.826806545036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawaiian Paradise Park - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">49</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.974263270805,19.5741081218294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kulani - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">50</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.300910044065,19.5491160968792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waikii - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">51</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.654166327171,19.8557441881259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naalehu - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">52</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.586872722127,19.0625071220872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pahala - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">53</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.473333908318,19.2008895764749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaupulehu - Volunteer</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">54</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.988161872509,19.6493405172525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kahuku</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">55</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.946172695849,21.6747155054751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">56</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.062670311793,21.648539838691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waialua</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">57</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.111864033443,21.5865245272853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hauula</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">58</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.909074925752,21.6080517333945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaaawa</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">59</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.854744186842,21.5566629804424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wahiawa</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">60</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.027907831847,21.4972018476985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waianae</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">61</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.191731582965,21.4499859003474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kahaluu</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">62</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.846760495725,21.4573675752827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mililani</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">63</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.015585842096,21.4569296692786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aikahi</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">64</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.749542147491,21.4238454995663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kailua</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">65</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.739351351709,21.396677067904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olomana</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">66</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.750283383686,21.3768948916765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaneohe (Hq.)</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">67</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.800489996923,21.4136086641849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nanakuli</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">68</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.139765453133,21.381696146363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waiau</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">69</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.951151244862,21.4016853668764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aiea</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">70</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.930986981481,21.3836004059367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waipahu</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">71</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.022336508949,21.3766732467284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pearl City</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">72</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.971395793161,21.3902340367479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waimanalo</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">73</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.715163163499,21.3474194210974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manoa</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">74</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.810790536676,21.3097619956646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalihi Uka</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">75</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.87065032236,21.3440775884436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalihi</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">76</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.875747273213,21.3316080712139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nuuanu</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">77</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.846727683759,21.3281607064766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kuakini</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">78</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.858333498438,21.3242827745431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalihi Kai</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">79</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.878588249833,21.3216312102101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central (Hq.)</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">80</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.858929422592,21.3112744388846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waterfront</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">81</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.865173877279,21.3112121192118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Makakilo</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">82</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.086491128834,21.3545413961228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kapolei (Hq.)</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">83</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.090579104982,21.3243514276204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moanalua</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">84</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.900768158229,21.3450862575309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mokulele</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">85</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.932150676302,21.3399446337586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">86</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.912392169411,21.3195168601847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ewa Beach</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">87</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.009662437416,21.3116990315421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawaii Kai</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">88</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.6971923876,21.2862721163536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wailupe</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">89</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.759786362956,21.2770601555763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palolo</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">90</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.794902303255,21.2997933569114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McCully</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">91</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.824873550863,21.2882276532926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaimuki</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">92</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.799569239681,21.2783240387467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waikiki (Hq.)</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">93</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.816321915677,21.2728814520103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Makiki</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">94</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.839009226593,21.3067976525298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakaako</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">95</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.858841056555,21.3026005716449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pawaa</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">96</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.839138438125,21.2927517278248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mililani Mauka (Hq.)</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">97</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.999552778292,21.4714427528535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waikele</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">98</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.004919589567,21.4004282192967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E1</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">99</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.499358993414,20.8876938679417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E10</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">100</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.456745897633,20.8795638749708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E11</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">101</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.668092974289,20.9848395300786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E12</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">102</SimpleData>
+		<SimpleData name="island">Molokai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.796332630521,21.0727966239823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E13</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">103</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.329223455151,20.7579236594052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E14</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">104</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.436893210152,20.7060888198585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E2</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">105</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.380065816608,20.9174906097777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E3</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">106</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.684746679657,20.9053363890138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E4</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">107</SimpleData>
+		<SimpleData name="island">Molokai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.009835947062,21.089028532692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E5</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">108</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.330630880084,20.8357723800169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E6</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">109</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.45338060379,20.7347581423602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E7</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">110</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.993197118206,20.7619240471579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E8</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">111</SimpleData>
+		<SimpleData name="island">Lanai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.918690394194,20.818606100519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E9</name>
+	<ExtendedData><SchemaData schemaUrl="#Fire_Stations__Statewide_">
+		<SimpleData name="objectid">112</SimpleData>
+		<SimpleData name="island">Molokai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.050280493481,21.1633873470894</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

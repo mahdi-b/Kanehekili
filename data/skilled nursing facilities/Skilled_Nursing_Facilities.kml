@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Skilled_Nursing_Facilities" id="Skilled_Nursing_Facilities">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="licensed_beds" type="int"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+	<SimpleField name="mailing_address" type="string"></SimpleField>
+	<SimpleField name="physical_address" type="string"></SimpleField>
+	<SimpleField name="phone" type="string"></SimpleField>
+	<SimpleField name="alt_phone" type="string"></SimpleField>
+	<SimpleField name="fax" type="string"></SimpleField>
+	<SimpleField name="poc" type="string"></SimpleField>
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="adult_day" type="string"></SimpleField>
+	<SimpleField name="cert_num" type="int"></SimpleField>
+</Schema>
+<Folder><name>Skilled_Nursing_Facilities</name>
+  <Placemark>
+	<name>15 CRAIGSIDE</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="licensed_beds">41</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">15 Craigside Place, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="phone">(808) 523-7000</SimpleData>
+		<SimpleData name="fax">(888) 446-3218</SimpleData>
+		<SimpleData name="poc">Keleka Ho’okano, Administrator; Bree Komagome, Chief Operating Officer</SimpleData>
+		<SimpleData name="website">https://arcadia.org/15-craigside</SimpleData>
+		<SimpleData name="cert_num">125063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.848941330206,21.3231742927242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALOHA NURSING &amp; REHAB CENTRE</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="licensed_beds">141</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">45-545 Kamehameha Highway, Kaneohe, Hawaii  96744</SimpleData>
+		<SimpleData name="phone">(808) 247-2220</SimpleData>
+		<SimpleData name="fax">(808) 235-3676</SimpleData>
+		<SimpleData name="poc">Amy Lee, NHA and Chief Executive Officer</SimpleData>
+		<SimpleData name="website">https://www.alohanursing.com/</SimpleData>
+		<SimpleData name="cert_num">125038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.797666000352,21.3983910002156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANN PEARL NURSING FACILITY</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="licensed_beds">104</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">45-181 Waikalua Road, Kaneohe, Hawaii   96744</SimpleData>
+		<SimpleData name="phone">(808) 247-8558</SimpleData>
+		<SimpleData name="fax">(808) 247-4115</SimpleData>
+		<SimpleData name="poc">Alisa Racelo, Administrator</SimpleData>
+		<SimpleData name="website">https://ohanapacific.com/locations/oahu/kaneohe/ann-pearl/</SimpleData>
+		<SimpleData name="adult_day">Yes</SimpleData>
+		<SimpleData name="cert_num">125048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.795144477048,21.4145174773288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARCADIA RETIREMENT RESIDENCE</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="licensed_beds">91</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1434 Punahou Street, Honolulu, Hawaii  96822</SimpleData>
+		<SimpleData name="phone">(808) 941-0941</SimpleData>
+		<SimpleData name="fax">(808) 949-4965</SimpleData>
+		<SimpleData name="poc">Jonathan Shiraki, Administrator</SimpleData>
+		<SimpleData name="website">https://arcadia.org/</SimpleData>
+		<SimpleData name="cert_num">125014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.833494335324,21.3016116705911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AVALON CARE CENTER – HONOLULU, LLC</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="licensed_beds">108</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1930 Kamehameha IV Road, Honolulu, Hawaii  96819</SimpleData>
+		<SimpleData name="phone">(808) 847-4834</SimpleData>
+		<SimpleData name="fax">(808) 848-8020</SimpleData>
+		<SimpleData name="poc">Nainoa Heaston, Administrator</SimpleData>
+		<SimpleData name="website">https://www.avalonhealthcare.com/honolulu/</SimpleData>
+		<SimpleData name="cert_num">125020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.870277999863,21.3457049996789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE CARE CENTER OF HONOLULU</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="licensed_beds">182</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1900 Bachelot Street, Honolulu, Hawaii  96817</SimpleData>
+		<SimpleData name="phone">(808) 531-5302</SimpleData>
+		<SimpleData name="fax">(808) 538-3219</SimpleData>
+		<SimpleData name="poc">Marlen Resiwain, Administrator</SimpleData>
+		<SimpleData name="website">https://www.ccoh.us/</SimpleData>
+		<SimpleData name="cert_num">125019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.855101044074,21.3227828371686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CLARENCE T.C. CHING VILLAS AT ST. FRANCIS</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="licensed_beds">119</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">2230 Liliha Street, Honolulu, Hawaii  96817</SimpleData>
+		<SimpleData name="phone">(808) 547-6000</SimpleData>
+		<SimpleData name="fax">(808) 547-6095</SimpleData>
+		<SimpleData name="poc">Hershel Caywood, Administrator</SimpleData>
+		<SimpleData name="website">https://www.ccoh.us/</SimpleData>
+		<SimpleData name="cert_num">125064</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.852669500293,21.3297389995656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARDEN ISLE HEALTHCARE &amp; REHABILITATION CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="licensed_beds">110</SimpleData>
+		<SimpleData name="island">KAUAI</SimpleData>
+		<SimpleData name="mailing_address">3-3420 Kuhio Highway #300, Lihue, Hawaii  96766</SimpleData>
+		<SimpleData name="phone">(808) 245-1802</SimpleData>
+		<SimpleData name="fax">(808) 245-6515</SimpleData>
+		<SimpleData name="poc">Bronson Ho, Administrator</SimpleData>
+		<SimpleData name="website">https://ohanapacific.com/locations/kauai/lihue/garden-isle-rehabilitation-healthcare-center/</SimpleData>
+		<SimpleData name="cert_num">125004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.366381094968,21.9856648453449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALE ANUENUE RESTORATIVE CARE CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="licensed_beds">120</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">1333 Waianuenue Avenue, Hilo, Hawaii  96720</SimpleData>
+		<SimpleData name="phone">(808) 961-6644</SimpleData>
+		<SimpleData name="fax">(808) 961-6630</SimpleData>
+		<SimpleData name="poc">Gail Kaho’okele, Executive Director</SimpleData>
+		<SimpleData name="website">https://lcca.com/locations/hi/hale-anuenue/</SimpleData>
+		<SimpleData name="cert_num">125045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.114468390254,19.7172946184425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALE HO ALOHA</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="licensed_beds">59</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">2670 Pacific Heights Road, Honolulu, Hawaii  96813</SimpleData>
+		<SimpleData name="phone">(808) 524-1955</SimpleData>
+		<SimpleData name="fax">(808) 537-5418</SimpleData>
+		<SimpleData name="poc">Bryce Sumida, DPT, Administrator</SimpleData>
+		<SimpleData name="website">https://halehoaloha.com/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.843139362992,21.3243184730383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALE HO’OLA HAMAKUA</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="licensed_beds">66</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">45-547 Plumeria Street, Honokaa, Hawaii  96727</SimpleData>
+		<SimpleData name="phone">(808) 932-4100</SimpleData>
+		<SimpleData name="fax">(808) 775-9977</SimpleData>
+		<SimpleData name="poc">Denise Mackey, Interim Administrator</SimpleData>
+		<SimpleData name="website">https://www.halehoolahamakua.org/</SimpleData>
+		<SimpleData name="cert_num">125032</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.470497980713,20.0763919844293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALE KUPUNA HERITAGE HOME, LLC</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">12</SimpleData>
+		<SimpleData name="licensed_beds">84</SimpleData>
+		<SimpleData name="island">KAUAI</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 1287, Koloa, Hawaii  96756-1287</SimpleData>
+		<SimpleData name="physical_address">4297 A Omao Road, Koloa, Hawaii  96756</SimpleData>
+		<SimpleData name="phone">(808) 742-7591</SimpleData>
+		<SimpleData name="fax">(808) 742-6563</SimpleData>
+		<SimpleData name="poc">Jacob Mauer, Administrator</SimpleData>
+		<SimpleData name="website">https://ohanapacific.com/locations/kauai/koloa/hale-kupuna-heritage-home/</SimpleData>
+		<SimpleData name="cert_num">125062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.485881955292,21.9260062851092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALE MAKUA HEALTH SERVICES (KAHULUI)</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">13</SimpleData>
+		<SimpleData name="licensed_beds">254</SimpleData>
+		<SimpleData name="island">MAUI</SimpleData>
+		<SimpleData name="mailing_address">472 Kaulana Street, Kahului, Hawaii  96732</SimpleData>
+		<SimpleData name="phone">(808) 877-2761</SimpleData>
+		<SimpleData name="fax">(808) 871-9262</SimpleData>
+		<SimpleData name="poc">Teana Kaho’ohanohano, Administrator</SimpleData>
+		<SimpleData name="website">https://www.halemakua.org/</SimpleData>
+		<SimpleData name="adult_day">Yes</SimpleData>
+		<SimpleData name="cert_num">125007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.476251998797,20.8792012316913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALE MAKUA HEALTH SERVICES (WAILUKU)</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">14</SimpleData>
+		<SimpleData name="licensed_beds">90</SimpleData>
+		<SimpleData name="island">MAUI</SimpleData>
+		<SimpleData name="mailing_address">1540 Lower Main Street, Wailuku, Hawaii  96793</SimpleData>
+		<SimpleData name="phone">(808) 243-1722</SimpleData>
+		<SimpleData name="fax">(808) 243-1744</SimpleData>
+		<SimpleData name="poc">Paul Mattfeld, LNHA, Administrator</SimpleData>
+		<SimpleData name="website">https://www.halemakua.org/</SimpleData>
+		<SimpleData name="cert_num">125056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.494925411284,20.8929630682538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALE MALAMALAMA</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">15</SimpleData>
+		<SimpleData name="licensed_beds">40</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">6163 Summer Street, Honolulu, Hawaii  96821</SimpleData>
+		<SimpleData name="phone">(808) 396-0537</SimpleData>
+		<SimpleData name="fax">(808) 396-5128</SimpleData>
+		<SimpleData name="poc">Pauline Y.O. Fukumura, Administrator</SimpleData>
+		<SimpleData name="website">https://www.halemalamalamanursing.com/</SimpleData>
+		<SimpleData name="cert_num">125050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.720725000268,21.2850179998824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALE NANI REHABILITATION AND NURSING CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">16</SimpleData>
+		<SimpleData name="licensed_beds">288</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1677 Pensacola Street, Honolulu, Hawaii  96822</SimpleData>
+		<SimpleData name="phone">(808) 537-3371</SimpleData>
+		<SimpleData name="fax">(808) 528-1613</SimpleData>
+		<SimpleData name="poc">Pauline Nnawuba, Administrator</SimpleData>
+		<SimpleData name="website">https://www.avalonhealthcare.com/halenani/</SimpleData>
+		<SimpleData name="cert_num">125011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.840091782694,21.3085544902442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALE OLA KINO</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">17</SimpleData>
+		<SimpleData name="licensed_beds">32</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1314 Kalakaua Avenue, Honolulu, Hawaii  96826</SimpleData>
+		<SimpleData name="phone">(808) 983-4444</SimpleData>
+		<SimpleData name="fax">(808) 983-4499</SimpleData>
+		<SimpleData name="poc">Jolene Kageyama, Administrator</SimpleData>
+		<SimpleData name="website">https://www.haleolakino.com/</SimpleData>
+		<SimpleData name="cert_num">125047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.836844171242,21.298841140733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HARRY AND JEANETTE WEINBERG CARE CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">18</SimpleData>
+		<SimpleData name="licensed_beds">44</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">45-090 Namoku Street, Kaneohe, Hawaii  96744</SimpleData>
+		<SimpleData name="phone">(808) 247-1670</SimpleData>
+		<SimpleData name="fax">(808) 235-9661</SimpleData>
+		<SimpleData name="poc">Beryl Muramatsu, Administrator</SimpleData>
+		<SimpleData name="website">https://healthy.kaiserpermanente.org/hawaii/facilities/Pohai-Nani-Harry-and-Jeanette-Weinberg-Care-Center-331501?stop_mobi=yes</SimpleData>
+		<SimpleData name="cert_num">125033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.783126500096,21.4006229998692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HILO MEDICAL CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">19</SimpleData>
+		<SimpleData name="licensed_beds">45</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">1190 Waianuenue Avenue, Hilo, Hawaii  96720</SimpleData>
+		<SimpleData name="phone">(808) 932-3000</SimpleData>
+		<SimpleData name="fax">(808) 974-4746</SimpleData>
+		<SimpleData name="poc">Kaui Chartrand, Administrator</SimpleData>
+		<SimpleData name="website">https://www.hilomedicalcenter.org/</SimpleData>
+		<SimpleData name="cert_num">125002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.112983768686,19.7175282576381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HI’OLANI CARE CENTER AT KAHALA NUI</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">20</SimpleData>
+		<SimpleData name="licensed_beds">60</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">4389 Malia Street, Honolulu, Hawaii  96821</SimpleData>
+		<SimpleData name="phone">(808) 218-7000</SimpleData>
+		<SimpleData name="fax">(808) 218-7014</SimpleData>
+		<SimpleData name="poc">Jay Duquette, Administrator</SimpleData>
+		<SimpleData name="website">https://www.kahalanui.com/index.html</SimpleData>
+		<SimpleData name="cert_num">125055</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.782563999839,21.2793209996011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NAVIAN HAWAII</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">21</SimpleData>
+		<SimpleData name="licensed_beds">5</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">860 Iwilei Road, Honolulu, Hawaii  96817-5018</SimpleData>
+		<SimpleData name="physical_address">566 Papalani Street, Kailua, Hawaii  96734</SimpleData>
+		<SimpleData name="phone">(808) 924-9255</SimpleData>
+		<SimpleData name="fax">(808) 922-9161</SimpleData>
+		<SimpleData name="poc">April Goya, Administrator</SimpleData>
+		<SimpleData name="website">https://www.navianhawaii.org/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.733034093622,21.3879821238085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ISLANDS SKILLED NURSING &amp; REHABILITATION LLC</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">22</SimpleData>
+		<SimpleData name="licensed_beds">42</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1205 Alexander Street, Honolulu, Hawaii 96826</SimpleData>
+		<SimpleData name="phone">(808) 773-8700</SimpleData>
+		<SimpleData name="poc">Steve Nawahine, NHA, CALA, Chief Executive Officer</SimpleData>
+		<SimpleData name="website">https://www.islandsnr.com/</SimpleData>
+		<SimpleData name="cert_num">125067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.831923144086,21.2977130401266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KA PUNAWAI OLA</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">23</SimpleData>
+		<SimpleData name="licensed_beds">120</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">91-575 Farrington Highway, Kapolei, Hawaii  96707</SimpleData>
+		<SimpleData name="phone">(808) 674-9262</SimpleData>
+		<SimpleData name="fax">(808) 674-9623</SimpleData>
+		<SimpleData name="poc">Jena Reyes-Caday, Executive Director</SimpleData>
+		<SimpleData name="website">https://lcca.com/locations/hi/ka-punawai-ola/</SimpleData>
+		<SimpleData name="cert_num">125051</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.076801000478,21.3378300002841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KALAKAUA GARDENS, LLC</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">24</SimpleData>
+		<SimpleData name="licensed_beds">49</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1723 Kalakaua Avenue, Honolulu, Hawaii 96826</SimpleData>
+		<SimpleData name="phone">(808) 518-2273</SimpleData>
+		<SimpleData name="fax">(808) 892-4597</SimpleData>
+		<SimpleData name="poc">Colleen Kojima, Interim Administrator</SimpleData>
+		<SimpleData name="website">https://kalakauagardens.com/</SimpleData>
+		<SimpleData name="cert_num">125066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.836636000006,21.2913179997464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAUAI CARE CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">25</SimpleData>
+		<SimpleData name="licensed_beds">53</SimpleData>
+		<SimpleData name="island">KAUAI</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 507, Waimea, Hawaii  96796</SimpleData>
+		<SimpleData name="physical_address">9611 Waena Road, Waimea, Hawaii  96796</SimpleData>
+		<SimpleData name="phone">(808) 338-1681</SimpleData>
+		<SimpleData name="fax">(808) 338-1297</SimpleData>
+		<SimpleData name="poc">Brandi Hori-Moises, RN, NHA, Administrator</SimpleData>
+		<SimpleData name="website">https://www.regency-pacific.com/senior-living/hi/waimea/kauai-care-center/</SimpleData>
+		<SimpleData name="cert_num">125061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.671082029273,21.9584312603173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAUAI VETERANS MEMORIAL HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">26</SimpleData>
+		<SimpleData name="licensed_beds">20</SimpleData>
+		<SimpleData name="island">KAUAI</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 337, Waimea, Hawaii  96796</SimpleData>
+		<SimpleData name="physical_address">4643 Waimea Canyon Road, Waimea, Hawaii  96796</SimpleData>
+		<SimpleData name="phone">(808) 338-9431</SimpleData>
+		<SimpleData name="fax">(808) 338-9420</SimpleData>
+		<SimpleData name="poc">Lance Segawa, Regional Chief Executive Officer</SimpleData>
+		<SimpleData name="website">http://kauai.hhsc.org/</SimpleData>
+		<SimpleData name="cert_num">125021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.670193410604,21.9602366523668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KUAKINI GERIATRIC CARE</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">27</SimpleData>
+		<SimpleData name="licensed_beds">187</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">347 North Kuakini Street, Honolulu, Hawaii  96817</SimpleData>
+		<SimpleData name="phone">(808) 547-9357</SimpleData>
+		<SimpleData name="fax">(808) 547-9547</SimpleData>
+		<SimpleData name="poc">Pauline Nnawuba, Administrator</SimpleData>
+		<SimpleData name="website">https://www.kuakini.org/wps/portal/public/About-Us/Subsidiaries/Geriatric-Care</SimpleData>
+		<SimpleData name="cert_num">125026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.855751060622,21.3217051232866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KULA HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">28</SimpleData>
+		<SimpleData name="licensed_beds">105</SimpleData>
+		<SimpleData name="island">MAUI</SimpleData>
+		<SimpleData name="mailing_address">100 Keokea Place, Kula, Hawaii  96790-7450</SimpleData>
+		<SimpleData name="phone">(808) 878-1221</SimpleData>
+		<SimpleData name="fax">(808) 878-1791</SimpleData>
+		<SimpleData name="poc">Kerry D. Pitcher, Senior Director of LTC and CAH</SimpleData>
+		<SimpleData name="website">https://www.mauihealth.org/locations/kula-hospital/</SimpleData>
+		<SimpleData name="cert_num">125003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.358578384104,20.7022302231792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KULANA MALAMA</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">29</SimpleData>
+		<SimpleData name="licensed_beds">30</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">91-1360 Karayan Street, Ewa Beach, Hawaii  96706</SimpleData>
+		<SimpleData name="phone">(808) 681-1203</SimpleData>
+		<SimpleData name="fax">(808) 453-1929</SimpleData>
+		<SimpleData name="poc">Randall Ito, Administrator</SimpleData>
+		<SimpleData name="website">http://kulanamalama.com/</SimpleData>
+		<SimpleData name="cert_num">125057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.029289999922,21.3502320002215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LANAI COMMUNITY HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">30</SimpleData>
+		<SimpleData name="licensed_beds">10</SimpleData>
+		<SimpleData name="island">LANAI</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 630650, Lanai City, Hawaii  96763</SimpleData>
+		<SimpleData name="physical_address">158 7th Street, Lanai City, Hawaii  96763</SimpleData>
+		<SimpleData name="phone">(808) 565-6411</SimpleData>
+		<SimpleData name="fax">(808) 565-6887</SimpleData>
+		<SimpleData name="poc">Kerry D. Pitcher, Senior Director of LTC and CAH</SimpleData>
+		<SimpleData name="website">https://www.mauihealth.org/locations/lanai-community-hospital/</SimpleData>
+		<SimpleData name="cert_num">125023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.917176235383,20.8260774490987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LEAHI HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">31</SimpleData>
+		<SimpleData name="licensed_beds">155</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">3675 Kilauea Avenue, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="phone">(808) 733-8000</SimpleData>
+		<SimpleData name="fax">(808) 733-7914</SimpleData>
+		<SimpleData name="poc">Violeta Gonzales, Administrator</SimpleData>
+		<SimpleData name="website">https://leahi.hhsc.org/</SimpleData>
+		<SimpleData name="adult_day">Yes</SimpleData>
+		<SimpleData name="cert_num">125010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.801977000225,21.2729850003293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LEGACY HILO REHABILITATION &amp; NURSING CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">32</SimpleData>
+		<SimpleData name="licensed_beds">100</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">563 Kaumana Drive, Hilo, Hawaii  96720</SimpleData>
+		<SimpleData name="phone">(808) 498-0184</SimpleData>
+		<SimpleData name="fax">(808) 935-5801</SimpleData>
+		<SimpleData name="poc">Justin Morrison, LHNA, Administrator</SimpleData>
+		<SimpleData name="cert_num">125065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.110986305756,19.7041923608477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LIFE CARE CENTER OF HILO</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">33</SimpleData>
+		<SimpleData name="licensed_beds">252</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">944 West Kawailani Street, Hilo, Hawaii  96720</SimpleData>
+		<SimpleData name="phone">(808) 959-9151</SimpleData>
+		<SimpleData name="fax">(808) 959-6202</SimpleData>
+		<SimpleData name="poc">Lemapu Lemanua, Administrator</SimpleData>
+		<SimpleData name="website">https://lcca.com/locations/hi/hilo/</SimpleData>
+		<SimpleData name="cert_num">125040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.095061248812,19.6828133932224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LIFE CARE CENTER OF KONA</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">34</SimpleData>
+		<SimpleData name="licensed_beds">94</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">78-6957 Kamehameha III Road, Kona, Hawaii  96740</SimpleData>
+		<SimpleData name="phone">(808) 322-2790</SimpleData>
+		<SimpleData name="fax">(808) 324-1750</SimpleData>
+		<SimpleData name="poc">Meredith Eder, Executive Director</SimpleData>
+		<SimpleData name="website">https://lcca.com/locations/hi/kona/</SimpleData>
+		<SimpleData name="cert_num">125052</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.961069698895,19.570368626098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LILIHA HEALTHCARE CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">35</SimpleData>
+		<SimpleData name="licensed_beds">92</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1814 Liliha Street, Honolulu, Hawaii  96817</SimpleData>
+		<SimpleData name="phone">(808) 537-9557</SimpleData>
+		<SimpleData name="fax">(808) 599-4722</SimpleData>
+		<SimpleData name="poc">David Pettijohn, Administrator</SimpleData>
+		<SimpleData name="website">https://www.newfamilyhealthhi.com/liliha-healthcare-center</SimpleData>
+		<SimpleData name="cert_num">125041</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.857129633451,21.3239220133107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MALUHIA</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">36</SimpleData>
+		<SimpleData name="licensed_beds">158</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1027 Hala Drive, Honolulu, Hawaii  96817</SimpleData>
+		<SimpleData name="phone">(808) 832-3000 </SimpleData>
+		<SimpleData name="fax">(808) 832-3039</SimpleData>
+		<SimpleData name="poc">Tricia Won, NHA, Interim Administrator</SimpleData>
+		<SimpleData name="website">https://maluhia.hhsc.org/</SimpleData>
+		<SimpleData name="adult_day">Yes</SimpleData>
+		<SimpleData name="cert_num">125009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.861261310439,21.3295683368981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MANOA COTTAGE KAIMUKI</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">37</SimpleData>
+		<SimpleData name="licensed_beds">27</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">748 Olokele Avenue, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="phone">(808) 232-8274</SimpleData>
+		<SimpleData name="fax">(808) 734-0838</SimpleData>
+		<SimpleData name="poc">Calvin Hara, LNHA, Administrator</SimpleData>
+		<SimpleData name="website">https://manoacottage.com/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.817440614205,21.2840984378862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAUNALANI NURSING AND REHABILITATION CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">38</SimpleData>
+		<SimpleData name="licensed_beds">100</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">5113 Maunalani Circle, Honolulu, Hawaii  96816</SimpleData>
+		<SimpleData name="phone">(808) 732-0771</SimpleData>
+		<SimpleData name="fax">(808) 735-5980</SimpleData>
+		<SimpleData name="poc">Sai Chantavy, Executive Director</SimpleData>
+		<SimpleData name="website">https://maunalaninursing.org/</SimpleData>
+		<SimpleData name="cert_num">125013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.789228499798,21.2975460004498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NUUANU HALE</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">39</SimpleData>
+		<SimpleData name="licensed_beds">75</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">2900 Pali Highway, Honolulu, Hawaii  96817</SimpleData>
+		<SimpleData name="phone">(808) 595-6311</SimpleData>
+		<SimpleData name="fax">(808) 595-6188</SimpleData>
+		<SimpleData name="poc">Hilary Okumura, NHA, Administrator</SimpleData>
+		<SimpleData name="website">https://www.newfamilyhealthhi.com/nuuanu-hale</SimpleData>
+		<SimpleData name="cert_num">125024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.840357500298,21.3360660003529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OAHU CARE FACILITY</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">40</SimpleData>
+		<SimpleData name="licensed_beds">82</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1808 South Beretania Street, Honolulu, Hawaii  96826</SimpleData>
+		<SimpleData name="phone">(808) 973-1900</SimpleData>
+		<SimpleData name="fax">(808) 973-1910</SimpleData>
+		<SimpleData name="poc">Cynthia Yoshida, Administrator</SimpleData>
+		<SimpleData name="website">https://oahucarefacility.com/</SimpleData>
+		<SimpleData name="cert_num">125042</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.831623592299,21.2974004688871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PALOLO CHINESE HOME</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">41</SimpleData>
+		<SimpleData name="licensed_beds">113</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">2459 10TH Avenue, Honolulu, Hawaii  96816-3098</SimpleData>
+		<SimpleData name="phone">(808) 737-2555</SimpleData>
+		<SimpleData name="fax">(808) 735-1754</SimpleData>
+		<SimpleData name="poc">Pauline Nnawuba, Administrator</SimpleData>
+		<SimpleData name="website">https://palolohome.org/</SimpleData>
+		<SimpleData name="cert_num">125059</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.786335000389,21.3040889997394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PEARL CITY NURSING HOME</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">42</SimpleData>
+		<SimpleData name="licensed_beds">122</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">919 Lehua Avenue, Pearl City, Hawaii  96782</SimpleData>
+		<SimpleData name="phone">(808) 453-1919</SimpleData>
+		<SimpleData name="fax">(808) 453-1929</SimpleData>
+		<SimpleData name="poc">Darin Yoshimoto, Administrator</SimpleData>
+		<SimpleData name="website">http://pearlcitynursinghome.com/</SimpleData>
+		<SimpleData name="cert_num">125043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.97116924936,21.3916338337522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PU’UWAI ‘O MAKAHA</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">43</SimpleData>
+		<SimpleData name="licensed_beds">93</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">84-390 Jade Street, Waianae, Hawaii  96792</SimpleData>
+		<SimpleData name="phone">(808) 692-9508</SimpleData>
+		<SimpleData name="fax">(808) 695-0225</SimpleData>
+		<SimpleData name="poc">Mary Beth Santoro, Administrator</SimpleData>
+		<SimpleData name="website">https://ohanapacific.com/locations/oahu/waianae/puuwai-o-makaha/</SimpleData>
+		<SimpleData name="cert_num">125046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.205816059678,21.4695156812638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAMUEL MAHELONA MEMORIAL HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">44</SimpleData>
+		<SimpleData name="licensed_beds">66</SimpleData>
+		<SimpleData name="island">KAUAI</SimpleData>
+		<SimpleData name="mailing_address">4800 Kawaihau Road, Kapaa, Hawaii  96746</SimpleData>
+		<SimpleData name="phone">(808) 822-4961</SimpleData>
+		<SimpleData name="fax">(808) 823-4100</SimpleData>
+		<SimpleData name="poc">Lance Segawa, Regional Chief Executive Officer</SimpleData>
+		<SimpleData name="website">https://kauai.hhsc.org/facilities/samuel-mahelona-memorial-hospital-smmh/</SimpleData>
+		<SimpleData name="cert_num">125029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.31411359462,22.0876673956266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WAHIAWA GENERAL HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">45</SimpleData>
+		<SimpleData name="licensed_beds">115</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">128 Lehua Street, Wahiawa, Hawaii  96786</SimpleData>
+		<SimpleData name="phone">(808) 621-4211</SimpleData>
+		<SimpleData name="fax">(808) 621-4490</SimpleData>
+		<SimpleData name="poc">Rebecca Canon-Fratis, Administrator; Brian Cunningham, Chief Executive Officer</SimpleData>
+		<SimpleData name="website">https://wahiawageneral.org/</SimpleData>
+		<SimpleData name="cert_num">125015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.026059000024,21.4987409999688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>YUKIO OKUTSU STATE VETERANS HOME</name>
+	<ExtendedData><SchemaData schemaUrl="#Skilled_Nursing_Facilities">
+		<SimpleData name="objectid">46</SimpleData>
+		<SimpleData name="licensed_beds">95</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">1180 Waianuenue Avenue, Hilo, Hawaii  96720</SimpleData>
+		<SimpleData name="phone">(808) 961-1500</SimpleData>
+		<SimpleData name="poc">Kaui Chartrand, Administrator</SimpleData>
+		<SimpleData name="website">https://www.hilomedicalcenter.org/about-us/yukio-okutsu-state-veterans-home/</SimpleData>
+		<SimpleData name="adult_day">Yes</SimpleData>
+		<SimpleData name="cert_num">125058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.112615082291,19.7176046566631</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

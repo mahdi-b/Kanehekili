@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Developmental_Disabilities_Domiciliary_Homes" id="Developmental_Disabilities_Domiciliary_Homes">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="facname" type="string"></SimpleField>
+	<SimpleField name="street" type="string"></SimpleField>
+	<SimpleField name="city" type="string"></SimpleField>
+	<SimpleField name="zip" type="string"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+	<SimpleField name="phone" type="string"></SimpleField>
+	<SimpleField name="lic_exp" type="string"></SimpleField>
+	<SimpleField name="license_num" type="string"></SimpleField>
+</Schema>
+<Folder><name>Developmental_Disabilities_Domiciliary_Homes</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="facname">Alma and Richard Pilar</SimpleData>
+		<SimpleData name="street">94-1105 Kahuanui Street</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086809569</SimpleData>
+		<SimpleData name="lic_exp">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">89-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.998500329563,21.389419033751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="facname">Aloha Adult DD Domiciliary Home, LLC</SimpleData>
+		<SimpleData name="street">2235 Auhuhu Street</SimpleData>
+		<SimpleData name="city">Pearl City</SimpleData>
+		<SimpleData name="zip">96782</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8084554050</SimpleData>
+		<SimpleData name="lic_exp">2022/07/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">83-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.95681129135,21.4241131354744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="facname">Aloha Care</SimpleData>
+		<SimpleData name="street">94-983 Lumihoahu Street</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086716946</SimpleData>
+		<SimpleData name="lic_exp">2022/07/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">65-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.994142645999,21.4031837022984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="facname">Bagasol</SimpleData>
+		<SimpleData name="street">911 A Lalawai Street</SimpleData>
+		<SimpleData name="city">Wahiawa</SimpleData>
+		<SimpleData name="zip">96786</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086219747</SimpleData>
+		<SimpleData name="lic_exp">2022/05/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">70-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.022138012838,21.5137060720355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="facname">C. Caraang</SimpleData>
+		<SimpleData name="street">94-1023 Lumipolu Street</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086719765</SimpleData>
+		<SimpleData name="lic_exp">2022/04/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">75-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.990662406873,21.4025991496664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="facname">Circle of Care, LLC</SimpleData>
+		<SimpleData name="street">91-229 Paiaha Place</SimpleData>
+		<SimpleData name="city">Kapolei</SimpleData>
+		<SimpleData name="zip">96707</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086939992</SimpleData>
+		<SimpleData name="lic_exp">2022/05/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">98-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.07098112195,21.3441193082262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="facname">Corpuz</SimpleData>
+		<SimpleData name="street">99-226 Ohenana Place</SimpleData>
+		<SimpleData name="city">Aiea</SimpleData>
+		<SimpleData name="zip">96701</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8084880832</SimpleData>
+		<SimpleData name="lic_exp">2022/06/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">77-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.931898287208,21.3692279832018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="facname">F. Glenish J. Caraang</SimpleData>
+		<SimpleData name="street">94-477 Lianu Place</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8087447842</SimpleData>
+		<SimpleData name="lic_exp">2022/07/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">71-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.020609943621,21.3875177013687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="facname">Family</SimpleData>
+		<SimpleData name="street">94-035 Nawaakoa Place</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086710280</SimpleData>
+		<SimpleData name="lic_exp">2022/01/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">80-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.008521232498,21.3799296055279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="facname">Funtanilla</SimpleData>
+		<SimpleData name="street">1020 Hulakui Drive</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zip">96818</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8084230261</SimpleData>
+		<SimpleData name="lic_exp">2022/11/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">66-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.922699279983,21.3501211215247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="facname">Galicinao</SimpleData>
+		<SimpleData name="street">45-201 B William Henry Road</SimpleData>
+		<SimpleData name="city">Kaneohe</SimpleData>
+		<SimpleData name="zip">96744</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8082472939</SimpleData>
+		<SimpleData name="lic_exp">2022/07/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">84-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.796298880369,21.4162860719544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">12</SimpleData>
+		<SimpleData name="facname">Hale Lokelani Ohana</SimpleData>
+		<SimpleData name="street">295 Mikohu Loop</SimpleData>
+		<SimpleData name="city">Kahului</SimpleData>
+		<SimpleData name="zip">96732</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="phone">8082490254</SimpleData>
+		<SimpleData name="lic_exp">2021/12/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">99-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.487495417413,20.8960482854574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">13</SimpleData>
+		<SimpleData name="facname">Hale Malaihi</SimpleData>
+		<SimpleData name="street">770 Malaihi Road</SimpleData>
+		<SimpleData name="city">Wailuku</SimpleData>
+		<SimpleData name="zip">96793</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="phone">8082441824</SimpleData>
+		<SimpleData name="lic_exp">2022/05/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">97-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.500025757787,20.9197971065811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">14</SimpleData>
+		<SimpleData name="facname">Hale Maunaloa</SimpleData>
+		<SimpleData name="street">24 Hoalua Street</SimpleData>
+		<SimpleData name="city">Maunaloa</SimpleData>
+		<SimpleData name="zip">96770</SimpleData>
+		<SimpleData name="island">Molokai</SimpleData>
+		<SimpleData name="phone">8085522680</SimpleData>
+		<SimpleData name="lic_exp">2022/01/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">93-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.21225042311,21.1311933664224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">15</SimpleData>
+		<SimpleData name="facname">Jack and Jill</SimpleData>
+		<SimpleData name="street">94-1088 Lumi Street</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086788767</SimpleData>
+		<SimpleData name="lic_exp">2022/08/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">86-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.994972095557,21.4082576164992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">16</SimpleData>
+		<SimpleData name="facname">Ligaya Navasca Dom Home, LLC</SimpleData>
+		<SimpleData name="street">99-058 Upapalu Drive</SimpleData>
+		<SimpleData name="city">Aiea</SimpleData>
+		<SimpleData name="zip">96701</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8084870703</SimpleData>
+		<SimpleData name="lic_exp">2022/03/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">85-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.932589787936,21.3773219485905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">17</SimpleData>
+		<SimpleData name="facname">Macaraeg DD Dom Home</SimpleData>
+		<SimpleData name="street">94-262 Kahuahele Street</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086809267</SimpleData>
+		<SimpleData name="lic_exp">2022/09/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">90-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.995148076501,21.3915123461725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">18</SimpleData>
+		<SimpleData name="facname">Macusi</SimpleData>
+		<SimpleData name="street">91-730 Poloula Place</SimpleData>
+		<SimpleData name="city">Ewa Beach</SimpleData>
+		<SimpleData name="zip">96706</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8082034007</SimpleData>
+		<SimpleData name="lic_exp">2022/08/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">2-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.013706073935,21.3109376579707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">19</SimpleData>
+		<SimpleData name="facname">Malbog</SimpleData>
+		<SimpleData name="street">94-338 Apowale Street</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8087216460</SimpleData>
+		<SimpleData name="lic_exp">2022/08/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">87-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.019322697517,21.3860532429502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">20</SimpleData>
+		<SimpleData name="facname">Maunalei Hale</SimpleData>
+		<SimpleData name="street">3460A Maunalei Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zip">96816</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8083584292</SimpleData>
+		<SimpleData name="lic_exp">2022/08/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">101-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.807116679663,21.2746855714073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">21</SimpleData>
+		<SimpleData name="facname">Mele House</SimpleData>
+		<SimpleData name="street">41 Palekana Street</SimpleData>
+		<SimpleData name="city">Paia</SimpleData>
+		<SimpleData name="zip">96779</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="phone">8085798398</SimpleData>
+		<SimpleData name="lic_exp">2022/05/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">94-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.371398410075,20.9010815873054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">22</SimpleData>
+		<SimpleData name="facname">Opportunities and Resources, Inc. (ORI) - 2B</SimpleData>
+		<SimpleData name="street">64-1488 Kamehameha Highway</SimpleData>
+		<SimpleData name="city">Wahiawa</SimpleData>
+		<SimpleData name="zip">96786</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086223929</SimpleData>
+		<SimpleData name="lic_exp">2022/10/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">9-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.03936225605,21.5276573892108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">23</SimpleData>
+		<SimpleData name="facname">Opportunities and Resources, Inc. (ORI) - Unit #10</SimpleData>
+		<SimpleData name="street">64-1488 Kamehameha Highway</SimpleData>
+		<SimpleData name="city">Wahiawa</SimpleData>
+		<SimpleData name="zip">96786</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086223929</SimpleData>
+		<SimpleData name="lic_exp">2022/10/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">10-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.03936225605,21.5276573892108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">24</SimpleData>
+		<SimpleData name="facname">Opportunities and Resources, Inc. (ORI-2C)</SimpleData>
+		<SimpleData name="street">64-1510 Kamehameha Highway</SimpleData>
+		<SimpleData name="city">Wahiawa</SimpleData>
+		<SimpleData name="zip">96786</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086223929</SimpleData>
+		<SimpleData name="lic_exp">2022/11/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">91-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.039057801627,21.5266965654697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">25</SimpleData>
+		<SimpleData name="facname">Opportunities and Resources, Inc. House 2A</SimpleData>
+		<SimpleData name="street">64-1510 Kamehameha Highway</SimpleData>
+		<SimpleData name="city">Wahiawa</SimpleData>
+		<SimpleData name="zip">96786</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086223929</SimpleData>
+		<SimpleData name="lic_exp">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">96-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.039057801627,21.5266965654697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">26</SimpleData>
+		<SimpleData name="facname">Palma Nova</SimpleData>
+		<SimpleData name="street">91-1276 Hoopio Street</SimpleData>
+		<SimpleData name="city">Ewa Beach</SimpleData>
+		<SimpleData name="zip">96706</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086818180</SimpleData>
+		<SimpleData name="lic_exp">2022/03/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">81-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.03133370959,21.3504373955448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">27</SimpleData>
+		<SimpleData name="facname">Precious Developmental Disabilities Domiciliary Hom</SimpleData>
+		<SimpleData name="street">94-274 Waipahu Street</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8083124786</SimpleData>
+		<SimpleData name="lic_exp">2022/07/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">100-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.021231414141,21.3831550950569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">28</SimpleData>
+		<SimpleData name="facname">Ramirez</SimpleData>
+		<SimpleData name="street">67-237 Kanalu Street</SimpleData>
+		<SimpleData name="city">Waialua</SimpleData>
+		<SimpleData name="zip">96791</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086378925</SimpleData>
+		<SimpleData name="lic_exp">2022/06/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">92-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.127277814699,21.5791080987448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">29</SimpleData>
+		<SimpleData name="facname">Responsive Caregivers of Hawaii/Kapalama</SimpleData>
+		<SimpleData name="street">1330 Halona Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zip">96817</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8089796164</SimpleData>
+		<SimpleData name="lic_exp">2021/12/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">58-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.869106296603,21.3294981161159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">30</SimpleData>
+		<SimpleData name="facname">Responsive Caregivers of Hawaii/Popolo Pl.</SimpleData>
+		<SimpleData name="street">99-193 Popolo Place</SimpleData>
+		<SimpleData name="city">Aiea</SimpleData>
+		<SimpleData name="zip">96701</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8084886598</SimpleData>
+		<SimpleData name="lic_exp">2021/12/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">3-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.927531989808,21.3786288140533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">31</SimpleData>
+		<SimpleData name="facname">Rose P. Lee DDD-Home, LLC</SimpleData>
+		<SimpleData name="street">99-838 Hulumanu Street</SimpleData>
+		<SimpleData name="city">Aiea</SimpleData>
+		<SimpleData name="zip">96701</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8084871065</SimpleData>
+		<SimpleData name="lic_exp">2021/12/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">95-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.914478629517,21.3777353712915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">32</SimpleData>
+		<SimpleData name="facname">The ARC in Hawaii - Ewa A</SimpleData>
+		<SimpleData name="street">91-824 A Hanakahi Street</SimpleData>
+		<SimpleData name="city">Ewa Beach</SimpleData>
+		<SimpleData name="zip">96706</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086890754</SimpleData>
+		<SimpleData name="lic_exp">2022/06/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">72-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.003893730225,21.3213715425647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">33</SimpleData>
+		<SimpleData name="facname">The ARC in Hawaii - Halawa</SimpleData>
+		<SimpleData name="street">99-545 Halawa Heights Road</SimpleData>
+		<SimpleData name="city">Aiea</SimpleData>
+		<SimpleData name="zip">96701</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8084871705</SimpleData>
+		<SimpleData name="lic_exp">2022/08/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">73-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.918596338649,21.3749664400802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">34</SimpleData>
+		<SimpleData name="facname">The ARC in Hawaii - Kamehame Home</SimpleData>
+		<SimpleData name="street">1019 Kamehame Drive</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zip">96825</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8083960885</SimpleData>
+		<SimpleData name="lic_exp">2022/03/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">32-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.682300612865,21.2947646346901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">35</SimpleData>
+		<SimpleData name="facname">The ARC in Hawaii - Wahiawa B</SimpleData>
+		<SimpleData name="street">140 B Kuahiwi Avenue</SimpleData>
+		<SimpleData name="city">Wahiawa</SimpleData>
+		<SimpleData name="zip">96786</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086211431</SimpleData>
+		<SimpleData name="lic_exp">2021/11/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">19-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.026465377554,21.4949146799403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">36</SimpleData>
+		<SimpleData name="facname">The ARC in Hawaii Housing Proj. No. 11/Lusitana A</SimpleData>
+		<SimpleData name="street">1660-A Lusitana Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zip">96813</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8085386915</SimpleData>
+		<SimpleData name="lic_exp">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">27-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.852328325575,21.3146370067377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">37</SimpleData>
+		<SimpleData name="facname">The ARC in Hawaii Housing Proj. No. 11/Lusitana B</SimpleData>
+		<SimpleData name="street">1660-B Lusitana Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zip">96813</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8085380602</SimpleData>
+		<SimpleData name="lic_exp">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">28-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.852328325575,21.3146370067377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">38</SimpleData>
+		<SimpleData name="facname">The ARC in Hawaii Housing Proj. No. 8/Waipahu A</SimpleData>
+		<SimpleData name="street">94-060 A Poailani Circle</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086713751</SimpleData>
+		<SimpleData name="lic_exp">2021/11/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">16-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.995325461797,21.3846021651866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">39</SimpleData>
+		<SimpleData name="facname">The ARC in Hawaii Housing Proj. No. 8/Waipahu B</SimpleData>
+		<SimpleData name="street">94-060 B Poailani Circle</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086777100</SimpleData>
+		<SimpleData name="lic_exp">2021/11/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">20-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.995325461797,21.3846021651866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">40</SimpleData>
+		<SimpleData name="facname">The ARC in Hawaii Project No. 10/Lusitana C</SimpleData>
+		<SimpleData name="street">1660-C Lusitana Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zip">96813</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8085365987</SimpleData>
+		<SimpleData name="lic_exp">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">29-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.852328325575,21.3146370067377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">41</SimpleData>
+		<SimpleData name="facname">The ARC in Hawaii Project No. 10/Lusitana D</SimpleData>
+		<SimpleData name="street">1660-D Lusitana Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zip">96813</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8085369275</SimpleData>
+		<SimpleData name="lic_exp">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">30-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.852328325575,21.3146370067377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">42</SimpleData>
+		<SimpleData name="facname">The ARC of Kona - Kona Krafts</SimpleData>
+		<SimpleData name="street">82-1055 Kiloa Road</SimpleData>
+		<SimpleData name="city">Captain Cook</SimpleData>
+		<SimpleData name="zip">96704</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone">8083233422</SimpleData>
+		<SimpleData name="lic_exp">2022/06/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">35-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.904444501823,19.4896843862337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">43</SimpleData>
+		<SimpleData name="facname">The ARC of Maui - Hale Lahaina</SimpleData>
+		<SimpleData name="street">5220 Kohi Street</SimpleData>
+		<SimpleData name="city">Napili</SimpleData>
+		<SimpleData name="zip">96761</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="phone">8086690026</SimpleData>
+		<SimpleData name="lic_exp">2022/11/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">50-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.662653127491,20.9865037525846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">44</SimpleData>
+		<SimpleData name="facname">Valley</SimpleData>
+		<SimpleData name="street">245 Valley Avenue</SimpleData>
+		<SimpleData name="city">Wahiawa</SimpleData>
+		<SimpleData name="zip">96786</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086215729</SimpleData>
+		<SimpleData name="lic_exp">2022/02/28 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">51-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.019913404077,21.5035150269373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">45</SimpleData>
+		<SimpleData name="facname">Yadao</SimpleData>
+		<SimpleData name="street">99-112 Puakala Street</SimpleData>
+		<SimpleData name="city">Aiea</SimpleData>
+		<SimpleData name="zip">96701</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8084880377</SimpleData>
+		<SimpleData name="lic_exp">2022/07/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">78-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.930289846042,21.3772381952706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Developmental_Disabilities_Domiciliary_Homes">
+		<SimpleData name="objectid">46</SimpleData>
+		<SimpleData name="facname">Zennia's</SimpleData>
+		<SimpleData name="street">94-265 Puamano Place</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zip">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone">8086775837</SimpleData>
+		<SimpleData name="lic_exp">2022/09/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_num">88-D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.005551876936,21.3857123568171</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

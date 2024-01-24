@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Police_Stations__Statewide_" id="Police_Stations__Statewide_">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+</Schema>
+<Folder><name>Police_Stations__Statewide_</name>
+  <Placemark>
+	<name>KAUAI COUNTY POLICE DEPARTMENT</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.354983386891,21.9770181218963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HANALEI POLICE SUBSTATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.479153420495,22.2122553969759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WAIMEA POLICE SUBSTATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.667143875523,21.956696182174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAPAA POLICE SUBSTATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.319575738799,22.0776923659561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KOLOA POLICE SUBSTATION</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="island">Kauai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.464279148959,21.9034238839745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hilo Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.085222151235,19.7148819762457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laupahoehoe Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.232710478201,19.982986248654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Honokaa Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.462511599927,20.0771476327348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waimea Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.661655929237,20.0238471185816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalahuipua'a</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.833870773829,19.9467074277164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kapaau Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.798270293512,20.2299089687335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kona Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">12</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.006960879704,19.6637166604363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Captain Cook</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">13</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.909440828302,19.4889323097443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ocean View</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">14</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.776132442232,19.0843542973812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naalehu Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">15</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.567002457803,19.0679838983614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pahoa Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">16</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.957951523202,19.5087410655758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Keaau</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">17</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.040155024362,19.6209567109816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clem Akina Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">18</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.092052452264,19.7288632516312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mooheau</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">19</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.084587585527,19.7240283814456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richardson</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">20</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.013352255236,19.7353791051229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pepeekeo</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">21</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.104861385706,19.8351852543039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Honokaa Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">22</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.467806049654,20.0789080988565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kailua Village</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">23</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.994427551246,19.6397903124516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Keauhou</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">24</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.961987388842,19.5710979449739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waiakea Uka</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">25</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.106515168021,19.6657887743825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holomua</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">26</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.065806201419,19.7019790956173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waikoloa</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">27</SimpleData>
+		<SimpleData name="island">Hawaii</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.79384407653,19.9249564943367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MPD</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">28</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.488115648283,20.8881630448977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MOLOKAI POLICE</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">29</SimpleData>
+		<SimpleData name="island">Molokai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.018114627875,21.0906426726935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LANAI POLICE</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">30</SimpleData>
+		<SimpleData name="island">Lanai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.921001812756,20.8234442886884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LAHAINA POLICE</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">31</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.684457701112,20.9046582132537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KIHEI POLICE PIILANI HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">32</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.440728630229,20.727053233487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HANA POLICE</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">33</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.993536045095,20.7630265269314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kahuku Substation</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">34</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.946172694883,21.674715505469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wahiawa District Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">35</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.025269884305,21.5024897114575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waianae Substation</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">36</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.187497287569,21.4432875989321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kailua Substation</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">37</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.739871998322,21.3962572095685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaneohe District Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">38</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.798752151971,21.4134039398451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pearl City District Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">39</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.969717693872,21.3962096040461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalihi District Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">40</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.870650321396,21.3440775884372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chinatown Substation</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">41</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.862793906669,21.3120299559034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waikiki Substation</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">42</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.825780350868,21.2759764780976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kapolei District Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">43</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.081368350645,21.3358132494639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alapai Police Headquarters</name>
+	<ExtendedData><SchemaData schemaUrl="#Police_Stations__Statewide_">
+		<SimpleData name="objectid">44</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.851507251889,21.3039620658876</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

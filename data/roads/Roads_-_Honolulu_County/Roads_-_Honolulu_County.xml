@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Roads - Honolulu County</title>
+                <onlink>https://geodata.hawaii.gov/arcgis/rest/services/Transportation/MapServer/3</onlink>
+                <onlink>https://files.hawaii.gov/dbedt/op/gis/data/streets_oah.pdf</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>[Metadata]  Description:  Streets for the island of Oahu only as of May, 2021.Source:  Honolulu Land Information System (HOLIS), C&amp;amp;C of Honolulu, May 20, 2022.For additional information, please refer to complete metadata at https://files.hawaii.gov/dbedt/op/gis/data/streets_oah.pdf or contact Hawaii Statewide GIS Program, Office of Planning and Sustainable Development, State of Hawaii; PO Box 2359, Honolulu, HI 96804; (808) 587-2846; email: gis@hawaii.gov; Website: https://planning.hawaii.gov/gis.NOTE: This layer is maintained by the C&amp;amp;C of Honolulu HOLIS. It
+ is provided on the State of Hawaii GIS ArcGIS Online and downloading sites as a service to
+ the public. Data is downloaded from the C&amp;amp;C website periodically. To obtain the latest version of the Oahu Street Centerline layer, users should visit the HOLIS Open Geospatial Data Portal at https://honolulu-cchnl.opendata.arcgis.com/. </abstract>
+            <purpose>Roads - Honolulu County, as of May, 2021.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Oahu</themekey>
+                <themekey>Roads</themekey>
+                <themekey>Hawaii</themekey>
+                <themekey>Honolulu</themekey>
+                <themekey>Streets</themekey>
+                <themekey>Transportation</themekey>
+                <themekey>Centerlines</themekey>
+                <themekey>HawaiiStateGIS</themekey>
+                <themekey>histategis</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>State of Hawaii Terms of Use. 
+
+
+
+The
+ contents of this web page are public domain and to the extent indicated
+ otherwise in the Terms of Use, are exempt from Terms of Use policy 
+restrictions.There are no expressed warranties associated with the 
+release of this data or product. Specifically, no warranty is made that 
+the GIS data or any subsequent updates will be error free and no 
+warranty is made regarding the positional or thematic accuracy of the 
+GIS data. The GIS data and any features depicted do not represent or 
+confer any legal rights, privileges, benefits, boundaries or claims of 
+any kind. The Office of Planning and Sustainable Development encourages users to report any 
+discrepancies or errors found.  Contact: Hawaii Statewide GIS Program, Office of Planning and Sustainable Development, State of Hawaii; PO Box 2359, Honolulu, Hi. 96804; (808) 587-2846; email: gis@hawaii.gov. Website: https://planning.hawaii.gov/gis.</useconst>
+        <datacred>Hawaii Statewide GIS Program, HOLIS</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20190329</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
