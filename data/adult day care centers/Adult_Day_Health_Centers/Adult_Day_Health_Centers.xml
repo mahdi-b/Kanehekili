@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Adult Day Health Centers</title>
+                <onlink>https://geodata.hawaii.gov/arcgis/rest/services/HumanHealthSafety/MapServer/9</onlink>
+                <onlink>https://files.hawaii.gov/dbedt/op/gis/data/Adult_Day_Health_Centers.pdf</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>[Metadata] Locations of adult day health centers in the State of Hawaii as of November 2021. Source: Created by Hawaii Statewide GIS Program from data downloaded from Hawaii State Department of Health Office of Health Care Assurance (OHCA), November 2021. For more information, please see metadata at https://files.hawaii.gov/dbedt/op/gis/data/Adult_Day_Health_Centers.pdf or contact Hawaii Statewide GIS Program, Office of Planning and Sustainable Development, State of Hawaii; PO Box 2359, Honolulu, Hi. 96804; (808) 587-2846; email: gis@hawaii.gov; Website: https://planning.hawaii.gov/gis.</abstract>
+            <purpose>Locations of adult day health centers in the State of Hawaii as of November 2021.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>adult day care</themekey>
+                <themekey>disabilities</themekey>
+                <themekey>respite care</themekey>
+                <themekey>elder care</themekey>
+                <themekey>health</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>State of Hawaii Terms of Use. 
+
+
+
+The
+ contents of this web page are public domain and to the extent indicated
+ otherwise in the Terms of Use, are exempt from Terms of Use policy 
+restrictions.There are no expressed warranties associated with the 
+release of this data or product. Specifically, no warranty is made that 
+the GIS data or any subsequent updates will be error free and no 
+warranty is made regarding the positional or thematic accuracy of the 
+GIS data. The GIS data and any features depicted do not represent or 
+confer any legal rights, privileges, benefits, boundaries or claims of 
+any kind. The Office of Planning and Sustainable Development encourages users to report any 
+discrepancies or errors found.  Contact: Hawaii Statewide GIS Program, Office of Planning and Sustainable Development, State of Hawaii; PO Box 2359, Honolulu, Hi. 96804; (808) 587-2846; email: gis@hawaii.gov. Website: https://planning.hawaii.gov/gis.</useconst>
+        <datacred>Hawaii State Department of Health, Office of Health Care Assurance (OHCA); Hawaii Statewide GIS Program</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20200921</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

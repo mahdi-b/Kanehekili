@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Special_Treatment_Facilities" id="Special_Treatment_Facilities">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="city" type="string"></SimpleField>
+	<SimpleField name="zipcode" type="int"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+	<SimpleField name="phone_numb" type="float"></SimpleField>
+	<SimpleField name="license_ex" type="string"></SimpleField>
+	<SimpleField name="license_nu" type="string"></SimpleField>
+</Schema>
+<Folder><name>Special_Treatment_Facilities</name>
+  <Placemark>
+	<name>Aloha House, Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="address">4593 Ike Drive</SimpleData>
+		<SimpleData name="city">Makawao</SimpleData>
+		<SimpleData name="zipcode">96768</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="phone_numb">8085798414</SimpleData>
+		<SimpleData name="license_ex">2022/05/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">28-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.341708565439,20.8850358634499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Benchmark Behavioral Health System, Inc</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="address">2501 Waimano Home Road</SimpleData>
+		<SimpleData name="city">Pearl City</SimpleData>
+		<SimpleData name="zipcode">96782</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8084541411</SimpleData>
+		<SimpleData name="license_ex">2022/01/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">69-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.952037193624,21.416600729192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bobby Benson Center</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="address">56-660 Kamehameha Highway</SimpleData>
+		<SimpleData name="city">Kahuku</SimpleData>
+		<SimpleData name="zipcode">96731</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8082937555</SimpleData>
+		<SimpleData name="license_ex">2022/10/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">53-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.954316791247,21.6787084253384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>C.A.R.E. Cottage - Hilo</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="address">100-A Apoke Street</SimpleData>
+		<SimpleData name="city">Hilo</SimpleData>
+		<SimpleData name="zipcode">96720</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone_numb">8089349411</SimpleData>
+		<SimpleData name="license_ex">2022/01/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">79-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.118634359247,19.7103168555111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>C.A.R.E. Cottage - Hilo #2</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="address">100 Apoke Street</SimpleData>
+		<SimpleData name="city">Hilo</SimpleData>
+		<SimpleData name="zipcode">96720</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone_numb">8089349411</SimpleData>
+		<SimpleData name="license_ex">2022/01/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">81-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.118556402136,19.7103079584356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E Ho'oulu Hou Program Elua Facility</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="address">2848 Park Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96822</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8085274673</SimpleData>
+		<SimpleData name="license_ex">2022/04/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">73-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.83987202756,21.3341682159881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Emergency Shelter/Emergency Respite</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="address">94-483 Apowale Street</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zipcode">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8085333936</SimpleData>
+		<SimpleData name="license_ex">2022/01/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">90-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.016483620131,21.3868470035724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Habilitat, Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="address">45-035 Kuhonu Place</SimpleData>
+		<SimpleData name="city">Kaneohe</SimpleData>
+		<SimpleData name="zipcode">96744</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8082357214</SimpleData>
+		<SimpleData name="license_ex">2022/05/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">23-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.787241235288,21.4128891198435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawaii Island Recovery</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="address">73-4697 Hinalani Street</SimpleData>
+		<SimpleData name="city">Kailua-Kona</SimpleData>
+		<SimpleData name="zipcode">96740</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone_numb">8083291281</SimpleData>
+		<SimpleData name="license_ex">2022/01/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">106-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.979662229934,19.6915727501581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hina Mauka</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="address">45-845 Pookela Street</SimpleData>
+		<SimpleData name="city">Kaneohe</SimpleData>
+		<SimpleData name="zipcode">96744</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8082362600</SimpleData>
+		<SimpleData name="license_ex">2021/11/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">52-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.810105973556,21.4048875080245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ho'omau Ke Ola I</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="address">84-1006 Farrington Highway</SimpleData>
+		<SimpleData name="city">Waianae</SimpleData>
+		<SimpleData name="zipcode">96792</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8086964266</SimpleData>
+		<SimpleData name="license_ex">2022/05/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">39-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.211413965385,21.4625434495643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ho'omau Ke Ola II</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">12</SimpleData>
+		<SimpleData name="address">84-1006A Farrington Highway</SimpleData>
+		<SimpleData name="city">Waianae</SimpleData>
+		<SimpleData name="zipcode">96792</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8086964266</SimpleData>
+		<SimpleData name="license_ex">2022/05/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">61-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.210192916577,21.4618744987356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hope Treatment Services</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">13</SimpleData>
+		<SimpleData name="address">360 California Avenue</SimpleData>
+		<SimpleData name="city">Wahiawa</SimpleData>
+		<SimpleData name="zipcode">96786</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8086384491</SimpleData>
+		<SimpleData name="license_ex">2022/07/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">103-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.030639630204,21.4955761918329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HSH State Operated Specialized Residential Program</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">14</SimpleData>
+		<SimpleData name="address">45-710 Keaahala Road</SimpleData>
+		<SimpleData name="city">Kaneohe</SimpleData>
+		<SimpleData name="zipcode">96744</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8082356047</SimpleData>
+		<SimpleData name="license_ex">2022/01/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">93-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.810021385891,21.4094912912562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ka Pa Ola</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">15</SimpleData>
+		<SimpleData name="address">94-371 Kahuawai Street</SimpleData>
+		<SimpleData name="city">Waipahu</SimpleData>
+		<SimpleData name="zipcode">96797</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8086714484</SimpleData>
+		<SimpleData name="license_ex">2022/06/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">59-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.996701139728,21.3927786708592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ku Ho'omana Family Intervention Services</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">16</SimpleData>
+		<SimpleData name="address">1786 Kinoole Street</SimpleData>
+		<SimpleData name="city">Hilo</SimpleData>
+		<SimpleData name="zipcode">96720</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone_numb">8089595855</SimpleData>
+		<SimpleData name="license_ex">2021/12/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">105-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.070086557084,19.6958516722746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Likini Licensed Crisis Residential Services</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">17</SimpleData>
+		<SimpleData name="address">5165 Likini Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96818</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8087916193</SimpleData>
+		<SimpleData name="license_ex">2022/01/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">94-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.909337031155,21.3466384210245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nova Luna, Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">18</SimpleData>
+		<SimpleData name="address">470 Lilihua Place</SimpleData>
+		<SimpleData name="city">Wailuku</SimpleData>
+		<SimpleData name="zipcode">96749</SimpleData>
+		<SimpleData name="island">Maui</SimpleData>
+		<SimpleData name="phone_numb">8083836698</SimpleData>
+		<SimpleData name="license_ex">2022/03/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">98-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.483993351109,20.9078039920439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pearl City Specialized Residential Services Population</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">19</SimpleData>
+		<SimpleData name="address">1668 Hoohulu Street</SimpleData>
+		<SimpleData name="city">Pearl City</SimpleData>
+		<SimpleData name="zipcode">96782</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8084559682</SimpleData>
+		<SimpleData name="license_ex">2022/01/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">92-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.957307237426,21.4044721787585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pearl Haven</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">20</SimpleData>
+		<SimpleData name="address">58-130 Kamehameha Highway</SimpleData>
+		<SimpleData name="city">Haleiwa</SimpleData>
+		<SimpleData name="zipcode">96712</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8084453131</SimpleData>
+		<SimpleData name="license_ex">2022/03/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">107-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.022609727745,21.6878594382291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Po'ailani Dual Diagnosis Program</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">21</SimpleData>
+		<SimpleData name="address">553-A Kawainui Street</SimpleData>
+		<SimpleData name="city">Kailua</SimpleData>
+		<SimpleData name="zipcode">96734</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8082631065</SimpleData>
+		<SimpleData name="license_ex">2022/08/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">37-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.747437753955,21.3961575392933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Po'ailani Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">22</SimpleData>
+		<SimpleData name="address">45-567 Pahia Road</SimpleData>
+		<SimpleData name="city">Kaneohe</SimpleData>
+		<SimpleData name="zipcode">96744</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8082478654</SimpleData>
+		<SimpleData name="license_ex">2021/11/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">96-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.803841858951,21.4155741885363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salvation Army Addiction Treatment Services</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">23</SimpleData>
+		<SimpleData name="address">3624 Waokanaka Street</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96817</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8085956371</SimpleData>
+		<SimpleData name="license_ex">2022/03/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">13-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.831554656405,21.3445044971898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sand Island Treatment Center</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">24</SimpleData>
+		<SimpleData name="address">1240 Sand Island Access Road</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96817</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8088412319</SimpleData>
+		<SimpleData name="license_ex">2021/11/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">1-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.890633472165,21.3237306135679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Exclusive Addiction Treatment Center</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">25</SimpleData>
+		<SimpleData name="address">31-631 Old Mamalahoa Highway</SimpleData>
+		<SimpleData name="city">Hakalau</SimpleData>
+		<SimpleData name="zipcode">96710</SimpleData>
+		<SimpleData name="island">Big Island</SimpleData>
+		<SimpleData name="phone_numb">8087750200</SimpleData>
+		<SimpleData name="license_ex">2022/03/31 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">104-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.123299330152,19.8918695723722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Women's Way</name>
+	<ExtendedData><SchemaData schemaUrl="#Special_Treatment_Facilities">
+		<SimpleData name="objectid">26</SimpleData>
+		<SimpleData name="address">845 22nd Avenue</SimpleData>
+		<SimpleData name="city">Honolulu</SimpleData>
+		<SimpleData name="zipcode">96817</SimpleData>
+		<SimpleData name="island">Oahu</SimpleData>
+		<SimpleData name="phone_numb">8087322802</SimpleData>
+		<SimpleData name="license_ex">2022/06/30 00:00:00+00</SimpleData>
+		<SimpleData name="license_nu">32-STF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.79185111698,21.2720744156283</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

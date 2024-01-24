@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Hospice_Facilities" id="Hospice_Facilities">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+	<SimpleField name="mailing_address" type="string"></SimpleField>
+	<SimpleField name="physical_address" type="string"></SimpleField>
+	<SimpleField name="phone" type="string"></SimpleField>
+	<SimpleField name="alt_phone" type="string"></SimpleField>
+	<SimpleField name="fax" type="string"></SimpleField>
+	<SimpleField name="poc" type="string"></SimpleField>
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="medicare" type="string"></SimpleField>
+	<SimpleField name="inpatient" type="string"></SimpleField>
+	<SimpleField name="provider_num" type="int"></SimpleField>
+</Schema>
+<Folder><name>Hospice_Facilities</name>
+  <Placemark>
+	<name>BRISTOL HOSPICE – HAWAII, LLC</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospice_Facilities">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">55 Merchant Street, Suite 2900, Honolulu, Hawaii  96813</SimpleData>
+		<SimpleData name="physical_address">55 Merchant Street, Suite 2900, Honolulu, Hawaii  96813</SimpleData>
+		<SimpleData name="phone">(808) 536-8012</SimpleData>
+		<SimpleData name="fax">(808) 536-8013</SimpleData>
+		<SimpleData name="poc">Tara DeMarco, Executive Director</SimpleData>
+		<SimpleData name="website">https://bristolhospice-hawaii.com/</SimpleData>
+		<SimpleData name="medicare">Yes</SimpleData>
+		<SimpleData name="provider_num">121508</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.863586499919,21.309119999785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HOSPICE HAWAII-MOLOKA’I (EXTENSION UNIT)</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospice_Facilities">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="island">MOLOKAI</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 408, Kaunakakai, Hawaii  96748</SimpleData>
+		<SimpleData name="physical_address">28 Kamoi Street, Suite 700, Kaunakakai, Hawaii  96748</SimpleData>
+		<SimpleData name="phone">(808) 553-4310</SimpleData>
+		<SimpleData name="fax">(808) 553-3183</SimpleData>
+		<SimpleData name="poc">Cathy Karras, LPN</SimpleData>
+		<SimpleData name="website">https://www.nhpco.org/providers/hospice-hawaii-molokai</SimpleData>
+		<SimpleData name="medicare">Yes</SimpleData>
+		<SimpleData name="provider_num">121501</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.019799951563,21.090084137557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HOSPICE MAUI</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospice_Facilities">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="island">MAUI</SimpleData>
+		<SimpleData name="mailing_address">400 Mahalani Street, Wailuku, Hawaii  96793</SimpleData>
+		<SimpleData name="physical_address">400 Mahalani Street, Wailuku, Hawaii  96793</SimpleData>
+		<SimpleData name="phone">(808) 244-5555</SimpleData>
+		<SimpleData name="fax">(808) 244-5557</SimpleData>
+		<SimpleData name="poc">R. Gregory Lagoy, Executive Director</SimpleData>
+		<SimpleData name="website">https://www.hospicemaui.org/</SimpleData>
+		<SimpleData name="medicare">Yes</SimpleData>
+		<SimpleData name="inpatient">Yes</SimpleData>
+		<SimpleData name="provider_num">121504</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.490899720703,20.8830055533728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HOSPICE OF HILO</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospice_Facilities">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">1011 Waianuenue Avenue, Hilo, Hawaii  96720</SimpleData>
+		<SimpleData name="physical_address">1011 Waianuenue Avenue, Hilo, Hawaii  96720</SimpleData>
+		<SimpleData name="phone">(808) 969-1733</SimpleData>
+		<SimpleData name="fax">(808) 969-4863</SimpleData>
+		<SimpleData name="poc">Brenda Ho</SimpleData>
+		<SimpleData name="website">https://www.hawaiicarechoices.org/</SimpleData>
+		<SimpleData name="medicare">Yes</SimpleData>
+		<SimpleData name="inpatient">Yes</SimpleData>
+		<SimpleData name="provider_num">121503</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.10657420801,19.7172149222949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HOSPICE OF KONA</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospice_Facilities">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 4130, Kailua-Kona, Hawaii  96745-4130</SimpleData>
+		<SimpleData name="physical_address">75-5925 Walua Road, Suite 101, Kailua-Kona, Hawaii  96740</SimpleData>
+		<SimpleData name="phone">(808) 324-7700</SimpleData>
+		<SimpleData name="fax">(808) 324-7722</SimpleData>
+		<SimpleData name="poc">Laura Varney, Executive Director</SimpleData>
+		<SimpleData name="website">https://hospiceofkona.org/</SimpleData>
+		<SimpleData name="medicare">Yes</SimpleData>
+		<SimpleData name="provider_num">121505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.984853610289,19.6279326868288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ISLANDS HOSPICE</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospice_Facilities">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">820 Mililani Street, Suite 400, Honolulu, Hawaii 96813</SimpleData>
+		<SimpleData name="physical_address">820 Mililani Street, Suite 400, Honolulu, Hawaii 96813</SimpleData>
+		<SimpleData name="phone">(808) 550-2552</SimpleData>
+		<SimpleData name="fax">(808) 550-2551</SimpleData>
+		<SimpleData name="poc">Trish Arredondo, Executive Director/Administrator</SimpleData>
+		<SimpleData name="website">https://www.islandshospice.com/</SimpleData>
+		<SimpleData name="medicare">Yes</SimpleData>
+		<SimpleData name="inpatient">Yes</SimpleData>
+		<SimpleData name="provider_num">121509</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.861957500044,21.304979999675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAUAI HOSPICE</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospice_Facilities">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="island">KAUAI</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 3286, Lihue, Hawaii  96766</SimpleData>
+		<SimpleData name="physical_address">4457 Pahe’e Street, Lihue, Hawaii  96766</SimpleData>
+		<SimpleData name="phone">(808) 245-7277</SimpleData>
+		<SimpleData name="fax">(808) 245-5006</SimpleData>
+		<SimpleData name="poc">Lori J. Miller, Executive Director</SimpleData>
+		<SimpleData name="website">http://kauaihospice.org/</SimpleData>
+		<SimpleData name="medicare">Yes</SimpleData>
+		<SimpleData name="provider_num">121507</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.384250399652,21.9695105057238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MALAMA OLA HEALTH SERVICES LLC</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospice_Facilities">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">2459 10th Avenue, Upper Cottage, Honolulu, Hawaii 96816</SimpleData>
+		<SimpleData name="physical_address">2459 10th Avenue, Upper Cottage, Honolulu, Hawaii 96816</SimpleData>
+		<SimpleData name="phone">(808) 543-1188</SimpleData>
+		<SimpleData name="fax">(808) 543-1189</SimpleData>
+		<SimpleData name="poc">Michael Duick, MD, Executive Director</SimpleData>
+		<SimpleData name="website">https://malamaolacares.com/</SimpleData>
+		<SimpleData name="medicare">Yes</SimpleData>
+		<SimpleData name="provider_num">121511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.786335000389,21.3040889997394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NORTH HAWAII HOSPICE, INC.</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospice_Facilities">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">65-1328 Kawaihae Road, Kamuela, Hawaii  96743</SimpleData>
+		<SimpleData name="physical_address">65-1328 Kawaihae Road, Kamuela, Hawaii  96743</SimpleData>
+		<SimpleData name="phone">(808) 885-7547</SimpleData>
+		<SimpleData name="fax">(808) 885-5592</SimpleData>
+		<SimpleData name="poc">Katherine Werner Ciano, MHA, BSN, Executive Director</SimpleData>
+		<SimpleData name="website">https://northhawaiihospice.org/</SimpleData>
+		<SimpleData name="medicare">Yes</SimpleData>
+		<SimpleData name="provider_num">121506</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.67784538463,20.0227342501964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NAVIAN HAWAII</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospice_Facilities">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">860 Iwilei Road, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="physical_address">Inpatient Location, 566 Papalani Street, Kailua, Hawaii 96734</SimpleData>
+		<SimpleData name="phone">(808) 924-9255</SimpleData>
+		<SimpleData name="fax">(808) 922-9161</SimpleData>
+		<SimpleData name="poc">Tori Abe Carapelho, President &amp; CEO</SimpleData>
+		<SimpleData name="website">https://www.navianhawaii.org</SimpleData>
+		<SimpleData name="medicare">Yes</SimpleData>
+		<SimpleData name="inpatient">Yes</SimpleData>
+		<SimpleData name="provider_num">121501</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.733002687116,21.3878845928689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ST. FRANCIS HOSPICE</name>
+	<ExtendedData><SchemaData schemaUrl="#Hospice_Facilities">
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">24 Puiwa Road, Honolulu, Hawaii  96817</SimpleData>
+		<SimpleData name="physical_address">24 Puiwa Road, Honolulu, Hawaii  96817</SimpleData>
+		<SimpleData name="phone">(808) 595-7566</SimpleData>
+		<SimpleData name="fax">(808) 595-6996</SimpleData>
+		<SimpleData name="poc">Holly Davis, MS, APRN, Executive Director</SimpleData>
+		<SimpleData name="website">https://www.stfrancishawaii.org/services/hospice</SimpleData>
+		<SimpleData name="medicare">Yes</SimpleData>
+		<SimpleData name="inpatient">Yes</SimpleData>
+		<SimpleData name="provider_num">121500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.837342499652,21.3366419998147</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

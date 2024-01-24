@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Adult_Day_Health_Centers" id="Adult_Day_Health_Centers">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="island" type="string"></SimpleField>
+	<SimpleField name="mailing_address" type="string"></SimpleField>
+	<SimpleField name="physical_address" type="string"></SimpleField>
+	<SimpleField name="phone" type="string"></SimpleField>
+	<SimpleField name="alternate_phone" type="string"></SimpleField>
+	<SimpleField name="fax" type="string"></SimpleField>
+	<SimpleField name="poc" type="string"></SimpleField>
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="provider_based" type="string"></SimpleField>
+	<SimpleField name="free_standing" type="string"></SimpleField>
+</Schema>
+<Folder><name>Adult_Day_Health_Centers</name>
+  <Placemark>
+	<name>ANN PEARL NURSING FACILITY</name>
+	<ExtendedData><SchemaData schemaUrl="#Adult_Day_Health_Centers">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">45-181 Waikalua Road, Kaneohe, Hawaii 96744</SimpleData>
+		<SimpleData name="physical_address">45-181 Waikalua Road, Kaneohe, Hawaii 96744</SimpleData>
+		<SimpleData name="phone">(808) 247-8558</SimpleData>
+		<SimpleData name="fax">(808) 247-4115</SimpleData>
+		<SimpleData name="poc">Robin Fortin, Adminstrator</SimpleData>
+		<SimpleData name="website">https://ohanapacific.com/locations/oahu/kaneohe/ann-pearl/</SimpleData>
+		<SimpleData name="provider_based">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.795129050175,21.4145301699054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARCADIA ADULT DAY CARE &amp; DAY HEALTH CENTER AT CENTRAL UNION CHURCH</name>
+	<ExtendedData><SchemaData schemaUrl="#Adult_Day_Health_Centers">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1660 South Beretania Street, Honolulu, Hawaii 96826</SimpleData>
+		<SimpleData name="physical_address">1660 South Beretania Street, Honolulu, Hawaii 96826</SimpleData>
+		<SimpleData name="phone">(808) 440-3020</SimpleData>
+		<SimpleData name="fax">(808) 440-3084</SimpleData>
+		<SimpleData name="poc">Stacey Young, COO</SimpleData>
+		<SimpleData name="website">https://arcadia.org/central-union</SimpleData>
+		<SimpleData name="free_standing">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.834390043358,21.2983765527997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALE MAKUA (KAHULUI)</name>
+	<ExtendedData><SchemaData schemaUrl="#Adult_Day_Health_Centers">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="island">MAUI</SimpleData>
+		<SimpleData name="mailing_address">472 Kaulana Street, Kahului, Hawaii 96732</SimpleData>
+		<SimpleData name="physical_address">472 Kaulana Street, Kahului, Hawaii 96732</SimpleData>
+		<SimpleData name="phone">(808) 877-2761</SimpleData>
+		<SimpleData name="fax">(808) 871-9262</SimpleData>
+		<SimpleData name="poc">Ted Tucker, Administrator</SimpleData>
+		<SimpleData name="website">https://www.halemakua.org/</SimpleData>
+		<SimpleData name="provider_based">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.476251054966,20.8791586640646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAU HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Adult_Day_Health_Centers">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">P.O. Box 40, Pahala, Hawaii 96777</SimpleData>
+		<SimpleData name="physical_address">1 Kamani Street, Pahala, Hawaii 96777</SimpleData>
+		<SimpleData name="phone">(808) 928-2050</SimpleData>
+		<SimpleData name="fax">(808) 928-8980</SimpleData>
+		<SimpleData name="poc">Merilyn Harris, Administrator</SimpleData>
+		<SimpleData name="website">https://www.kauhospital.org/</SimpleData>
+		<SimpleData name="provider_based">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.47200389435,19.2629167094653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KAUAI ADULT DAY HEALTH CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#Adult_Day_Health_Centers">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="island">KAUAI</SimpleData>
+		<SimpleData name="mailing_address">3-3420 Kuhio Highway, Suite 300, Lihue, Hawaii 96766</SimpleData>
+		<SimpleData name="physical_address">2943 Kress Street, Lihue, Hawaii 96766</SimpleData>
+		<SimpleData name="phone">(808) 246-6919</SimpleData>
+		<SimpleData name="fax">(808) 246-6919</SimpleData>
+		<SimpleData name="poc">Kurt Akamine, Administrator</SimpleData>
+		<SimpleData name="website">https://ohanapacific.com/locations/kauai/lihue/kauai-adult-day-health-center/</SimpleData>
+		<SimpleData name="free_standing">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.366397774873,21.9855807398364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LEAHI HOSPITAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Adult_Day_Health_Centers">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">3675 Kilauea Avenue, Honolulu, Hawaii 96816</SimpleData>
+		<SimpleData name="physical_address">3675 Kilauea Avenue, Honolulu, Hawaii 96816</SimpleData>
+		<SimpleData name="phone">(808) 733-8000</SimpleData>
+		<SimpleData name="fax">(808) 733-7914</SimpleData>
+		<SimpleData name="poc">Vincent H. S. Lee, Oahu Regional CEO</SimpleData>
+		<SimpleData name="website">https://leahi.hhsc.org/</SimpleData>
+		<SimpleData name="provider_based">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.801401604156,21.2737158296642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MALUHIA</name>
+	<ExtendedData><SchemaData schemaUrl="#Adult_Day_Health_Centers">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">1027 Hala Drive, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="physical_address">1027 Hala Drive, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="phone">(808) 832-3000</SimpleData>
+		<SimpleData name="fax">(808) 832-3039</SimpleData>
+		<SimpleData name="poc">Derek Akiyoshi, Administrator</SimpleData>
+		<SimpleData name="website">https://maluhia.hhsc.org/</SimpleData>
+		<SimpleData name="provider_based">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.861649869393,21.3294242785256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SALVATION ARMY ADULT DAY HEALTH SERVICES</name>
+	<ExtendedData><SchemaData schemaUrl="#Adult_Day_Health_Centers">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="island">OAHU</SimpleData>
+		<SimpleData name="mailing_address">296 North Vineyard Boulevard, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="physical_address">296 North Vineyard Boulevard, Honolulu, Hawaii 96817</SimpleData>
+		<SimpleData name="phone">(808) 521-6551</SimpleData>
+		<SimpleData name="fax">(808) 521-9955</SimpleData>
+		<SimpleData name="poc">Stacy Honma, Administrator</SimpleData>
+		<SimpleData name="website">https://hawaii.salvationarmy.org/hawaii/adhs</SimpleData>
+		<SimpleData name="free_standing">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.860197719153,21.3176298599104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>YUKIO OKUTSU STATE VETERANS HOME</name>
+	<ExtendedData><SchemaData schemaUrl="#Adult_Day_Health_Centers">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="island">HAWAII</SimpleData>
+		<SimpleData name="mailing_address">1180 Waianuenue Avenue, Hilo, Hawaii 96720</SimpleData>
+		<SimpleData name="physical_address">1180 Waianuenue Avenue, Hilo, Hawaii 96720</SimpleData>
+		<SimpleData name="phone">(808) 961-1500</SimpleData>
+		<SimpleData name="poc">Douglas Taylor, Administrator</SimpleData>
+		<SimpleData name="website">https://www.hilomedicalcenter.org/about-us/yukio-okutsu-state-veterans-home/</SimpleData>
+		<SimpleData name="provider_based">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.112635632829,19.7175704800608</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
