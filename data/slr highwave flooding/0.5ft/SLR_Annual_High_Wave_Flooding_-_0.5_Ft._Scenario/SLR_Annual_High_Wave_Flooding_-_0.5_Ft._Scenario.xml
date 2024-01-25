@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <origin/>
+                <origin/>
+                <pubdate>20171221</pubdate>
+                <title>slr_hi_wave_fld_0_pt_5_ft</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Hawaii is exposed to large waves annually on all open coasts due to its location in the Central North Pacific Ocean. The distance over which waves run-up and wash across the shoreline will increase with sea level rise. As water levels increase, less wave energy will be dissipated through breaking on nearshore reefs and waves will arrive at a higher elevation at the shoreline. Computer model simulations of future annual high wave flooding were conducted by the University of Hawaii Coastal Geology Group using the XBeach (for eXtreme Beach behavior) numerical model developed by a consortium of research institutions. The model propagates the maximum annually recurring wave, calculated from offshore wave buoy data, over the reef and to the shore along one-dimensional (1D) cross-shore profiles extracted from a 1-meter DEM. Profiles are spaced 20 meters apart along the coast. This approach was used to model the transformation of the wave as it breaks across the reef and includes shallow water wave processes such as wave set-up and overtopping. The IPCC AR5 RCP8.5 sea level rise scenario was used in modeling exposure to annual high wave flooding from sea level rise at 0.5, 1.1, 2.0, and 3.2 feet. This particular layer depicts annual high wave flooding using the 0.5-ft (0.1660-m) sea level rise scenario. While the RCP8.5 predicts that this scenario would be reached by the year 2030, questions remain around the exact timing of sea level rise and recent observations and projections suggest a sooner arrival. Historical data used to model annual high wave flooding include hourly measurements of significant wave height, peak wave period, and peak wave direction, and was acquired from offshore wave buoy data from PacIOOS. Maximum surface elevation and depth of the annual high wave flooding is calculated from the mean of the five highest modeled water elevations at each model location along each profile. Output from the simulations is interpolated between transects and compiled in a 5-meter map grid. Depth grid cells with values less than 10 centimeters are not included in the impact assessment. This was done to remove very thin layers of water excursions that (1) are beyond the accuracy of the model and (2) might not constitute a significant impact to land and resources when only occurring once annually. Any low-lying flooded areas that are not connected to the ocean are also removed. Annual high wave flood modeling covered wave-exposed coasts with low-lying development on Maui, Oahu, and Kauai. Annual high wave flooding was not available for the islands of Hawaii, Molokai, and Lanai, nor for harbors or other back-reef areas throughout all the islands. Additional studies would be needed to add the annual high wave flooding for those areas. The maximum annually recurring wave parameters (significant wave height, period, direction) were statistically determined using historical wave climate records and do not include potential changes in future wave climate, the effects of storm surge, or less-frequent high wave events (e.g., a 1-in-10 year wave event). In some locations, the extent of flooding modeled was limited by the extent of the 1-meter DEM. Changes in shoreline location due to coastal erosion are not included in this modeling. As shorelines retreat, annual high wave flooding will reach farther inland along retreating shorelines. Waves are propagated along a &amp;quot;bare earth&amp;quot; DEM which is void of shoreline structures, buildings, and vegetation, and waves are assumed to flow over an impermeable surface. The DEM represents a land surface at one particular time, and may not be representative of the beach shape during the season of most severe wave impact, particularly for highly variable north and west-exposed beaches. Undesirable artifacts of 1D modeling include over-predicted flooding along some transects with deep, shore-perpendicular indentations in the sea bottom such as nearshore reef channels. The 1D modeling does not account for the presence of nearby shallow reef which refracts and dissipates some of the wave energy traveling through the channel toward the shore. Wave flooding modeling may be improved in future efforts by employing more complex and data-intensive 2D modeling and through local field experiments. Data compiled by the Pacific Islands Ocean Observing System (PacIOOS) for the Hawaii Sea Level Rise Viewer hosted at https://pacioos.org/shoreline/slr-hawaii/. For further information, please see the Hawaii Sea Level Rise Vulnerability and Adaptation Report: https://climateadaptation.hawaii.gov/wp-content/uploads/2017/12/SLR-Report_Dec2017.pdf.</abstract>
+            <purpose>Estimated annual high wave flooding, modeled using a 0.5 foot sea level rise scenario.</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-159.788135633668</westbc>
+                <eastbc>-156.355298015467</eastbc>
+                <northbc>22.2305059290236</northbc>
+                <southbc>20.6188001066487</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>GCMD Science Keywords</themekt>
+                <themekey>Earth Science &gt; Oceans &gt; Ocean Waves &gt; Wave Runup</themekey>
+                <themekey>Earth Science &gt; Climate Indicators &gt; Atmospheric/Ocean Indicators &gt; Sea Level Rise &gt; Inundation</themekey>
+                <themekey>Earth Science &gt; Human Dimensions &gt; Environmental Impacts</themekey>
+                <themekey>Earth Science &gt; Oceans &gt; Coastal Processes &gt; Sea Level Rise</themekey>
+                <themekey>Earth Science &gt; Human Dimensions &gt; Natural Hazards &gt; Floods</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>environment</themekey>
+                <themekey>oceans</themekey>
+            </theme>
+            <place>
+                <placekt>GCMD Location Keywords</placekt>
+                <placekey>Continent &gt; North America &gt; United States Of America &gt; Hawaii</placekey>
+                <placekey>Ocean &gt; Pacific Ocean &gt; Central Pacific Ocean &gt; Hawaiian Islands &gt; Maui</placekey>
+                <placekey>Ocean &gt; Pacific Ocean &gt; Central Pacific Ocean &gt; Hawaiian Islands</placekey>
+                <placekey>Ocean &gt; Pacific Ocean &gt; Central Pacific Ocean &gt; Hawaiian Islands &gt; Oahu</placekey>
+                <placekey>Ocean &gt; Pacific Ocean &gt; Central Pacific Ocean &gt; Hawaiian Islands &gt; Kauai</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Use Limitation: Based on the methodology of sea level rise modeling used in the Hawaii Sea Level Rise Vulnerability and Adaptation Report (Report) and the Hawaii Sea Level Rise Viewer (Viewer), having gone through peer review and publication in the Nature Journal Scientific Reports, the results of this study are sufficiently validated to be appropriately used in land management decisions as the best available information as of the date of publication of the Report, December 2017, consistent with the intent of Act 83 SLH 2014 as amended. This Report is intended to provide a state-wide assessment of Hawaii's vulnerability to sea level rise. The location of projected impacts and economic costs from damages are estimates based on a particular sea level rise scenario. The hazard and vulnerability data and maps provided herein are based on observational data and computer-based models as described in the Report and in published research (Anderson et al., 2018). As with all models, it is important to understand the methods, assumptions, limitations, and uncertainties of the methods used. The risks associated with use or non-use of the results are assumed by the user.State of Hawaii Terms of Use. 
+
+
+
+The
+ contents of this web page are public domain and to the extent indicated
+ otherwise in the Terms of Use, are exempt from Terms of Use policy 
+restrictions.There are no expressed warranties associated with the 
+release of this data or product. Specifically, no warranty is made that 
+the GIS data or any subsequent updates will be error free and no 
+warranty is made regarding the positional or thematic accuracy of the 
+GIS data. The GIS data and any features depicted do not represent or 
+confer any legal rights, privileges, benefits, boundaries or claims of 
+any kind. The Office of Planning and Sustainable Development encourages users to report any 
+discrepancies or errors found.  Contact: Hawaii Statewide GIS Program, Office of Planning and Sustainable Development, State of Hawaii; PO Box 2359, Honolulu, Hi. 96804; (808) 587-2846; email: gis@hawaii.gov. Website: https://planning.hawaii.gov/gis.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>University of Hawaii Coastal Geology Group (CGG)</cntorg>
+                    <cntper>Charles Fletcher</cntper>
+                </cntorgp>
+                <cntvoice>Unknown</cntvoice>
+                <cntemail>fletcher@soest.hawaii.edu</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <browse>
+            <browsen>http://pacioos.org/metadata/browse/hi_hcgg_all_wave_flood_2030.png</browsen>
+            <browsed>Sample image.</browsed>
+            <browset>PNG</browset>
+        </browse>
+        <datacred>SOEST, UH CGG, PacIOOS</datacred>
+        <native>Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.1.9270</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>3</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>slr_hi_wave_fld_0_pt_5_ft</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Coordinates defining the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Id</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Area</attrlabl>
+                <attrdef>Area of feature in internal units squared.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Pacific Islands Ocean Observing System (PacIOOS)</cntorg>
+                </cntorgp>
+                <cntvoice>Unknown</cntvoice>
+                <cntemail>info@pacioos.org</cntemail>
+            </cntinfo>
+        </distrib>
+        <distliab>Unknown</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>GeoServer</formname>
+                    <formcont>This URL provides access to this dataset via GeoServer, which offers multiple output formats and an OpenLayers viewer.</formcont>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://geo.pacioos.hawaii.edu/geoserver/PACIOOS/hi_hcgg_all_wave_flood_2030/ows?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://pacioos.org/shoreline/slr-hawaii/</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://climateadaptation.hawaii.gov/wp-content/uploads/2017/12/SLR-Report_Dec2017.pdf</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://geo.pacioos.hawaii.edu/geoserver/</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://geo.pacioos.hawaii.edu/geoserver/PACIOOS/gwc/service/wms?service=WMS&amp;version=1.1.1&amp;request=GetCapabilities&amp;tiled=true</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://geo.pacioos.hawaii.edu/geoexplorer/</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://geo.pacioos.hawaii.edu/geoserver/PACIOOS/hi_hcgg_all_wave_flood_2030/ows?service=WFS&amp;version=1.0.0&amp;request=GetCapabilities</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                </digtopt>
+            </digform>
+            <fees>None specified</fees>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20190318</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>University of Hawaii Coastal Geology Group (CGG)</cntorg>
+                    <cntper>Charles Fletcher</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                </cntaddr>
+                <cntvoice>Unknown</cntvoice>
+                <cntemail>fletcher@soest.hawaii.edu</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
