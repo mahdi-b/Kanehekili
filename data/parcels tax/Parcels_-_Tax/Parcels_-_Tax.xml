@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Parcels - Tax</title>
+                <onlink>http://webserverholis.honolulugis.org/arcgis/rest/services/Public/Cadastral/MapServer/1</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This Data set is - Tax Parcels (TMK) There are there are three parcel types; 1) tax and regulatory, 2) tax,   and 3) regulatory. Type 1 are a combination of both Tax and Regulatory Parcels.Type 2 are Tax Parcels (TMK) which reflects divisions of property for the   purpose of assessment by Real Property.Type 3 are Regulatory depiction of parcels reflects the division of   property according to permitted applications for subdivision and consolidation   as processed by DPP.</abstract>
+            <purpose>Tax Parcels for the City and County of Honolulu. </purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-158.313823</westbc>
+                <eastbc>-157.621233</eastbc>
+                <northbc>21.718760</northbc>
+                <southbc>21.234502</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>honolulu</themekey>
+                <themekey>parcel</themekey>
+                <themekey>tax</themekey>
+                <themekey>oahu</themekey>
+                <themekey>cadastral</themekey>
+                <themekey>tmk</themekey>
+                <themekey>tax map key</themekey>
+                <themekey>parcel tmk</themekey>
+                <themekey>city county honolulu</themekey>
+                <themekey>HOLIS</themekey>
+                <themekey>honolulu gis</themekey>
+                <themekey>parcels</themekey>
+                <themekey>lots</themekey>
+                <themekey>property</themekey>
+                <themekey>zoning</themekey>
+                <themekey>address</themekey>
+                <themekey>TMK</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Information shown on these maps are derived from public records that are constantly undergoing change and do not replace a site survey, and is not warranted for content or accuracy. The City does not guarantee the positional or thematic accuracy of the GIS data. The GIS data or cartographic digital files are not a legal representation of any of the features in which it depicts, and disclaims any assumption of the legal status of which it represents. Any implied warranties, including warranties of merchantibility or fitness for a particular purpose, shall be expressly excluded. The City and County of Honolulu encourages GIS data users to verify the suitability of the data before use. Please report any discrepancies or errors found to gis@honolulu.gov.ors found to   gis@honolulu.gov</useconst>
+        <datacred>Honolulu Land Information System (HoLIS), Department of and Permitting, City and County of Honolulu</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20210708</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
